@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Central de Análise de TI - Dashboard</title>
+
+  <!-- Evitar cache do HTML no navegador -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+  <link rel="shortcut icon"
+    href="https://admin-ecommerce-02.lifeappsecommerce.com.br/images/favicon/18e934ba-8fbb-4ff0-86b5-2b3ade6cf760?cache=true">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/luxon@3.3.0/build/global/luxon.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-luxon@1.3.1/dist/chartjs-adapter-luxon.min.js"></script>
+
+  <!-- acrescentado cache-buster local -->
+  <link rel="stylesheet" href="style.css?v=nc">
+</head>
+
+<!-- tema escuro como padrão no primeiro paint -->
+
+<body>
+  <div class="container-fluid">
+    <header>
+      <div class="header-left" id="home-logo">
+        <h1><i class="fas fa-server"></i> Central de Análise de TI</h1>
+        <p>Monitoramento de recursos do sistema em tempo real</p>
+      </div>
+      <div class="header-right">
+        <button id="theme-toggle" class="theme-toggle" aria-label="Alternar tema"></button>
+        <span id="machine-count">0 máquinas</span>
+      </div>
+    </header>
+
+    <div class="controls">
+      <div class="filter-search">
+        <div class="search-box">
+          <i class="fas fa-search"></i>
+          <input type="text" id="search-input" placeholder="Pesquisar máquinas...">
+        </div>
+
+        <!-- Filtro por status -->
+        <select id="status-filter" class="filter-select">
+          <option value="all">Todos os status</option>
+          <option value="OK">OK</option>
+          <option value="Atenção">Atenção</option>
+          <option value="Crítico">Crítico</option>
+        </select>
+
+        <!-- ✅ NOVO: Filtro por tipo de disco -->
+        <select id="storage-filter" class="filter-select">
+          <option value="all">Todos os tipos de disco</option>
+          <option value="hdd">Apenas HDD</option>
+        </select>
+
+        <!-- Ordenação -->
+        <select id="sort-by" class="filter-select">
+          <option value="hostname">Ordenar por: Nome</option>
+          <option value="status">Ordenar por: Status</option>
+          <option value="timestamp">Ordenar por: Data</option>
+          <option value="ram_total_asc">Ordenar por: RAM total (↑)</option>
+          <!-- ✅ NOVO: RAM livre decrescente -->
+          <option value="ram_free_asc">Ordenar por: RAM livre (↑)</option>
+        </select>
+
+        <select id="time-range" class="filter-select" style="display: none;">
+          <option value="1">Últimas 24 horas</option>
+          <option value="7">Última semana</option>
+          <option value="30">Último mês</option>
+          <option value="90">Últimos 3 meses</option>
+        </select>
+      </div>
+
+      <div class="view-toggle">
+        <button class="view-btn active" id="view-dashboard"><i class="fas fa-chart-line"></i> Dashboard</button>
+        <button class="view-btn" id="view-machines"><i class="fas fa-server"></i> Máquinas</button>
+        <button class="view-btn" id="view-alerts"><i class="fas fa-bell"></i> Alertas</button>
+      </div>
+    </div>
+
+    <!-- Dashboard View -->
+    <div id="dashboard-view" class="dashboard-view">
+      <div class="stats-cards">
+        <div class="stat-card" id="stat-total">
+          <i class="fas fa-desktop"></i>
+          <h3 id="total-machines">0</h3>
+          <p>Máquinas Monitoradas</p>
+          <div class="stat-card-trend" id="trend-total"></div>
+        </div>
+        <div class="stat-card" id="stat-ok">
+          <i class="fas fa-check-circle"></i>
+          <h3 id="ok-machines">0</h3>
+          <p>Máquinas com Status OK</p>
+          <div class="stat-card-trend" id="trend-ok"></div>
+        </div>
+        <div class="stat-card" id="stat-warning">
+          <i class="fas fa-exclamation-triangle"></i>
+          <h3 id="warning-machines">0</h3>
+          <p>Máquinas com Atenção</p>
+          <div class="stat-card-trend" id="trend-warning"></div>
+        </div>
+        <div class="stat-card" id="stat-critical">
+          <i class="fas fa-exclamation-circle"></i>
+          <h3 id="critical-machines">0</h3>
+          <p>Máquinas Críticas</p>
+          <div class="stat-card-trend" id="trend-critical"></div>
+        </div>
+      </div>
+
+      <div class="dashboard-grid">
+        <div class="chart-container">
+          <div class="chart-header">
+            <div class="chart-title">Uso de Recursos Atual</div>
+            <div class="chart-actions">
+              <button class="chart-action-btn active" data-metric="memory">Memória</button>
+              <button class="chart-action-btn" data-metric="disk">Disco</button>
+              <button class="chart-action-btn" data-metric="temperature">Temperatura</button>
+            </div>
+          </div>
+          <canvas id="resources-chart" height="300"></canvas>
+        </div>
+
+        <div class="chart-container">
+          <div class="chart-header">
+            <div class="chart-title">Distribuição de Status</div>
+            <div class="chart-actions">
+              <button class="chart-action-btn active" data-chart-type="doughnut">Rosca</button>
+              <button class="chart-action-btn" data-chart-type="pie">Pizza</button>
+              <button class="chart-action-btn" data-chart-type="bar">Barras</button>
+            </div>
+          </div>
+          <canvas id="status-chart" height="250"></canvas>
+        </div>
+
+        <div class="chart-container">
+          <div class="chart-header">
+            <div class="chart-title">Alertas por Tipo</div>
+          </div>
+          <canvas id="alerts-chart" height="250"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Machines View -->
+    <div id="machines-view" class="machines-view" style="display: none;">
+      <div class="export-buttons">
+        <button class="btn btn-outline" id="export-json"><i class="fas fa-download"></i> Exportar JSON</button>
+        <button class="btn btn-outline" id="export-csv"><i class="fas fa-file-csv"></i> Exportar CSV</button>
+      </div>
+
+      <div id="machines-container" class="machines-grid">
+        <div class="loading">
+          <i class="fas fa-spinner fa-spin"></i>
+          <p>Carregando dados das máquinas...</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Alerts View -->
+    <div id="alerts-view" class="alerts-view" style="display: none;">
+      <div class="alerts-panel">
+        <h3><i class="fas fa-bell"></i> Alertas do Sistema</h3>
+        <div id="alerts-container">
+          <div class="loading">
+            <i class="fas fa-spinner fa-spin"></i>
+            <p>Carregando alertas...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal para detalhes da máquina -->
+  <div id="machine-modal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2><i class="fas fa-server"></i> <span id="modal-title">Detalhes da Máquina</span></h2>
+        <button class="close-modal">&times;</button>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <button id="refresh-btn" class="refresh-btn" aria-label="Atualizar dados">
+    <i class="fas fa-sync-alt"></i>
+  </button>
+
+  <!-- acrescentado cache-buster local -->
+  <script src="script.js?v=nc"></script>
+</body>
+
+</html>

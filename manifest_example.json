@@ -1,0 +1,42 @@
+[
+    {
+        "Hostname": "PC-01",
+        "Json": "machines_example/PC-01.json",
+        "TimestampUtc": "2025-09-04T14:46:43.402280Z",
+        "Status": "OK",
+        "OS": "Microsoft Windows 10 Pro",
+        "CollectionMode": "Completo"
+    },
+    {
+        "Hostname": "PC-02",
+        "Json": "machines_example/PC-02.json",
+        "TimestampUtc": "2025-09-04T14:46:43.403140Z",
+        "Status": "OK",
+        "OS": "Microsoft Windows 10 Pro",
+        "CollectionMode": "Completo"
+    },
+    {
+        "Hostname": "PC-03",
+        "Json": "machines_example/PC-03.json",
+        "TimestampUtc": "2025-09-04T14:46:43.404030Z",
+        "Status": "OK",
+        "OS": "Microsoft Windows 10 Pro",
+        "CollectionMode": "Completo"
+    },
+    {
+        "Hostname": "PC-04",
+        "Json": "machines_example/PC-04.json",
+        "TimestampUtc": "2025-09-04T14:46:43.404783Z",
+        "Status": "OK",
+        "OS": "Microsoft Windows 10 Pro",
+        "CollectionMode": "Completo"
+    },
+    {
+        "Hostname": "PC-05",
+        "Json": "machines_example/PC-05.json",
+        "TimestampUtc": "2025-09-04T14:46:43.406206Z",
+        "Status": "OK",
+        "OS": "Microsoft Windows Server 2016 Standard",
+        "CollectionMode": "Completo"
+    }
+]
