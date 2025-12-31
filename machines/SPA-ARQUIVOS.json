@@ -1,0 +1,668 @@
+﻿{
+    "Hostname":  "SPA-ARQUIVOS",
+    "TimestampUtc":  "2025-12-31T12:30:09.8035980Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows Server 2016 Standard",
+               "Version":  "10.0.14393",
+               "Build":  "14393",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1724711437000)\/",
+               "LastBoot":  "\/Date(1766599233397)\/",
+               "Uptime":  "6d 18h 29m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "12JG000ABO",
+                     "Family":  "ThinkCentre neo 50s Gen 4",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0ANBFZ",
+                     "User":  "BRASILDIST\\administrator"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M4ZKT46A",
+                 "ReleaseDate":  "\/Date(1745884800000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3339",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "13th Gen Intel(R) Core(TM) i3-13100",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3418,
+                "ProcessorId":  "BFEBFBFF000B06F5"
+            },
+    "GPU":  {
+                "Name":  "Microsoft Basic Display Adapter",
+                "DriverVersion":  "10.0.14393.0",
+                "DriverDate":  "\/Date(1150848000000)\/",
+                "VRAM_GB":  null,
+                "Resolution":  "1024x768",
+                "RefreshRate":  "1Hz",
+                "MaxRefreshRate":  "64Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "ITE",
+                                         "Name":  "DP2VGA V260",
+                                         "Model":  "6516",
+                                         "Serial":  "16777216",
+                                         "Week":  3,
+                                         "Year":  2015,
+                                         "SizeInches":  27.2,
+                                         "WidthCm":  60,
+                                         "HeightCm":  34,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\ITE6516\\4\u002632c006f6\u00260\u0026UID0_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1360,
+                                         "HeightPx":  768,
+                                         "Resolution":  "1360x768",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1360,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1360x768"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1024x768"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.68,
+                "FreeGB":  3.93,
+                "FreePercent":  51.2,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "Smart Modular",
+                                    "Part":  "SMU4WEC8C1K0464FCG  ",
+                                    "Serial":  "02764B7A",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  223.02,
+                                        "FreeGB":  109.72,
+                                        "FreePercent":  49.2,
+                                        "Health":  "Healthy"
+                                    },
+                                    {
+                                        "DriveLetter":  "D",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  931.39,
+                                        "FreeGB":  718.95,
+                                        "FreePercent":  77.2,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SNV2S1000G",
+                                      "Serial":  "0000_0000_0000_0000_0026_B778_569E_E7F5.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  931.51,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  },
+                                  {
+                                      "Model":  "Kingston SA400S37/240G",
+                                      "Serial":  "2308241000515",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.16.3"
+                             ],
+                    "MACs":  [
+                                 "04:D9:C8:60:CE:8E"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "04-D9-C8-60-CE-8E",
+                                         "IPv4":  [
+                                                      "192.168.16.3"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  39,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  39,
+                                              "Display":  "39,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  34,
+                                                  "Display":  "34,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "13th Gen Intel Core i3-13100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/6",
+                                                      "ValueC":  39,
+                                                      "MinC":  38,
+                                                      "MaxC":  39
+                                                  },
+                                                  {
+                                                      "HardwareName":  "KINGSTON SNV2S1000G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/nvme/1/temperature/0",
+                                                      "ValueC":  34,
+                                                      "MinC":  0,
+                                                      "MaxC":  34
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "svchost",
+                          "ID":  1360,
+                          "CPU":  2671.25,
+                          "MemoryMB":  30.76,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1766599241349)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  2300.62,
+                          "MemoryMB":  39.78,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1766599236307)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3576,
+                          "CPU":  2177.7,
+                          "MemoryMB":  692.91,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1766599257437)\/"
+                      },
+                      {
+                          "Name":  "tacticalrmm",
+                          "ID":  1672,
+                          "CPU":  965.03,
+                          "MemoryMB":  65.93,
+                          "Path":  "C:\\Program Files\\TacticalAgent\\tacticalrmm.exe",
+                          "StartTime":  "\/Date(1766667012534)\/"
+                      },
+                      {
+                          "Name":  "lsass",
+                          "ID":  804,
+                          "CPU":  590.66,
+                          "MemoryMB":  126.68,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1766599239963)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1728,
+                          "CPU":  364.03,
+                          "MemoryMB":  85.71,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1766599241422)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  7916,
+                          "CPU":  242.73,
+                          "MemoryMB":  61.96,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1766599304319)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  788,
+                          "CPU":  113.38,
+                          "MemoryMB":  13.35,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1766599239937)\/"
+                      },
+                      {
+                          "Name":  "EPIntegrationService",
+                          "ID":  3604,
+                          "CPU":  113.3,
+                          "MemoryMB":  70.95,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPIntegrationService.exe",
+                          "StartTime":  "\/Date(1766599257439)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1696,
+                          "CPU":  89.92,
+                          "MemoryMB":  21.12,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1766599241418)\/"
+                      },
+                      {
+                          "Name":  "ServerManager",
+                          "ID":  8680,
+                          "CPU":  77.02,
+                          "MemoryMB":  121.32,
+                          "Path":  "C:\\Windows\\system32\\ServerManager.exe",
+                          "StartTime":  "\/Date(1766599314373)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1140,
+                          "CPU":  76.12,
+                          "MemoryMB":  20.36,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1766599241154)\/"
+                      },
+                      {
+                          "Name":  "winvnc",
+                          "ID":  2832,
+                          "CPU":  74.23,
+                          "MemoryMB":  20.09,
+                          "Path":  "C:\\Program Files\\uvnc bvba\\UltraVNC\\WinVNC.exe",
+                          "StartTime":  "\/Date(1766603201504)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3424,
+                          "CPU":  71.8,
+                          "MemoryMB":  38.97,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1766599257430)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  8096,
+                          "CPU":  71.25,
+                          "MemoryMB":  105.31,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1766599312935)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "DNS",
+                         "DisplayName":  "Servidor DNS",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240826",
+                         "SizeMB":  1225.09
+                     },
+                     {
+                         "Name":  "Wondershare Recoverit(Build 13.5.7.9)",
+                         "Version":  "13.5.7.9",
+                         "Publisher":  "Wondershare Software Co.,Ltd.",
+                         "InstallDate":  "20250306",
+                         "SizeMB":  505.45
+                     },
+                     {
+                         "Name":  "Brave",
+                         "Version":  "143.1.85.118",
+                         "Publisher":  "Autores do Brave",
+                         "InstallDate":  "20251219",
+                         "SizeMB":  464.72
+                     },
+                     {
+                         "Name":  "Mozilla Firefox (x64 pt-BR)",
+                         "Version":  "143.0",
+                         "Publisher":  "Mozilla",
+                         "InstallDate":  null,
+                         "SizeMB":  309.27
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.8 (x64)",
+                         "Version":  "8.0.8.33916",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  217.16
+                     },
+                     {
+                         "Name":  "Microsoft Edge",
+                         "Version":  "143.0.3650.96",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20241119",
+                         "SizeMB":  174.13
+                     },
+                     {
+                         "Name":  "Google Chrome",
+                         "Version":  "143.0.7499.170",
+                         "Publisher":  "Google LLC",
+                         "InstallDate":  "20241119",
+                         "SizeMB":  120.71
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.8 (x64)",
+                         "Version":  "64.32.18376",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250306",
+                         "SizeMB":  97.93
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.8 (x64)",
+                         "Version":  "64.32.18380",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250306",
+                         "SizeMB":  92.8
+                     },
+                     {
+                         "Name":  "Dokan Library 1.5.1.1000 (x64)",
+                         "Version":  "1.5.1.1000",
+                         "Publisher":  "Dokany Project",
+                         "InstallDate":  "20250306",
+                         "SizeMB":  70.05
+                     },
+                     {
+                         "Name":  "Dokan Library 1.5.1.1000 Bundle",
+                         "Version":  "1.5.1.1000",
+                         "Publisher":  "Dokany Project",
+                         "InstallDate":  null,
+                         "SizeMB":  70.05
+                     },
+                     {
+                         "Name":  "Lenovo System Update",
+                         "Version":  "5.08.03.59",
+                         "Publisher":  "Lenovo",
+                         "InstallDate":  "20250721",
+                         "SizeMB":  50.44
+                     },
+                     {
+                         "Name":  "WakeOnLAN versão 2.12.4.0",
+                         "Version":  "2.12.4.0",
+                         "Publisher":  "Aquila Technology",
+                         "InstallDate":  "20240908",
+                         "SizeMB":  47.46
+                     },
+                     {
+                         "Name":  "FileZilla 3.69.1",
+                         "Version":  "3.69.1",
+                         "Publisher":  "Tim Kosse",
+                         "InstallDate":  null,
+                         "SizeMB":  42.87
+                     },
+                     {
+                         "Name":  "NVM for Windows 1.2.2",
+                         "Version":  "1.2.2",
+                         "Publisher":  "Author Software Inc.",
+                         "InstallDate":  "20250904",
+                         "SizeMB":  36.47
+                     },
+                     {
+                         "Name":  "ConexTI Integration Service",
+                         "Version":  "Version 1.0.5",
+                         "Publisher":  "ConexTI Soluções em TI LTDA",
+                         "InstallDate":  "20250717",
+                         "SizeMB":  29.28
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  25.12
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.74
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.24
+                     },
+                     {
+                         "Name":  "HP MFP Scan",
+                         "Version":  "1.06.67 ()",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  null,
+                         "SizeMB":  16.36
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767171601209)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID \r\n{D63B10C5-BB46-4990-A94F-E40B9D520160}\r\n e APPID \r\n{9CA88EE3-",
+                          "EventID":  10016
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767169801273)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID \r\n{D63B10C5-BB46-4990-A94F-E40B9D520160}\r\n e APPID \r\n{9CA88EE3-",
+                          "EventID":  10016
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767168001179)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "As configurações de permissão específico do aplicativo não concedem permissão Local Ativação para o aplicativo de Servidor COM com CLSID \r\n{D63B10C5-BB46-4990-A94F-E40B9D520160}\r\n e APPID \r\n{9CA88EE3-",
+                          "EventID":  10016
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767161142324)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Os certificados de Inicialização Segura foram atualizados, mas ainda não foram aplicados ao firmware do dispositivo. Examine as diretrizes publicadas para concluir a atualização e garantir a proteção ",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767150082824)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-CAPI2",
+                          "Message":  "Falha dos Serviços de Criptografia ao processar a chamada de OnIdentity() no Objeto de Gravador do Sistema..\n\nDetails:\nAddLegacyDriverFiles: Unable to back up image of binary Protocolo Microsoft LLDP.",
+                          "EventID":  513
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767150027252)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-CAPI2",
+                          "Message":  "Falha dos Serviços de Criptografia ao processar a chamada de OnIdentity() no Objeto de Gravador do Sistema..\n\nDetails:\nAddLegacyDriverFiles: Unable to back up image of binary Protocolo Microsoft LLDP.",
+                          "EventID":  513
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767150006579)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-CAPI2",
+                          "Message":  "Falha dos Serviços de Criptografia ao processar a chamada de OnIdentity() no Objeto de Gravador do Sistema..\n\nDetails:\nAddLegacyDriverFiles: Unable to back up image of binary Protocolo Microsoft LLDP.",
+                          "EventID":  513
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767150004184)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-CAPI2",
+                          "Message":  "Falha dos Serviços de Criptografia ao processar a chamada de OnIdentity() no Objeto de Gravador do Sistema..\n\nDetails:\nAddLegacyDriverFiles: Unable to back up image of binary Protocolo Microsoft LLDP.",
+                          "EventID":  513
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767150001734)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-CAPI2",
+                          "Message":  "Falha dos Serviços de Criptografia ao processar a chamada de OnIdentity() no Objeto de Gravador do Sistema..\n\nDetails:\nAddLegacyDriverFiles: Unable to back up image of binary Protocolo Microsoft LLDP.",
+                          "EventID":  513
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767117942294)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Os certificados de Inicialização Segura foram atualizados, mas ainda não foram aplicados ao firmware do dispositivo. Examine as diretrizes publicadas para concluir a atualização e garantir a proteção ",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767114692911)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-WindowsUpdateClient",
+                          "Message":  "Falha na Instalação: o Windows não pôde instalar a seguinte atualização com o erro 0x80070643: Atualização de inteligência de segurança para Microsoft Defender Antivirus - KB2267602 (versão 1.443.404.",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767114687872)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço Serviço Windows Defender devido ao seguinte erro: \r\nO sistema não pode encontrar o arquivo especificado.\r\n",
+                          "EventID":  7000
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+
+                                   ]
+                 }
+}

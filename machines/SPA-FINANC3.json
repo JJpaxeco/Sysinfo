@@ -1,0 +1,671 @@
+﻿{
+    "Hostname":  "SPA-FINANC3",
+    "TimestampUtc":  "2025-12-31T12:30:14.1582069Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1667857998000)\/",
+               "LastBoot":  "\/Date(1767182373500)\/",
+               "Uptime":  "0d 0h 30m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "10NN001JBR",
+                     "Family":  "V520S-08IKL",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE02ZQTZ",
+                     "User":  "BRASILDIST\\camila.haiane"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M16KT60A",
+                 "ReleaseDate":  "\/Date(1568678400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3102",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+                "Cores":  2,
+                "Logical":  4,
+                "MaxClockMHz":  3912,
+                "ProcessorId":  "BFEBFBFF000906E9"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) HD Graphics 630",
+                "DriverVersion":  "31.0.101.2115",
+                "DriverDate":  "\/Date(1668556800000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA552576",
+                                         "Week":  46,
+                                         "Year":  2021,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u00262db56130\u00260\u0026UID200195_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.91,
+                "FreeGB":  4.42,
+                "FreePercent":  55.9,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 1",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "0194",
+                                    "Part":  "SF464128CK8I6GKSEG  ",
+                                    "Serial":  "04E95D52",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 3",
+                                    "Slot":  "ChannelB-DIMM1",
+                                    "Manuf":  "0194",
+                                    "Part":  "SF464128CK8I6GKSEG  ",
+                                    "Serial":  "04E95D0B",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.45,
+                                        "FreeGB":  120.52,
+                                        "FreePercent":  54.2,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37240G",
+                                      "Serial":  "50026B7685EF4670",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.108"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:8C:51:49"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-8C-51-49",
+                                         "IPv4":  [
+                                                      "192.168.17.108"
+                                                  ],
+                                         "Speed":  "100 Mbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  29.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  44,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  44,
+                                              "Display":  "44,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  27,
+                                                  "Display":  "27,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i3-7100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/4",
+                                                      "ValueC":  44,
+                                                      "MinC":  41,
+                                                      "MaxC":  44
+                                                  },
+                                                  {
+                                                      "HardwareName":  "KINGSTON SA400S37240G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  27,
+                                                      "MinC":  27,
+                                                      "MaxC":  27
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3620,
+                          "CPU":  24.77,
+                          "MemoryMB":  685.93,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767182381387)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1732,
+                          "CPU":  16.06,
+                          "MemoryMB":  63.21,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767182380298)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  15.38,
+                          "MemoryMB":  3.48,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182375434)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  11372,
+                          "CPU":  14.33,
+                          "MemoryMB":  83.46,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182504594)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  2344,
+                          "CPU":  8.97,
+                          "MemoryMB":  133.19,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767182483371)\/"
+                      },
+                      {
+                          "Name":  "SearchIndexer",
+                          "ID":  6720,
+                          "CPU":  6.02,
+                          "MemoryMB":  33.25,
+                          "Path":  "C:\\WINDOWS\\system32\\SearchIndexer.exe",
+                          "StartTime":  "\/Date(1767182387775)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3132,
+                          "CPU":  5.66,
+                          "MemoryMB":  17.53,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182381117)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  972,
+                          "CPU":  4.73,
+                          "MemoryMB":  14.23,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182379415)\/"
+                      },
+                      {
+                          "Name":  "PCSIS410",
+                          "ID":  3092,
+                          "CPU":  4.73,
+                          "MemoryMB":  74.97,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCSIS410.EXE",
+                          "StartTime":  "\/Date(1767183239502)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2828,
+                          "CPU":  4.64,
+                          "MemoryMB":  19.84,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182380753)\/"
+                      },
+                      {
+                          "Name":  "PCINF000",
+                          "ID":  2392,
+                          "CPU":  3.98,
+                          "MemoryMB":  95.19,
+                          "Path":  "C:\\WinThor\\Spool\\Executaveis\\45FB528F0AD05BCC56680F4DFFDED1EC\\PCINF000.exe",
+                          "StartTime":  "\/Date(1767183190977)\/"
+                      },
+                      {
+                          "Name":  "WhatsApp.Root",
+                          "ID":  10608,
+                          "CPU":  3.61,
+                          "MemoryMB":  183.18,
+                          "Path":  "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2587.9.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe",
+                          "StartTime":  "\/Date(1767182499004)\/"
+                      },
+                      {
+                          "Name":  "Memory Compression",
+                          "ID":  2444,
+                          "CPU":  3.56,
+                          "MemoryMB":  78.76,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182380550)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2004,
+                          "CPU":  3.05,
+                          "MemoryMB":  34.31,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182380351)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2232,
+                          "CPU":  3.02,
+                          "MemoryMB":  14.09,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182380465)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Registo de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Servidor",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Gestão Remota do Windows (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240820",
+                         "SizeMB":  1225.09
+                     },
+                     {
+                         "Name":  "LibreOffice 7.3.5.2",
+                         "Version":  "7.3.5.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  759.21
+                     },
+                     {
+                         "Name":  "Adobe Acrobat Reader - Português",
+                         "Version":  "23.008.20470",
+                         "Publisher":  "Adobe Systems Incorporated",
+                         "InstallDate":  "20240201",
+                         "SizeMB":  558.42
+                     },
+                     {
+                         "Name":  "HP LaserJet Pro M404-M405 Software básico do dispositivo",
+                         "Version":  "48.6.4638.2245",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  160.16
+                     },
+                     {
+                         "Name":  "NetSupport Manager",
+                         "Version":  "11.30.0000",
+                         "Publisher":  "NetSupport Ltd",
+                         "InstallDate":  "20221107",
+                         "SizeMB":  41.77
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.06502",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20250423",
+                         "SizeMB":  31.79
+                     },
+                     {
+                         "Name":  "HPDXP",
+                         "Version":  "3.0.26.20",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  25
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Estudo de aprimoramento de produto para HP LaserJet Pro M404-M405",
+                         "Version":  "48.6.4638.2245",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  11.85
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  9.23
+                     },
+                     {
+                         "Name":  "HP Unified IO",
+                         "Version":  "2.0.0.434",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  5.08
+                     },
+                     {
+                         "Name":  "Assistente de Atualização do Windows 10",
+                         "Version":  "1.4.19041.1703",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  5
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  2.03
+                     },
+                     {
+                         "Name":  "Adobe Refresh Manager",
+                         "Version":  "1.8.0",
+                         "Publisher":  "Adobe Systems Incorporated",
+                         "InstallDate":  "20250906",
+                         "SizeMB":  2.02
+                     },
+                     {
+                         "Name":  "LJDXPHelperUI",
+                         "Version":  "140.069.007",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  2.01
+                     },
+                     {
+                         "Name":  "HP Unified IO",
+                         "Version":  "2.0.0.434",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  1.64
+                     },
+                     {
+                         "Name":  "HP LaserJet Pro M404-M405 Ajuda",
+                         "Version":  "0.00.0005",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  1.09
+                     },
+                     {
+                         "Name":  "HPLJPRoM402M403ndne",
+                         "Version":  "0.10.0000",
+                         "Publisher":  "Hewlett-Packard",
+                         "InstallDate":  "20221108",
+                         "SizeMB":  1.09
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767182681151)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182503441)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182503441)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182378094)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767114458351)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767114280162)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767114280162)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767114155413)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       },
+                                       {
+                                           "Name":  "Kaspersky Endpoint Security for Windows",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       }
+                                   ]
+                 }
+}

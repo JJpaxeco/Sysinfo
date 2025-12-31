@@ -1,0 +1,489 @@
+﻿{
+    "Hostname":  "VM-GERTECSERVER",
+    "TimestampUtc":  "2025-12-31T12:30:38.0435863Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1741359019000)\/",
+               "LastBoot":  "\/Date(1763456368500)\/",
+               "Uptime":  "43d 3h 31m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "QEMU",
+                     "Model":  "Standard PC (i440FX + PIIX, 1996)",
+                     "Family":  null,
+                     "Domain":  "brasildis.lan",
+                     "Serial":  null,
+                     "User":  "BRASILDIST\\gertec.server"
+                 },
+    "BIOS":  {
+                 "Vendor":  "SeaBIOS",
+                 "Version":  "rel-1.16.3-0-ga6ed6b701f0a-prebuilt.qemu.org",
+                 "ReleaseDate":  "\/Date(1396310400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  null,
+                      "Product":  null,
+                      "Serial":  null
+                  },
+    "CPU":  {
+                "Name":  "Common KVM processor",
+                "Cores":  2,
+                "Logical":  2,
+                "MaxClockMHz":  2394,
+                "ProcessorId":  "078BFBFF00000F61"
+            },
+    "GPU":  {
+                "Name":  "Microsoft Basic Display Adapter",
+                "DriverVersion":  "10.0.19041.3636",
+                "DriverDate":  "\/Date(1150848000000)\/",
+                "VRAM_GB":  null,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "1Hz",
+                "MaxRefreshRate":  "64Hz"
+            },
+    "Monitor":  {
+                    "Count":  0,
+                    "Monitors":  [
+
+                                 ],
+                    "WinFormsScreens":  [
+
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  10,
+                "FreeGB":  5.24,
+                "FreePercent":  52.4,
+                "Modules":  [
+                                {
+                                    "Bank":  "",
+                                    "Slot":  "DIMM 0",
+                                    "Manuf":  "QEMU",
+                                    "Part":  null,
+                                    "Serial":  null,
+                                    "CapacityGB":  10,
+                                    "SpeedMHz":  null,
+                                    "ConfClk":  0,
+                                    "Form":  8,
+                                    "SMBIOSType":  7,
+                                    "Voltage":  0,
+                                    "Min_Voltage":  0,
+                                    "Max_Voltage":  0
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  119.44,
+                                        "FreeGB":  83.29,
+                                        "FreePercent":  69.7,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "QEMU HARDDISK",
+                                      "Serial":  "QM00007",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  120,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  },
+                                  {
+                                      "Model":  "QEMU HARDDISK",
+                                      "Serial":  "QM00005",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  130,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.16.5"
+                             ],
+                    "MACs":  [
+                                 "BC:24:11:B1:A0:E4"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet 3",
+                                         "Status":  "Up",
+                                         "MAC":  "BC-24-11-B1-A0-E4",
+                                         "IPv4":  [
+                                                      "192.168.16.5"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  31,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  31,
+                                                  "Display":  "31,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "QEMU HARDDISK",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/1/temperature/0",
+                                                      "ValueC":  31,
+                                                      "MinC":  31,
+                                                      "MaxC":  31
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  7516,
+                          "CPU":  43377.95,
+                          "MemoryMB":  600.9,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1764734815280)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  21137.05,
+                          "MemoryMB":  12.21,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1763456371921)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  640,
+                          "CPU":  14420.11,
+                          "MemoryMB":  130.17,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763456379795)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3120,
+                          "CPU":  12608.12,
+                          "MemoryMB":  73.66,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1763456382339)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1844,
+                          "CPU":  10202.95,
+                          "MemoryMB":  15.27,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763456381070)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1476,
+                          "CPU":  9729.92,
+                          "MemoryMB":  68.4,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1763456380794)\/"
+                      },
+                      {
+                          "Name":  "tacticalrmm",
+                          "ID":  3548,
+                          "CPU":  8291.59,
+                          "MemoryMB":  147.75,
+                          "Path":  "C:\\Program Files\\TacticalAgent\\tacticalrmm.exe",
+                          "StartTime":  "\/Date(1763456382739)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2808,
+                          "CPU":  7345.06,
+                          "MemoryMB":  38.91,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763456381920)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  924,
+                          "CPU":  4405.77,
+                          "MemoryMB":  14.73,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1763456378948)\/"
+                      },
+                      {
+                          "Name":  "EPIntegrationService",
+                          "ID":  7528,
+                          "CPU":  2623.27,
+                          "MemoryMB":  62.41,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPIntegrationService.exe",
+                          "StartTime":  "\/Date(1764734815276)\/"
+                      },
+                      {
+                          "Name":  "sihost",
+                          "ID":  620,
+                          "CPU":  1854.5,
+                          "MemoryMB":  29.27,
+                          "Path":  "C:\\Windows\\system32\\sihost.exe",
+                          "StartTime":  "\/Date(1763472068666)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1352,
+                          "CPU":  1395.28,
+                          "MemoryMB":  16.94,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763456381189)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1048,
+                          "CPU":  1314.73,
+                          "MemoryMB":  70.36,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763456380163)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  6080,
+                          "CPU":  1279.42,
+                          "MemoryMB":  12.03,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1763456390504)\/"
+                      },
+                      {
+                          "Name":  "lsass",
+                          "ID":  932,
+                          "CPU":  1230.12,
+                          "MemoryMB":  25.71,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1763456379050)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20250307",
+                         "SizeMB":  1011.79
+                     },
+                     {
+                         "Name":  "Java 8 Update 441 (64-bit)",
+                         "Version":  "8.0.4410.7",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20250307",
+                         "SizeMB":  212.09
+                     },
+                     {
+                         "Name":  "PingPlotter 5",
+                         "Version":  "5.25.16.9082",
+                         "Publisher":  "Pingman Tools, LLC",
+                         "InstallDate":  "20250925",
+                         "SizeMB":  63.73
+                     },
+                     {
+                         "Name":  "NVM for Windows 1.2.2",
+                         "Version":  "1.2.2",
+                         "Publisher":  "Author Software Inc.",
+                         "InstallDate":  "20250311",
+                         "SizeMB":  18.24
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Verificação de integridade do PC Windows",
+                         "Version":  "3.6.2204.08001",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250307",
+                         "SizeMB":  11.66
+                     },
+                     {
+                         "Name":  "7-Zip 24.09 (x64)",
+                         "Version":  "24.09",
+                         "Publisher":  "Igor Pavlov",
+                         "InstallDate":  null,
+                         "SizeMB":  5.59
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Java Auto Updater",
+                         "Version":  "2.8.441.7",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20250307",
+                         "SizeMB":  2.38
+                     },
+                     {
+                         "Name":  "Microsoft Update Health Tools",
+                         "Version":  "3.74.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250308",
+                         "SizeMB":  1.03
+                     },
+                     {
+                         "Name":  "Update for x64-based Windows Systems (KB5001716)",
+                         "Version":  "8.94.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250701",
+                         "SizeMB":  0.84
+                     },
+                     {
+                         "Name":  "Google Chrome",
+                         "Version":  "143.0.7499.170",
+                         "Publisher":  "Google LLC",
+                         "InstallDate":  "20251224",
+                         "SizeMB":  null
+                     },
+                     {
+                         "Name":  "Microsoft Edge",
+                         "Version":  "143.0.3650.96",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251220",
+                         "SizeMB":  null
+                     },
+                     {
+                         "Name":  "PingPlotter 5",
+                         "Version":  "5.25.16.9082",
+                         "Publisher":  "Pingman Tools, LLC",
+                         "InstallDate":  null,
+                         "SizeMB":  null
+                     },
+                     {
+                         "Name":  "Microsoft Edge WebView2 Runtime",
+                         "Version":  "143.0.3650.96",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251220",
+                         "SizeMB":  null
+                     }
+                 ],
+    "EventLogs":  [
+
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

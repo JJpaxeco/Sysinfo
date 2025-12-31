@@ -1,0 +1,1002 @@
+﻿{
+    "Hostname":  "SPA-ELETRO",
+    "TimestampUtc":  "2025-12-31T12:30:15.2294760Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1663268376000)\/",
+               "LastBoot":  "\/Date(1767182133500)\/",
+               "Uptime":  "0d 0h 34m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "10NN001JBR",
+                     "Family":  "V520S-08IKL",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE02ZQVU",
+                     "User":  null
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M16KT60A",
+                 "ReleaseDate":  "\/Date(1568678400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3102",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+                "Cores":  2,
+                "Logical":  4,
+                "MaxClockMHz":  3912,
+                "ProcessorId":  "BFEBFBFF000906E9"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) HD Graphics 630",
+                "DriverVersion":  "31.0.101.2115",
+                "DriverDate":  "\/Date(1668556800000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA359058",
+                                         "Week":  36,
+                                         "Year":  2020,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u00262db56130\u00260\u0026UID200195_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.9,
+                "FreeGB":  5.35,
+                "FreePercent":  67.7,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 1",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "0194",
+                                    "Part":  "SMU4TDC3C0K0464SCG  ",
+                                    "Serial":  "05713310",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  2667,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 3",
+                                    "Slot":  "ChannelB-DIMM1",
+                                    "Manuf":  "0194",
+                                    "Part":  "SF464128CK8I6GKSEG  ",
+                                    "Serial":  "0152E725",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  446.01,
+                                        "FreeGB":  362.19,
+                                        "FreePercent":  81.2,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37480G",
+                                      "Serial":  "50026B76833EE654",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  447.13,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.109"
+                             ],
+                    "MACs":  [
+                                 "00:E0:51:40:0D:02"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "00-E0-51-40-0D-02",
+                                         "IPv4":  [
+                                                      "192.168.17.109"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  29.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  47,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  47,
+                                              "Display":  "47,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  32,
+                                                  "Display":  "32,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i3-7100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/4",
+                                                      "ValueC":  47,
+                                                      "MinC":  45,
+                                                      "MaxC":  47
+                                                  },
+                                                  {
+                                                      "HardwareName":  "KINGSTON SA400S37480G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  32,
+                                                      "MinC":  32,
+                                                      "MaxC":  32
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3692,
+                          "CPU":  13.02,
+                          "MemoryMB":  613.32,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767182140060)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  5.8,
+                          "MemoryMB":  3.52,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182135226)\/"
+                      },
+                      {
+                          "Name":  "tacticalrmm",
+                          "ID":  3872,
+                          "CPU":  3.06,
+                          "MemoryMB":  24.42,
+                          "Path":  "C:\\Program Files\\TacticalAgent\\tacticalrmm.exe",
+                          "StartTime":  "\/Date(1767182140085)\/"
+                      },
+                      {
+                          "Name":  "oracle",
+                          "ID":  3760,
+                          "CPU":  3,
+                          "MemoryMB":  245.36,
+                          "Path":  "c:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin\\ORACLE.EXE",
+                          "StartTime":  "\/Date(1767182140068)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2356,
+                          "CPU":  2.59,
+                          "MemoryMB":  18.99,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182139054)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2172,
+                          "CPU":  2.55,
+                          "MemoryMB":  9.63,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182138970)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3340,
+                          "CPU":  1.97,
+                          "MemoryMB":  49.91,
+                          "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182140009)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3148,
+                          "CPU":  1.5,
+                          "MemoryMB":  11.1,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182139875)\/"
+                      },
+                      {
+                          "Name":  "EPIntegrationService",
+                          "ID":  3532,
+                          "CPU":  1.45,
+                          "MemoryMB":  79.59,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPIntegrationService.exe",
+                          "StartTime":  "\/Date(1767182140030)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  980,
+                          "CPU":  1.22,
+                          "MemoryMB":  10.44,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182137806)\/"
+                      },
+                      {
+                          "Name":  "lsass",
+                          "ID":  68,
+                          "CPU":  1.2,
+                          "MemoryMB":  21.28,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182137842)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1876,
+                          "CPU":  1.05,
+                          "MemoryMB":  15.62,
+                          "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182138826)\/"
+                      },
+                      {
+                          "Name":  "MeshAgent",
+                          "ID":  3720,
+                          "CPU":  1.03,
+                          "MemoryMB":  28.39,
+                          "Path":  "C:\\Program Files\\Mesh Agent\\MeshAgent.exe",
+                          "StartTime":  "\/Date(1767182140064)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1832,
+                          "CPU":  1,
+                          "MemoryMB":  24.78,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182138815)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4516,
+                          "CPU":  0.92,
+                          "MemoryMB":  17.26,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182146624)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Registo de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Servidor",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Gestão Remota do Windows (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Intel(R) Graphics Driver Software",
+                         "Version":  "3.11.1.0",
+                         "Publisher":  "Intel",
+                         "InstallDate":  null,
+                         "SizeMB":  3190.47
+                     },
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20997",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251209",
+                         "SizeMB":  1443.09
+                     },
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240824",
+                         "SizeMB":  1225.09
+                     },
+                     {
+                         "Name":  "LibreOffice 7.3.5.2",
+                         "Version":  "7.3.5.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20220916",
+                         "SizeMB":  759.21
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20221101",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20221101",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 7.0.7 (x64)",
+                         "Version":  "7.0.7.32525",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  213.38
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+                         "Version":  "8.0.14.34613",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  201.68
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x64)",
+                         "Version":  "8.0.14.34611",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  98.29
+                     },
+                     {
+                         "Name":  "Microsoft .NET Core Runtime - 3.1.28 (x64)",
+                         "Version":  "3.1.28.31513",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  91.86
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 7.0.7 (x64)",
+                         "Version":  "56.31.61651",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20240319",
+                         "SizeMB":  87.97
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+                         "Version":  "64.56.29521",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  84.66
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x64)",
+                         "Version":  "64.56.29490",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  70.25
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 7.0.7 (x64)",
+                         "Version":  "56.31.61636",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20240319",
+                         "SizeMB":  69.24
+                     },
+                     {
+                         "Name":  "Microsoft .NET Core Runtime - 3.1.28 (x64)",
+                         "Version":  "24.112.31513",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220916",
+                         "SizeMB":  65.66
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x86)",
+                         "Version":  "64.56.29490",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  64.75
+                     },
+                     {
+                         "Name":  "Epson Event Manager",
+                         "Version":  "3.10.0069",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20221207",
+                         "SizeMB":  45.94
+                     },
+                     {
+                         "Name":  "NetSupport Manager",
+                         "Version":  "11.30.0000",
+                         "Publisher":  "NetSupport Ltd",
+                         "InstallDate":  "20220915",
+                         "SizeMB":  41.77
+                     },
+                     {
+                         "Name":  "Microsoft ASP.NET Core 8.0.14 - Shared Framework (x86)",
+                         "Version":  "8.0.14.25112",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  34
+                     },
+                     {
+                         "Name":  "Microsoft ASP.NET Core 7.0.7 - Shared Framework (x64)",
+                         "Version":  "7.0.7.23274",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  33.76
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767182439741)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182263022)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182263022)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182136752)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182135225)\/",
+                          "LogName":  "System",
+                          "Level":  "Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem primeiro ter sido encerrado de forma correta. Este erro pode ter ocorrido porque o sistema parou de responder, sofreu uma falha ou ficou sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182138903)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "EventLog",
+                          "Message":  "O anterior encerramento do sistema, ‎31/‎12/‎2025 às 07:54:50, foi inesperado.\r\n",
+                          "EventID":  6008
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181102152)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de início de sessão falhou. \r\n\tGPO Nome : GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tGPO Caminho de Sistema de Ficheiros : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181071228)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180894534)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180894534)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180768143)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180766193)\/",
+                          "LogName":  "System",
+                          "Level":  "Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem primeiro ter sido encerrado de forma correta. Este erro pode ter ocorrido porque o sistema parou de responder, sofreu uma falha ou ficou sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180770441)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "EventLog",
+                          "Message":  "O anterior encerramento do sistema, ‎31/‎12/‎2025 às 07:31:25, foi inesperado.\r\n",
+                          "EventID":  6008
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180625987)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180450195)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180450195)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180323019)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180321402)\/",
+                          "LogName":  "System",
+                          "Level":  "Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem primeiro ter sido encerrado de forma correta. Este erro pode ter ocorrido porque o sistema parou de responder, sofreu uma falha ou ficou sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180325209)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "EventLog",
+                          "Message":  "O anterior encerramento do sistema, ‎31/‎12/‎2025 às 07:24:04, foi inesperado.\r\n",
+                          "EventID":  6008
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180182736)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767142160409)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {A677570A-2BA2-4E9A-B2E2-8A02CD8B4FD3} não foi registado no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767142160394)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {A677570A-2BA2-4E9A-B2E2-8A02CD8B4FD3} não foi registado no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767138454460)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de início de sessão falhou. \r\n\tGPO Nome : GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tGPO Caminho de Sistema de Ficheiros : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767117808657)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome da aplicação com falha: E_YARNYWE.EXE, versão: 11.0.0.4, carimbo de data/hora: 0x63e49eaa\r\nNome do módulo com falha: E_YGRCYWE.DLL, versão: 0.3.0.32, carimbo de data/hora: 0x617a4a68\r\nCódigo de e",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767103965512)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767103788176)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767103788176)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767103718391)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de início de sessão falhou. \r\n\tGPO Nome : GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tGPO Caminho de Sistema de Ficheiros : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767103662570)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767103640331)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {5F7F3F7B-1177-4D4B-B1DB-BC6F671B8F25} não foi registado no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767103563774)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de início de sessão falhou. \r\n\tGPO Nome : GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tGPO Caminho de Sistema de Ficheiros : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767102862261)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767102685824)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767102685824)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767102559063)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767102557184)\/",
+                          "LogName":  "System",
+                          "Level":  "Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem primeiro ter sido encerrado de forma correta. Este erro pode ter ocorrido porque o sistema parou de responder, sofreu uma falha ou ficou sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767102561416)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "EventLog",
+                          "Message":  "O anterior encerramento do sistema, ‎30/‎12/‎2025 às 09:48:16, foi inesperado.\r\n",
+                          "EventID":  6008
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767102012415)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de início de sessão falhou. \r\n\tGPO Nome : GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tGPO Caminho de Sistema de Ficheiros : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767100757600)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767100580685)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767100580685)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767100453799)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767100452221)\/",
+                          "LogName":  "System",
+                          "Level":  "Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem primeiro ter sido encerrado de forma correta. Este erro pode ter ocorrido porque o sistema parou de responder, sofreu uma falha ou ficou sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767100456789)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "EventLog",
+                          "Message":  "O anterior encerramento do sistema, ‎30/‎12/‎2025 às 09:13:37, foi inesperado.\r\n",
+                          "EventID":  6008
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767099332607)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de início de sessão falhou. \r\n\tGPO Nome : GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tGPO Caminho de Sistema de Ficheiros : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767098978738)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_10NN_BU_Lenovo_",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767098802025)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767098802025)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767098675766)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O controlador de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware de TPM, o que impede a utilização de serviços TPM (como a encriptação de dados). Para mais ass",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767098674194)\/",
+                          "LogName":  "System",
+                          "Level":  "Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem primeiro ter sido encerrado de forma correta. Este erro pode ter ocorrido porque o sistema parou de responder, sofreu uma falha ou ficou sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

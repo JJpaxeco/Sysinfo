@@ -1,0 +1,677 @@
+﻿{
+    "Hostname":  "SPA-TI",
+    "TimestampUtc":  "2025-12-31T12:30:15.1353625Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26200",
+               "Build":  "26200",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1763993956000)\/",
+               "LastBoot":  "\/Date(1767140421500)\/",
+               "Uptime":  "0d 12h 9m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "13EJ000BBO",
+                     "Family":  "ThinkCentre neo 50s Gen 5",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0E46NN",
+                     "User":  "BRASILDIST\\guilherme.castelo"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M5IKT20A",
+                 "ReleaseDate":  "\/Date(1762473600000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "335A",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i7-14700",
+                "Cores":  20,
+                "Logical":  28,
+                "MaxClockMHz":  2100,
+                "ProcessorId":  "BFEBFBFF000B0671"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 770",
+                "DriverVersion":  "32.0.101.7026",
+                "DriverDate":  "\/Date(1755561600000)\/",
+                "VRAM_GB":  2,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "100Hz",
+                "MaxRefreshRate":  "100Hz"
+            },
+    "Monitor":  {
+                    "Count":  2,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "PHL",
+                                         "Name":  "PHL 241V8LAB",
+                                         "Model":  "C326",
+                                         "Serial":  "AF02436300668",
+                                         "Week":  36,
+                                         "Year":  2024,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\PHLC326\\4\u0026914b5ec\u00260\u0026UID16433_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     },
+                                     {
+                                         "Manufacturer":  "PHL",
+                                         "Name":  "PHL 241V8LAB",
+                                         "Model":  "C326",
+                                         "Serial":  "AF02436300245",
+                                         "Week":  36,
+                                         "Year":  2024,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\PHLC326\\4\u0026914b5ec\u00260\u0026UID20530_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  false
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.62,
+                "FreeGB":  4.15,
+                "FreePercent":  26.6,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "Controller0-ChannelA-DIMM0",
+                                    "Manuf":  "A-DATA Technology",
+                                    "Part":  "AI2V56WCSV1-B1IS    ",
+                                    "Serial":  "03008528",
+                                    "CapacityGB":  16,
+                                    "SpeedMHz":  5600,
+                                    "ConfClk":  5600,
+                                    "Form":  8,
+                                    "SMBIOSType":  34,
+                                    "Voltage":  1.1,
+                                    "Min_Voltage":  1.1,
+                                    "Max_Voltage":  1.1
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "D",
+                                        "Label":  "Novo volume",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  894.25,
+                                        "FreeGB":  821.73,
+                                        "FreePercent":  91.9,
+                                        "Health":  "Healthy"
+                                    },
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "Windows",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  474.72,
+                                        "FreeGB":  349.38,
+                                        "FreePercent":  73.6,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "CT960BX500SSD1",
+                                      "Serial":  "1936E19A307B",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  894.25,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  },
+                                  {
+                                      "Model":  "SKHynix_HFS512GEJ9X113N",
+                                      "Serial":  "0000_0000_0000_0000_40D5_6300_5B02_4CA1.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  476.94,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.89",
+                                 "169.254.244.37"
+                             ],
+                    "MACs":  [
+                                 "60:C7:27:30:36:37"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "60-C7-27-30-36-37",
+                                         "IPv4":  [
+                                                      "192.168.17.89"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     },
+                                     {
+                                         "Name":  "Wi-Fi",
+                                         "Status":  "Disconnected",
+                                         "MAC":  "60-45-2E-17-34-41",
+                                         "IPv4":  [
+                                                      "169.254.244.37"
+                                                  ],
+                                         "Speed":  "0 bps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  70,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  70,
+                                              "Display":  "70,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  37,
+                                                  "Display":  "37,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i7-14700",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/22",
+                                                      "ValueC":  70,
+                                                      "MinC":  69,
+                                                      "MaxC":  70
+                                                  },
+                                                  {
+                                                      "HardwareName":  "SKHynix_HFS512GEJ9X113N",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/nvme/1/temperature/0",
+                                                      "ValueC":  37,
+                                                      "MinC":  0,
+                                                      "MaxC":  37
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "SIMNext.LocalRecording",
+                          "ID":  5772,
+                          "CPU":  6426.33,
+                          "MemoryMB":  36.93,
+                          "Path":  "C:\\Program Files\\Intelbras\\SIMNext\\Local Recording Service\\SIMNext.LocalRecording.exe",
+                          "StartTime":  "\/Date(1767140434375)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4536,
+                          "CPU":  2164.3,
+                          "MemoryMB":  14.27,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1767140433880)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  183.42,
+                          "MemoryMB":  0.12,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767140424185)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  5748,
+                          "CPU":  90.7,
+                          "MemoryMB":  281.71,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767140434373)\/"
+                      },
+                      {
+                          "Name":  "SearchIndexer",
+                          "ID":  13700,
+                          "CPU":  63.69,
+                          "MemoryMB":  30.47,
+                          "Path":  "C:\\Windows\\system32\\SearchIndexer.exe",
+                          "StartTime":  "\/Date(1767140509016)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  668,
+                          "CPU":  59.11,
+                          "MemoryMB":  353.36,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767181822391)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  18128,
+                          "CPU":  46.06,
+                          "MemoryMB":  326.74,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767181823973)\/"
+                      },
+                      {
+                          "Name":  "sqldeveloperW",
+                          "ID":  20588,
+                          "CPU":  44.73,
+                          "MemoryMB":  326.39,
+                          "Path":  "C:\\oracle\\product\\12.2.0\\client_1\\sqldeveloper\\sqldeveloper\\bin\\sqldeveloperW.exe",
+                          "StartTime":  "\/Date(1767182830173)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  2408,
+                          "CPU":  40.86,
+                          "MemoryMB":  98.8,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767140433365)\/"
+                      },
+                      {
+                          "Name":  "language_server_windows_x64",
+                          "ID":  20164,
+                          "CPU":  38.64,
+                          "MemoryMB":  308.18,
+                          "Path":  "c:\\Users\\guilherme.castelo\\AppData\\Local\\Programs\\Antigravity\\resources\\app\\extensions\\antigravity\\bin\\language_server_windows_x64.exe",
+                          "StartTime":  "\/Date(1767181973071)\/"
+                      },
+                      {
+                          "Name":  "Antigravity",
+                          "ID":  18896,
+                          "CPU":  35.77,
+                          "MemoryMB":  400.71,
+                          "Path":  "C:\\Users\\guilherme.castelo\\AppData\\Local\\Programs\\Antigravity\\Antigravity.exe",
+                          "StartTime":  "\/Date(1767181969354)\/"
+                      },
+                      {
+                          "Name":  "node",
+                          "ID":  21960,
+                          "CPU":  35.62,
+                          "MemoryMB":  162.19,
+                          "Path":  "C:\\nvm4w\\nodejs\\node.exe",
+                          "StartTime":  "\/Date(1767182111660)\/"
+                      },
+                      {
+                          "Name":  "UDClientService",
+                          "ID":  5780,
+                          "CPU":  34.73,
+                          "MemoryMB":  24.71,
+                          "Path":  "C:\\Windows\\System32\\drivers\\Lenovo\\udc\\Service\\UDClientService.exe",
+                          "StartTime":  "\/Date(1767140434375)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  5552,
+                          "CPU":  30.25,
+                          "MemoryMB":  18.61,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767140434361)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  17424,
+                          "CPU":  28.94,
+                          "MemoryMB":  601.43,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767181822631)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20251124",
+                         "SizeMB":  946.64
+                     },
+                     {
+                         "Name":  "LibreOffice 25.8.1.1",
+                         "Version":  "25.8.1.1",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20251222",
+                         "SizeMB":  793.08
+                     },
+                     {
+                         "Name":  "Intelbras SIM Next 1.25.1",
+                         "Version":  "1.25.1",
+                         "Publisher":  "Intelbras",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  460.93
+                     },
+                     {
+                         "Name":  "Microsoft OneDrive",
+                         "Version":  "25.222.1112.0002",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  456.59
+                     },
+                     {
+                         "Name":  "Git",
+                         "Version":  "2.52.0",
+                         "Publisher":  "The Git Development Community",
+                         "InstallDate":  "20251125",
+                         "SizeMB":  346.25
+                     },
+                     {
+                         "Name":  "Java(TM) SE Development Kit 21.0.9 (64-bit)",
+                         "Version":  "21.0.9.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251125",
+                         "SizeMB":  317.44
+                     },
+                     {
+                         "Name":  "PowerShell 7-x64",
+                         "Version":  "7.5.4.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251124",
+                         "SizeMB":  280.09
+                     },
+                     {
+                         "Name":  "Domínio Web Plugin",
+                         "Version":  "4.1",
+                         "Publisher":  "Thomson Reuters",
+                         "InstallDate":  "20251126",
+                         "SizeMB":  132.41
+                     },
+                     {
+                         "Name":  "Realtek Audio Driver",
+                         "Version":  "6.0.9686.1",
+                         "Publisher":  "Realtek Semiconductor Corp.",
+                         "InstallDate":  "20250324",
+                         "SizeMB":  98.1
+                     },
+                     {
+                         "Name":  "AppController - AllUsers",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn",
+                         "InstallDate":  null,
+                         "SizeMB":  76.45
+                     },
+                     {
+                         "Name":  "Lenovo System Update",
+                         "Version":  "5.08.03.59",
+                         "Publisher":  "Lenovo",
+                         "InstallDate":  "20251124",
+                         "SizeMB":  49.9
+                     },
+                     {
+                         "Name":  "AppController",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn Corporation",
+                         "InstallDate":  "20251126",
+                         "SizeMB":  40.34
+                     },
+                     {
+                         "Name":  "Acesso Remoto - Dominio Sistemas",
+                         "Version":  "7.52.1119",
+                         "Publisher":  "LogMeIn, Inc.",
+                         "InstallDate":  "20251126",
+                         "SizeMB":  34.65
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.28902",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20251124",
+                         "SizeMB":  33.83
+                     },
+                     {
+                         "Name":  "Revo Uninstaller 2.6.5",
+                         "Version":  "2.6.5",
+                         "Publisher":  "VS Revo Group, Ltd.",
+                         "InstallDate":  "20251220",
+                         "SizeMB":  31.94
+                     },
+                     {
+                         "Name":  "Office 16 Click-to-Run Extensibility Component",
+                         "Version":  "16.0.19426.20170",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251207",
+                         "SizeMB":  30.42
+                     },
+                     {
+                         "Name":  "Intel(R) Management Engine Components",
+                         "Version":  "2425.6.26.0",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  27.92
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719",
+                         "Version":  "14.50.35719.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.7
+                     },
+                     {
+                         "Name":  "Intel(R) Icls",
+                         "Version":  "1.0.0.0",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  "20250324",
+                         "SizeMB":  20.09
+                     },
+                     {
+                         "Name":  "NVM for Windows 1.2.2",
+                         "Version":  "1.2.2",
+                         "Publisher":  "Author Software Inc.",
+                         "InstallDate":  "20251124",
+                         "SizeMB":  18.24
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767140734370)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767140434586)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767140391720)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Universal Device Client Service não foi desligado corretamente após receber um controle de pré-desligamento.\r\n",
+                          "EventID":  7043
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767116077506)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa PCINF000.exe versão 35.0.6.2 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de controle de",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767112430157)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Volsnap",
+                          "Message":  "As cópias de sombra do volume C: foram anuladas porque o armazenamento de cópia de sombra não pôde crescer devido a um limite imposto pelo usuário.\r\n",
+                          "EventID":  36
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

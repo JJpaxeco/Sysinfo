@@ -1,0 +1,769 @@
+﻿{
+    "Hostname":  "SPA-FRENTELJ",
+    "TimestampUtc":  "2025-11-25T18:43:20.2582508Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "RAM livre baixa"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.2",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1641497861000)\/",
+               "LastBoot":  "\/Date(1764096140500)\/",
+               "Uptime":  "0d 0h 0m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "10KY0061BR",
+                     "Family":  "Lenovo S510",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE02P8R2",
+                     "User":  "BRASILDIST\\patricia.heleno"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M0UKT24A",
+                 "ReleaseDate":  "\/Date(1472688000000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "0x30F617AA",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+                "Cores":  2,
+                "Logical":  4,
+                "MaxClockMHz":  3696,
+                "ProcessorId":  "BFEBFBFF000506E3"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) HD Graphics 530",
+                "DriverVersion":  "26.20.100.7986",
+                "DriverDate":  "\/Date(1583712000000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA462269",
+                                         "Week":  24,
+                                         "Year":  2021,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u00261d20018a\u00260\u0026UID224795_0"
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  true,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  "\\\\.\\DISPLAY1"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  3.91,
+                "FreeGB":  1.02,
+                "FreePercent":  26.1,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "Samsung",
+                                    "Part":  "M378A5143EB1-CPB    ",
+                                    "Serial":  "14811123",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  2133,
+                                    "ConfClk":  2133,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  0,
+                                    "Max_Voltage":  0
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  223.47,
+                                        "FreeGB":  176.12,
+                                        "FreePercent":  78.8,
+                                        "Health":  null
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37240G",
+                                      "Serial":  "50026B76850BDED8",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.84",
+                                 "169.254.191.191",
+                                 "169.254.171.248"
+                             ],
+                    "MACs":  [
+                                 "50:3E:AA:75:E4:96"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Disconnected",
+                                         "MAC":  "64-1C-67-86-18-AF",
+                                         "IPv4":  [
+                                                      "169.254.171.248"
+                                                  ],
+                                         "Speed":  "0 bps"
+                                     },
+                                     {
+                                         "Name":  "Wi-Fi 2",
+                                         "Status":  "Up",
+                                         "MAC":  "50-3E-AA-75-E4-96",
+                                         "IPv4":  [
+                                                      "192.168.17.84"
+                                                  ],
+                                         "Speed":  "130 Mbps"
+                                     },
+                                     {
+                                         "Name":  "Ethernet 2",
+                                         "Status":  "Disconnected",
+                                         "MAC":  "00-E0-53-44-4C-1C",
+                                         "IPv4":  [
+                                                      "169.254.191.191"
+                                                  ],
+                                         "Speed":  "0 bps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  null
+              },
+    "Processes":  [
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4088,
+                          "CPU":  14.66,
+                          "MemoryMB":  603.42,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1764096147778)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  8.66,
+                          "MemoryMB":  0.12,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764096142545)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  7484,
+                          "CPU":  4.06,
+                          "MemoryMB":  158.32,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1764096162880)\/"
+                      },
+                      {
+                          "Name":  "SearchApp",
+                          "ID":  8800,
+                          "CPU":  3.88,
+                          "MemoryMB":  220.05,
+                          "Path":  "C:\\WINDOWS\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+                          "StartTime":  "\/Date(1764096168093)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2556,
+                          "CPU":  3.62,
+                          "MemoryMB":  17.37,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764096146380)\/"
+                      },
+                      {
+                          "Name":  "tacticalrmm",
+                          "ID":  4248,
+                          "CPU":  2.33,
+                          "MemoryMB":  25.57,
+                          "Path":  "C:\\Program Files\\TacticalAgent\\tacticalrmm.exe",
+                          "StartTime":  "\/Date(1764096147877)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2836,
+                          "CPU":  2.25,
+                          "MemoryMB":  20.12,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764096146196)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1868,
+                          "CPU":  2.2,
+                          "MemoryMB":  26.4,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764096145464)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3932,
+                          "CPU":  1.91,
+                          "MemoryMB":  47.16,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1764096147725)\/"
+                      },
+                      {
+                          "Name":  "WmiPrvSE",
+                          "ID":  6068,
+                          "CPU":  1.8,
+                          "MemoryMB":  23.32,
+                          "Path":  "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+                          "StartTime":  "\/Date(1764096149062)\/"
+                      },
+                      {
+                          "Name":  "EPIntegrationService",
+                          "ID":  3984,
+                          "CPU":  1.78,
+                          "MemoryMB":  77.78,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPIntegrationService.exe",
+                          "StartTime":  "\/Date(1764096147744)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1608,
+                          "CPU":  1.78,
+                          "MemoryMB":  58.99,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1764096145380)\/"
+                      },
+                      {
+                          "Name":  "Memory Compression",
+                          "ID":  2384,
+                          "CPU":  1.41,
+                          "MemoryMB":  79.26,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764096145748)\/"
+                      },
+                      {
+                          "Name":  "SearchIndexer",
+                          "ID":  8,
+                          "CPU":  1.33,
+                          "MemoryMB":  34.23,
+                          "Path":  "C:\\Windows\\system32\\SearchIndexer.exe",
+                          "StartTime":  "\/Date(1764096150611)\/"
+                      },
+                      {
+                          "Name":  "MeshAgent",
+                          "ID":  4220,
+                          "CPU":  1.28,
+                          "MemoryMB":  38.79,
+                          "Path":  "C:\\Program Files\\Mesh Agent\\MeshAgent.exe",
+                          "StartTime":  "\/Date(1764096147869)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "Dhcp",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.28.580",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240426",
+                         "SizeMB":  862.35
+                     },
+                     {
+                         "Name":  "LibreOffice 6.1.0.3",
+                         "Version":  "6.1.0.3",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20190222",
+                         "SizeMB":  802.44
+                     },
+                     {
+                         "Name":  "Google Chrome",
+                         "Version":  "142.0.7444.176",
+                         "Publisher":  "Google LLC",
+                         "InstallDate":  "20251121",
+                         "SizeMB":  437.75
+                     },
+                     {
+                         "Name":  "Adobe Acrobat Reader DC - Português",
+                         "Version":  "15.020.20039",
+                         "Publisher":  "Adobe Systems Incorporated",
+                         "InstallDate":  "20190222",
+                         "SizeMB":  433.16
+                     },
+                     {
+                         "Name":  "Intel(R) Processor Graphics",
+                         "Version":  "26.20.100.7156",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  74.22
+                     },
+                     {
+                         "Name":  "Epson Event Manager",
+                         "Version":  "3.10.0085",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20210720",
+                         "SizeMB":  46.24
+                     },
+                     {
+                         "Name":  "WinToHDD",
+                         "Version":  "5.9",
+                         "Publisher":  "Hasleo Software.",
+                         "InstallDate":  "20250915",
+                         "SizeMB":  37.44
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                         "Version":  "10.0.40219",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20210720",
+                         "SizeMB":  13.83
+                     },
+                     {
+                         "Name":  "Epson Printer Connection Checker",
+                         "Version":  "3.2.0.0",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20210812",
+                         "SizeMB":  13.65
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "EpsonNet Print",
+                         "Version":  "3.1.4.0",
+                         "Publisher":  "SEIKO EPSON Corporation",
+                         "InstallDate":  "20210720",
+                         "SizeMB":  12.2
+                     },
+                     {
+                         "Name":  "NetSupport Manager",
+                         "Version":  "11.30.0000",
+                         "Publisher":  "NetSupport Ltd",
+                         "InstallDate":  "20190502",
+                         "SizeMB":  11.98
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                         "Version":  "10.0.40219",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20210720",
+                         "SizeMB":  9.99
+                     },
+                     {
+                         "Name":  "Dynamsoft Service",
+                         "Version":  "1.4.0618",
+                         "Publisher":  "Dynamsoft",
+                         "InstallDate":  "20190225",
+                         "SizeMB":  9.48
+                     },
+                     {
+                         "Name":  "Epson Software Updater",
+                         "Version":  "4.6.7",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20240720",
+                         "SizeMB":  9.13
+                     },
+                     {
+                         "Name":  "WinRAR 5.50 (64-bit)",
+                         "Version":  "5.50.0",
+                         "Publisher":  "win.rar GmbH",
+                         "InstallDate":  null,
+                         "SizeMB":  7.35
+                     },
+                     {
+                         "Name":  "UpdateAssistant",
+                         "Version":  "1.22.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20190921",
+                         "SizeMB":  6.03
+                     },
+                     {
+                         "Name":  "Adobe Flash Player 32 NPAPI",
+                         "Version":  "32.0.0.465",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  null,
+                         "SizeMB":  5.96
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2005 Redistributable",
+                         "Version":  "8.0.61001",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20210720",
+                         "SizeMB":  4.85
+                     },
+                     {
+                         "Name":  "Epson Customer Research Participation",
+                         "Version":  "1.83.0000",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20210720",
+                         "SizeMB":  3.39
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1764096148347)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço cphs terminou com o erro: \r\nIdentificador inválido\r\n",
+                          "EventID":  7023
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764096141373)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "Falha na inicialização do Trusted Platform Module (TPM). O TPM pode estar em modo de falha. Para permitir o diagnóstico, entre em contato com o fabricante do TPM com as informações em anexo.\r\n",
+                          "EventID":  27
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764096141351)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O driver de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware TPM, o que impede que os serviços do TPM (como criptografia de dados) sejam usados. Para obter mais",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764093688429)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: SystemSettings.exe, versão: 10.0.19041.6456, carimbo de data/hora: 0x80451368\r\nNome do módulo com falha: themeui.dll, versão: 10.0.19041.5794, carimbo de data/hora: 0x7da",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764092772120)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764089917959)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764086214981)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nNão é possível entrar com esta credencial porque o domínio não está disp",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764086171830)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764084037503)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764079570114)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764078141169)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764072967163)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de logon falhou. \r\n\tNome do GPO: Papel de parede personalizado Brasil Super Atacado\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{C5D6E801-9028-43FC-A",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764072967163)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de logon falhou. \r\n\tNome do GPO: GPO-AQS-COMPLETE-SYSINFO\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{1C3C1FF0-24E1-4161-A388-E5FDBB00ABCF}\\User\r\n\tN",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764072955107)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764072261132)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764072261063)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de inicialização falhou. \r\n\tNome do GPO: GPO-AQS-CRIAR-USER-LOCAL\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{4868EB5A-71D0-4E71-BBB9-D752BDDA5700}\\",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764072261063)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de inicialização falhou. \r\n\tNome do GPO: GPO-AQS-INSTALL-MESH\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{47A8AE7D-12F0-4B9F-BFA4-8DBF99186FDD}\\Mach",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764072249132)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764071758990)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "SecurityCenter",
+                          "Message":  "O Serviço da Central de Segurança do Windows não pôde carregar instâncias do FirewallProduct do repositório de dados.\r\n",
+                          "EventID":  18
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764071758240)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço Serviço do Google Update (gupdate) devido ao seguinte erro: \r\nO serviço não respondeu à requisição de início ou controle em tempo hábil.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764071758240)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764071663398)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: FirmwareVersion:M0UKT24A;OEMManufacturerName:LENO",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764071661532)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nNão é possível entrar com esta credencial porque o domínio não está disp",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764020436531)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nNão é possível entrar com esta credencial porque o domínio não está disp",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764020423485)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço cphs terminou com o erro: \r\nIdentificador inválido\r\n",
+                          "EventID":  7023
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764020416385)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "Falha na inicialização do Trusted Platform Module (TPM). O TPM pode estar em modo de falha. Para permitir o diagnóstico, entre em contato com o fabricante do TPM com as informações em anexo.\r\n",
+                          "EventID":  27
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764020416363)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O driver de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware TPM, o que impede que os serviços do TPM (como criptografia de dados) sejam usados. Para obter mais",
+                          "EventID":  15
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764019623138)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764019503181)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764014224806)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nNão é possível entrar com esta credencial porque o domínio não está disp",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764013923099)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764012903845)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

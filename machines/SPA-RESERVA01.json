@@ -1,0 +1,823 @@
+﻿{
+    "Hostname":  "SPA-RESERVA01",
+    "TimestampUtc":  "2025-12-01T15:00:09.5822230Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.2",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26200",
+               "Build":  "26200",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1764419951000)\/",
+               "LastBoot":  "\/Date(1764599553500)\/",
+               "Uptime":  "0d 0h 27m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "13EJ000BBO",
+                     "Family":  "ThinkCentre neo 50s Gen 5",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0E5SBH",
+                     "User":  "BRASILDIST\\Administrator"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M5IKT1FA",
+                 "ReleaseDate":  "\/Date(1758585600000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "335A",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i7-14700",
+                "Cores":  20,
+                "Logical":  28,
+                "MaxClockMHz":  2100,
+                "ProcessorId":  "BFEBFBFF000B0671"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 770",
+                "DriverVersion":  "32.0.101.5542",
+                "DriverDate":  "\/Date(1717804800000)\/",
+                "VRAM_GB":  2,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "PHL",
+                                         "Name":  "PHL 241V8LAB",
+                                         "Model":  "C326",
+                                         "Serial":  "AF02429296042",
+                                         "Week":  29,
+                                         "Year":  2024,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\PHLC326\\4\u0026914b5ec\u00260\u0026UID20530_0"
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  true,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  "WinDisc"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.62,
+                "FreeGB":  10.19,
+                "FreePercent":  65.2,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "Controller0-ChannelA-DIMM0",
+                                    "Manuf":  "A-DATA Technology",
+                                    "Part":  "AI2V56WCSV1-B1IS    ",
+                                    "Serial":  "03004063",
+                                    "CapacityGB":  16,
+                                    "SpeedMHz":  5600,
+                                    "ConfClk":  5600,
+                                    "Form":  8,
+                                    "SMBIOSType":  34,
+                                    "Voltage":  1.1,
+                                    "Min_Voltage":  1.1,
+                                    "Max_Voltage":  1.1
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "Windows",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  474.72,
+                                        "FreeGB":  420.32,
+                                        "FreePercent":  88.5,
+                                        "Health":  null
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "SSSTC CL4-8D512-Q79",
+                                      "Serial":  "38F6_0156_3202_35A3.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  476.94,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.50",
+                                 "169.254.175.104"
+                             ],
+                    "MACs":  [
+                                 "C8:58:B3:2F:33:02"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Wi-Fi",
+                                         "Status":  "Up",
+                                         "MAC":  "C8-58-B3-2F-33-02",
+                                         "IPv4":  [
+                                                      "192.168.17.50"
+                                                  ],
+                                         "Speed":  "574 Mbps"
+                                     },
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Disconnected",
+                                         "MAC":  "60-C7-27-2F-DC-3B",
+                                         "IPv4":  [
+                                                      "169.254.175.104"
+                                                  ],
+                                         "Speed":  "0 bps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  27.9
+              },
+    "Processes":  [
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  15248,
+                          "CPU":  1234.38,
+                          "MemoryMB":  635.5,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1764599752711)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  82.84,
+                          "MemoryMB":  3.3,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764599555504)\/"
+                      },
+                      {
+                          "Name":  "MsMpEng",
+                          "ID":  4488,
+                          "CPU":  65.86,
+                          "MemoryMB":  74.4,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764599564278)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  8540,
+                          "CPU":  10.53,
+                          "MemoryMB":  120.48,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1764599573591)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1992,
+                          "CPU":  8.08,
+                          "MemoryMB":  143.46,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1764599563679)\/"
+                      },
+                      {
+                          "Name":  "EPConsole",
+                          "ID":  14200,
+                          "CPU":  5.52,
+                          "MemoryMB":  173.09,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EpConsole.exe",
+                          "StartTime":  "\/Date(1764599863476)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3744,
+                          "CPU":  4.31,
+                          "MemoryMB":  21.46,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764599564059)\/"
+                      },
+                      {
+                          "Name":  "EPIntegrationService",
+                          "ID":  11680,
+                          "CPU":  3.67,
+                          "MemoryMB":  65.06,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPIntegrationService.exe",
+                          "StartTime":  "\/Date(1764599863509)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1844,
+                          "CPU":  3.62,
+                          "MemoryMB":  17.72,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764599563571)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4368,
+                          "CPU":  3.2,
+                          "MemoryMB":  23.72,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764599564274)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3056,
+                          "CPU":  3.17,
+                          "MemoryMB":  18.86,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764599563916)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  1528,
+                          "CPU":  2.83,
+                          "MemoryMB":  12.02,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764599562978)\/"
+                      },
+                      {
+                          "Name":  "LenovoVantageService",
+                          "ID":  4344,
+                          "CPU":  2.83,
+                          "MemoryMB":  70.98,
+                          "Path":  "C:\\Program Files (x86)\\Lenovo\\VantageService\\4.3.96.0\\LenovoVantageService.exe",
+                          "StartTime":  "\/Date(1764599564274)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  6772,
+                          "CPU":  2.5,
+                          "MemoryMB":  24.15,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764599565629)\/"
+                      },
+                      {
+                          "Name":  "Memory Compression",
+                          "ID":  3140,
+                          "CPU":  2.44,
+                          "MemoryMB":  211.07,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764599563932)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "Dhcp",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.28.580",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  946.64
+                     },
+                     {
+                         "Name":  "LibreOffice 25.8.3.2",
+                         "Version":  "25.8.3.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  793.22
+                     },
+                     {
+                         "Name":  "K-Lite Mega Codec Pack 19.3.0",
+                         "Version":  "19.3.0",
+                         "Publisher":  "KLCP",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  207.84
+                     },
+                     {
+                         "Name":  "Java 8 Update 471 (64-bit)",
+                         "Version":  "8.0.4710.9",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  113.24
+                     },
+                     {
+                         "Name":  "Realtek Audio Driver",
+                         "Version":  "6.0.9686.1",
+                         "Publisher":  "Realtek Semiconductor Corp.",
+                         "InstallDate":  "20250402",
+                         "SizeMB":  98.1
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.28902",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  33.83
+                     },
+                     {
+                         "Name":  "Intel(R) Management Engine Components",
+                         "Version":  "2425.6.26.0",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  27.92
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719",
+                         "Version":  "14.50.35719.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.7
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664",
+                         "Version":  "12.0.40664.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.57
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+                         "Version":  "11.0.61030.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.52
+                     },
+                     {
+                         "Name":  "Intel(R) Icls",
+                         "Version":  "1.0.0.0",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  "20250402",
+                         "SizeMB":  20.09
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ v14 Redistributable (x86) - 14.50.35719",
+                         "Version":  "14.50.35719.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.23
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+                         "Version":  "11.0.61030.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.38
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664",
+                         "Version":  "12.0.40664.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Lenovo Vantage Service",
+                         "Version":  "4.3.96.0",
+                         "Publisher":  "Lenovo Group Ltd.",
+                         "InstallDate":  "20251129",
+                         "SizeMB":  15.59
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                         "Version":  "10.0.40219",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  13.87
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+                         "Version":  "9.0.30729.6161",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  13.21
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20251129",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+                         "Version":  "11.0.61030",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251201",
+                         "SizeMB":  11.98
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1764600778428)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764600778378)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599878504)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599878447)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599878399)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599878347)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599864526)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M5IKT1FA;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_13EJ_BU_Think_F",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599576242)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599576140)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599570860)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599529497)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Universal Device Client Service não foi desligado corretamente após receber um controle de pré-desligamento.\r\n",
+                          "EventID":  7043
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764599512066)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O DCOM obteve o erro \"1115\" ao tentar iniciar o serviço wuauserv com argumentos \"Não Disponível\" para executar o servidor:\r\n{E60687F7-01A1-40AA-86AC-DB1CBF673334}\r\n",
+                          "EventID":  10005
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764595412752)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764595412704)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764594512727)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764594512680)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764593612721)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764593612673)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764593459493)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-WindowsUpdateClient",
+                          "Message":  "Falha na Instalação: o Windows não pôde instalar a seguinte atualização com o erro 0x80073D02: 9WZDNCRFJ4MV-E046963F.LENOVOCOMPANION.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764592712740)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764592712693)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591813207)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591813192)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591813159)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591813144)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591789790)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M5IKT1FA;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_13EJ_BU_Think_F",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591510558)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591510469)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591497441)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591455357)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Universal Device Client Service não foi desligado corretamente após receber um controle de pré-desligamento.\r\n",
+                          "EventID":  7043
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591436728)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O DCOM obteve o erro \"1115\" ao tentar iniciar o serviço wuauserv com argumentos \"Não Disponível\" para executar o servidor:\r\n{E60687F7-01A1-40AA-86AC-DB1CBF673334}\r\n",
+                          "EventID":  10005
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591436728)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O DCOM obteve o erro \"1115\" ao tentar iniciar o serviço wuauserv com argumentos \"Não Disponível\" para executar o servidor:\r\n{E60687F7-01A1-40AA-86AC-DB1CBF673334}\r\n",
+                          "EventID":  10005
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591148532)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591148516)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591148485)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591148469)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764591135011)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M5IKT1FA;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_13EJ_BU_Think_F",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764590846479)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764590846384)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor MicrosoftWindows.Client.WebExperience_424.1301.270.9_x64__cw5n1h2txyewy!WindowsUdk.UI.Shell.Dashboard.DashboardExtension não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764590841553)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

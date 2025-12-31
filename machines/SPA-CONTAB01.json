@@ -1,0 +1,675 @@
+﻿{
+    "Hostname":  "SPA-CONTAB01",
+    "TimestampUtc":  "2025-12-31T12:30:12.2403994Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1641564300000)\/",
+               "LastBoot":  "\/Date(1767182787500)\/",
+               "Uptime":  "0d 0h 23m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "11BL000FBP",
+                     "Family":  "V530S-07ICR",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE05K68B",
+                     "User":  "BRASILDIST\\jeferson.bonamigo"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M30KT19A",
+                 "ReleaseDate":  "\/Date(1580428800000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3178",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+                "Cores":  6,
+                "Logical":  6,
+                "MaxClockMHz":  2808,
+                "ProcessorId":  "BFEBFBFF000906EA"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 630",
+                "DriverVersion":  "31.0.101.2112",
+                "DriverDate":  "\/Date(1658361600000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  2,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA728862",
+                                         "Week":  15,
+                                         "Year":  2022,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u0026bc73863\u00260\u0026UID224795_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     },
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA706507",
+                                         "Week":  13,
+                                         "Year":  2022,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u0026bc73863\u00260\u0026UID206379_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  false
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1440,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1440x900"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1440,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1440x900"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1440,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1440x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.9,
+                "FreeGB":  9.54,
+                "FreePercent":  60,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "8F1C",
+                                    "Part":  "RM-D4-8G-3200Z      ",
+                                    "Serial":  "000002E3",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2667,
+                                    "ConfClk":  2667,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 2",
+                                    "Slot":  "ChannelB-DIMM2",
+                                    "Manuf":  "8F1C",
+                                    "Part":  "RM-D4-8G-3200Z      ",
+                                    "Serial":  "0000030A",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2667,
+                                    "ConfClk":  2667,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.4,
+                                        "FreeGB":  83.76,
+                                        "FreePercent":  37.7,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37240G",
+                                      "Serial":  "50026B73802F812E",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.78"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:B4:65:22"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet 2",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-B4-65-22",
+                                         "IPv4":  [
+                                                      "192.168.17.78"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  47,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  47,
+                                              "Display":  "47,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  35,
+                                                  "Display":  "35,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i5-8400",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/8",
+                                                      "ValueC":  47,
+                                                      "MinC":  45,
+                                                      "MaxC":  47
+                                                  },
+                                                  {
+                                                      "HardwareName":  "KINGSTON SA400S37240G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  35,
+                                                      "MinC":  35,
+                                                      "MaxC":  35
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "svchost",
+                          "ID":  7876,
+                          "CPU":  114.23,
+                          "MemoryMB":  54.99,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182810339)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  12520,
+                          "CPU":  83.19,
+                          "MemoryMB":  438.38,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182892858)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4836,
+                          "CPU":  74.61,
+                          "MemoryMB":  47.92,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182817292)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  33.89,
+                          "MemoryMB":  0.14,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182789554)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3884,
+                          "CPU":  33.86,
+                          "MemoryMB":  600.02,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767182795574)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1808,
+                          "CPU":  26.2,
+                          "MemoryMB":  109.09,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767182794798)\/"
+                      },
+                      {
+                          "Name":  "SearchIndexer",
+                          "ID":  8228,
+                          "CPU":  20.61,
+                          "MemoryMB":  242.38,
+                          "Path":  "C:\\WINDOWS\\system32\\SearchIndexer.exe",
+                          "StartTime":  "\/Date(1767182817350)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  9160,
+                          "CPU":  17.23,
+                          "MemoryMB":  155.16,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767182873395)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  13944,
+                          "CPU":  15.52,
+                          "MemoryMB":  109.04,
+                          "Path":  "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767183025216)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3352,
+                          "CPU":  13.19,
+                          "MemoryMB":  18.24,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182795405)\/"
+                      },
+                      {
+                          "Name":  "EXCEL",
+                          "ID":  13544,
+                          "CPU":  11.16,
+                          "MemoryMB":  204.51,
+                          "Path":  "C:\\Program Files\\Microsoft Office\\Root\\Office16\\EXCEL.EXE",
+                          "StartTime":  "\/Date(1767183948903)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  12312,
+                          "CPU":  10.53,
+                          "MemoryMB":  64.5,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182892689)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1336,
+                          "CPU":  9.91,
+                          "MemoryMB":  15.77,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182794559)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  3996,
+                          "CPU":  9.89,
+                          "MemoryMB":  124.67,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182892125)\/"
+                      },
+                      {
+                          "Name":  "PCSIS750",
+                          "ID":  14496,
+                          "CPU":  8.94,
+                          "MemoryMB":  76.59,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCSIS750.EXE",
+                          "StartTime":  "\/Date(1767183958868)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Domínio Contábil",
+                         "Version":  null,
+                         "Publisher":  "Domínio Sistemas Ltda.",
+                         "InstallDate":  "20210220",
+                         "SizeMB":  2267.49
+                     },
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20997",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251210",
+                         "SizeMB":  1169.56
+                     },
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240314",
+                         "SizeMB":  1045.74
+                     },
+                     {
+                         "Name":  "LibreOffice 6.3.0.4",
+                         "Version":  "6.3.0.4",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20190819",
+                         "SizeMB":  862.3
+                     },
+                     {
+                         "Name":  "Foxit PDF Reader",
+                         "Version":  "2024.3.0.26795",
+                         "Publisher":  "Foxit Software Inc.",
+                         "InstallDate":  "20241009",
+                         "SizeMB":  495.93
+                     },
+                     {
+                         "Name":  "Webex",
+                         "Version":  "43.2.0.25211",
+                         "Publisher":  "Cisco Systems, Inc",
+                         "InstallDate":  "20231010",
+                         "SizeMB":  457.12
+                     },
+                     {
+                         "Name":  "Microsoft OneDrive",
+                         "Version":  "25.222.1112.0002",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  456.59
+                     },
+                     {
+                         "Name":  "HP LaserJet Pro MFP 4101 4102 4103 4104 Software básico do dispositivo",
+                         "Version":  "54.4.5330.23293",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20251219",
+                         "SizeMB":  339.76
+                     },
+                     {
+                         "Name":  "Mozilla Firefox (x64 pt-BR)",
+                         "Version":  "143.0",
+                         "Publisher":  "Mozilla",
+                         "InstallDate":  null,
+                         "SizeMB":  309.71
+                     },
+                     {
+                         "Name":  "Sped Contábil 10.2.1",
+                         "Version":  "10.2.1",
+                         "Publisher":  "Receita Federal do Brasil",
+                         "InstallDate":  null,
+                         "SizeMB":  270
+                     },
+                     {
+                         "Name":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte ",
+                         "Version":  "1.0",
+                         "Publisher":  "Receita Federal do Brasil",
+                         "InstallDate":  null,
+                         "SizeMB":  250.28
+                     },
+                     {
+                         "Name":  "Java 8 Update 431 (64-bit)",
+                         "Version":  "8.0.4310.10",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20241129",
+                         "SizeMB":  212.08
+                     },
+                     {
+                         "Name":  "IRPF 2024 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País ",
+                         "Version":  "1.4",
+                         "Publisher":  "Receita Federal do Brasil",
+                         "InstallDate":  null,
+                         "SizeMB":  199.46
+                     },
+                     {
+                         "Name":  "IRPF 2023 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País ",
+                         "Version":  "1.0",
+                         "Publisher":  "Receita Federal do Brasil",
+                         "InstallDate":  null,
+                         "SizeMB":  199.32
+                     },
+                     {
+                         "Name":  "Java 8 Update 431",
+                         "Version":  "8.0.4310.10",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20241129",
+                         "SizeMB":  193.23
+                     },
+                     {
+                         "Name":  "GCAP 2024 - Ganhos de Capital ",
+                         "Version":  "1.0",
+                         "Publisher":  "Receita Federal do Brasil",
+                         "InstallDate":  null,
+                         "SizeMB":  168.96
+                     },
+                     {
+                         "Name":  "AR 2024 - Atividade Rural ",
+                         "Version":  "1.0",
+                         "Publisher":  "Receita Federal do Brasil",
+                         "InstallDate":  null,
+                         "SizeMB":  164
+                     },
+                     {
+                         "Name":  "Domínio Web Plugin",
+                         "Version":  "4.1",
+                         "Publisher":  "Thomson Reuters",
+                         "InstallDate":  "20251122",
+                         "SizeMB":  132.41
+                     },
+                     {
+                         "Name":  "Busca - NF-e Escritório",
+                         "Version":  null,
+                         "Publisher":  "Domínio Sistemas Ltda.",
+                         "InstallDate":  "20210220",
+                         "SizeMB":  130.63
+                     },
+                     {
+                         "Name":  "Assinador SERPRO 4.2.2",
+                         "Version":  "4.2.2",
+                         "Publisher":  "SERPRO- Serviço Federal de Processamento de Dados",
+                         "InstallDate":  "20250522",
+                         "SizeMB":  125.98
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767183474081)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: clipesu.exe, versão: 10.0.19041.6392, carimbo de data/hora: 0x22d5d34a\r\nNome do módulo com falha: clipesu.exe, versão: 10.0.19041.6392, carimbo de data/hora: 0x22d5d34a\r\n",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767183095521)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: FirmwareVersion:M30KT19A;OEMManufacturerName:LENO",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182926359)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço Serviço do Google Update (gupdate) devido ao seguinte erro: \r\nO serviço não respondeu à requisição de início ou controle em tempo hábil.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182926359)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767098161130)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-User Profiles Service",
+                          "Message":  "O Windows não pode localizar o perfil local e está fazendo seu logon com um perfil temporário. As alterações que você fizer nesse perfil serão perdidas quando você fizer logoff.\r\n",
+                          "EventID":  1511
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767098161129)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-User Profiles Service",
+                          "Message":  "O Windows fez o backup deste perfil de usuário. O Windows tentará usar automaticamente esse perfil na próxima vez em que o usuário fizer logon.\r\n",
+                          "EventID":  1515
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       },
+                                       {
+                                           "Name":  "Kaspersky Endpoint Security for Windows",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       }
+                                   ]
+                 }
+}

@@ -1,0 +1,570 @@
+﻿{
+    "Hostname":  "ATC-BALCAO-CX04",
+    "TimestampUtc":  "2025-12-11T13:31:27.5280514Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1653727484000)\/",
+               "LastBoot":  "\/Date(1765457708500)\/",
+               "Uptime":  "0d 0h 36m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "Micro-Star International Co., Ltd.",
+                     "Model":  "MS-7D22",
+                     "Family":  "Default string",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "Default string",
+                     "User":  "BRASILDIST\\valquiria.salvalaio"
+                 },
+    "BIOS":  {
+                 "Vendor":  "American Megatrends International, LLC.",
+                 "Version":  "3.50",
+                 "ReleaseDate":  "\/Date(1631232000000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "Micro-Star International Co., Ltd.",
+                      "Product":  "H510M-A PRO (MS-7D22)",
+                      "Serial":  "07D2212_L91E164134"
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3696,
+                "ProcessorId":  "BFEBFBFF000A0653"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 630",
+                "DriverVersion":  "31.0.101.2111",
+                "DriverDate":  "\/Date(1658188800000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "PHL",
+                                         "Name":  "PHL 242V8",
+                                         "Model":  "C219",
+                                         "Serial":  "AF52140123414",
+                                         "Week":  40,
+                                         "Year":  2021,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\PHLC219\\4\u00261440d7a\u00260\u0026UID224795_0",
+                                         "WidthPx":  1024,
+                                         "HeightPx":  768,
+                                         "Resolution":  "1024x768",
+                                         "CurrentHz":  60,
+                                         "MaxHz":  60,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  true,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  "WinDisc",
+                                                "Resolution":  "1024x768"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.83,
+                "FreeGB":  3.21,
+                "FreePercent":  41,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 1",
+                                    "Slot":  "Controller0-ChannelB",
+                                    "Manuf":  "0x0000",
+                                    "Part":  "                    ",
+                                    "Serial":  "00000000",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.39,
+                                        "FreeGB":  124.23,
+                                        "FreePercent":  55.9,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "PNY CS900 240GB SSD",
+                                      "Serial":  "PNY22012201070100840",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.70"
+                             ],
+                    "MACs":  [
+                                 "D8:BB:C1:70:78:72"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet 2",
+                                         "Status":  "Up",
+                                         "MAC":  "D8-BB-C1-70-78-72",
+                                         "IPv4":  [
+                                                      "192.168.17.70"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  39,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  39,
+                                              "Display":  "39,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  33,
+                                                  "Display":  "33,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i3-10105",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/6",
+                                                      "ValueC":  39,
+                                                      "MinC":  39,
+                                                      "MaxC":  44
+                                                  },
+                                                  {
+                                                      "HardwareName":  "PNY CS900 240GB SSD",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  33,
+                                                      "MinC":  33,
+                                                      "MaxC":  33
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4000,
+                          "CPU":  71.3,
+                          "MemoryMB":  678.29,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1765457719276)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  15872,
+                          "CPU":  48.16,
+                          "MemoryMB":  130.57,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1765457777395)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  3308,
+                          "CPU":  42.77,
+                          "MemoryMB":  154.61,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1765457880491)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1844,
+                          "CPU":  37.39,
+                          "MemoryMB":  51.54,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1765457718497)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  35.86,
+                          "MemoryMB":  8.27,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1765457710212)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  15676,
+                          "CPU":  18.78,
+                          "MemoryMB":  171.38,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1765457776445)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  15316,
+                          "CPU":  14.31,
+                          "MemoryMB":  87.65,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\142.0.3595.94\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1765457772782)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2532,
+                          "CPU":  13.67,
+                          "MemoryMB":  27.02,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1765457718657)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  9672,
+                          "CPU":  13.45,
+                          "MemoryMB":  190.91,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1765457745641)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3412,
+                          "CPU":  13.27,
+                          "MemoryMB":  23.29,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1765457719106)\/"
+                      },
+                      {
+                          "Name":  "Memory Compression",
+                          "ID":  2816,
+                          "CPU":  12.89,
+                          "MemoryMB":  219.67,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1765457718707)\/"
+                      },
+                      {
+                          "Name":  "SearchIndexer",
+                          "ID":  7144,
+                          "CPU":  10.02,
+                          "MemoryMB":  38.96,
+                          "Path":  "C:\\WINDOWS\\system32\\SearchIndexer.exe",
+                          "StartTime":  "\/Date(1765457723109)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  1052,
+                          "CPU":  9.22,
+                          "MemoryMB":  14.24,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1765457717257)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1388,
+                          "CPU":  8.3,
+                          "MemoryMB":  16.48,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1765457718226)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  7692,
+                          "CPU":  7.47,
+                          "MemoryMB":  21.34,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1765457729303)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Registo de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Servidor",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Gestão Remota do Windows (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240819",
+                         "SizeMB":  1225.09
+                     },
+                     {
+                         "Name":  "LibreOffice 7.0.4.2",
+                         "Version":  "7.0.4.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20220530",
+                         "SizeMB":  671.28
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20220528",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20220528",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "CAIXA versão 30.03.04.787",
+                         "Version":  "30.03.04.787",
+                         "Publisher":  "TOTVs Winthor",
+                         "InstallDate":  "20220528",
+                         "SizeMB":  166.42
+                     },
+                     {
+                         "Name":  "NetSupport Manager",
+                         "Version":  "11.30.0000",
+                         "Publisher":  "NetSupport Ltd",
+                         "InstallDate":  "20220528",
+                         "SizeMB":  41.77
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "HP MFP Scan",
+                         "Version":  "1.06.67 ()",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  null,
+                         "SizeMB":  16.36
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "HP Scan Process Machine",
+                         "Version":  "1.03.05.30",
+                         "Publisher":  "HP Development Company, L.P.",
+                         "InstallDate":  null,
+                         "SizeMB":  12.51
+                     },
+                     {
+                         "Name":  "Verificação do estado de funcionamento do PC Windows",
+                         "Version":  "3.6.2204.08001",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220528",
+                         "SizeMB":  11.66
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+                         "Version":  "9.0.30729.6161",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20231128",
+                         "SizeMB":  10.2
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220528",
+                         "SizeMB":  9.23
+                     },
+                     {
+                         "Name":  "Assistente de Atualização do Windows 10",
+                         "Version":  "1.4.9200.23367",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  5
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2005 Redistributable",
+                         "Version":  "8.0.56336",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220528",
+                         "SizeMB":  5
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Bematech User Software",
+                         "Version":  null,
+                         "Publisher":  "Bematech",
+                         "InstallDate":  "20220530",
+                         "SizeMB":  2.85
+                     },
+                     {
+                         "Name":  "Common Desktop Agent",
+                         "Version":  "1.62.0",
+                         "Publisher":  "OEM",
+                         "InstallDate":  "20250701",
+                         "SizeMB":  2.8
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220528",
+                         "SizeMB":  2.03
+                     },
+                     {
+                         "Name":  "AnyDesk",
+                         "Version":  "ad 7.0.15",
+                         "Publisher":  "philandro Software GmbH",
+                         "InstallDate":  null,
+                         "SizeMB":  2
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1765458019278)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: BaseBoardManufacturer:Micro-Star International Co., Ltd.;FirmwareManufacturer:American Me",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765457840868)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765457840868)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

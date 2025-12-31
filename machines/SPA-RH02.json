@@ -1,0 +1,595 @@
+﻿{
+    "Hostname":  "SPA-RH02",
+    "TimestampUtc":  "2025-12-31T12:30:10.3183709Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1723817563000)\/",
+               "LastBoot":  "\/Date(1767181132500)\/",
+               "Uptime":  "0d 0h 51m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "11T000C2BO",
+                     "Family":  "ThinkCentre neo 50s Gen 3",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0A2BPZ",
+                     "User":  "BRASILDIST\\jennifer.silva"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M49KT29A",
+                 "ReleaseDate":  "\/Date(1704326400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "32E6",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "12th Gen Intel(R) Core(TM) i3-12100",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3300,
+                "ProcessorId":  "BFEBFBFF00090675"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 730",
+                "DriverVersion":  "32.0.101.6129",
+                "DriverDate":  "\/Date(1729209600000)\/",
+                "VRAM_GB":  2,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA711307",
+                                         "Week":  13,
+                                         "Year":  2022,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u002629ad8628\u00260\u0026UID64_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.72,
+                "FreeGB":  3.37,
+                "FreePercent":  43.7,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "A-DATA Technology",
+                                    "Part":  "AL2P32NC8T1-B8ES    ",
+                                    "Serial":  "ED180000",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "Windows",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  236.25,
+                                        "FreeGB":  143.55,
+                                        "FreePercent":  60.8,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "SSSTC CL4-8D256-Q79",
+                                      "Serial":  "38F6_0156_3182_713C.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  238.47,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.60"
+                             ],
+                    "MACs":  [
+                                 "18:A5:9C:B5:51:36"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "18-A5-9C-B5-51-36",
+                                         "IPv4":  [
+                                                      "192.168.17.60"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  45,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  45,
+                                              "Display":  "45,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  32,
+                                                  "Display":  "32,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "12th Gen Intel Core i3-12100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/6",
+                                                      "ValueC":  45,
+                                                      "MinC":  43,
+                                                      "MaxC":  45
+                                                  },
+                                                  {
+                                                      "HardwareName":  "SSSTC CL4-8D256-Q79",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/nvme/0/temperature/0",
+                                                      "ValueC":  32,
+                                                      "MinC":  0,
+                                                      "MaxC":  32
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  12632,
+                          "CPU":  48.69,
+                          "MemoryMB":  195,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767181269178)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  46.94,
+                          "MemoryMB":  8.97,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767181135143)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3632,
+                          "CPU":  33.14,
+                          "MemoryMB":  344.67,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767181138976)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  792,
+                          "CPU":  21.83,
+                          "MemoryMB":  101.01,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767181138598)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  11848,
+                          "CPU":  19.41,
+                          "MemoryMB":  42.21,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767181267910)\/"
+                      },
+                      {
+                          "Name":  "Memory Compression",
+                          "ID":  2592,
+                          "CPU":  17.41,
+                          "MemoryMB":  437.07,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767181138674)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  3320,
+                          "CPU":  15.52,
+                          "MemoryMB":  65.73,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767181297308)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  13076,
+                          "CPU":  11.17,
+                          "MemoryMB":  70.29,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767181302810)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  11492,
+                          "CPU":  10.97,
+                          "MemoryMB":  19.64,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767181267216)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  9028,
+                          "CPU":  7.98,
+                          "MemoryMB":  129.58,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767181252432)\/"
+                      },
+                      {
+                          "Name":  "PontoAgil",
+                          "ID":  5792,
+                          "CPU":  6.78,
+                          "MemoryMB":  36.59,
+                          "Path":  "X:\\Ponto\\PontoAgil.exe",
+                          "StartTime":  "\/Date(1767183836645)\/"
+                      },
+                      {
+                          "Name":  "SearchApp",
+                          "ID":  9236,
+                          "CPU":  5.88,
+                          "MemoryMB":  275.04,
+                          "Path":  "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+                          "StartTime":  "\/Date(1767181253670)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  12036,
+                          "CPU":  5.39,
+                          "MemoryMB":  7.6,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767181268073)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  13104,
+                          "CPU":  5.09,
+                          "MemoryMB":  154.03,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767181297038)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  796,
+                          "CPU":  4.14,
+                          "MemoryMB":  5.22,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767181138070)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20250208",
+                         "SizeMB":  1193.9
+                     },
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20997",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251217",
+                         "SizeMB":  1169.56
+                     },
+                     {
+                         "Name":  "Domínio Web Plugin",
+                         "Version":  "4.1",
+                         "Publisher":  "Thomson Reuters",
+                         "InstallDate":  "20251217",
+                         "SizeMB":  132.41
+                     },
+                     {
+                         "Name":  "AppController - AllUsers",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn",
+                         "InstallDate":  null,
+                         "SizeMB":  76.45
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.28902",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20251217",
+                         "SizeMB":  66.51
+                     },
+                     {
+                         "Name":  "AppController",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn Corporation",
+                         "InstallDate":  "20241105",
+                         "SizeMB":  41.33
+                     },
+                     {
+                         "Name":  "Acesso Remoto - Dominio Sistemas",
+                         "Version":  "7.52.1119",
+                         "Publisher":  "LogMeIn, Inc.",
+                         "InstallDate":  "20251217",
+                         "SizeMB":  34.65
+                     },
+                     {
+                         "Name":  "Office 16 Click-to-Run Extensibility Component",
+                         "Version":  "16.0.19426.20170",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251208",
+                         "SizeMB":  31.43
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20240816",
+                         "SizeMB":  9.23
+                     },
+                     {
+                         "Name":  "Office 16 Click-to-Run Licensing Component",
+                         "Version":  "16.0.19029.20208",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250827",
+                         "SizeMB":  8.09
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20240816",
+                         "SizeMB":  2.03
+                     },
+                     {
+                         "Name":  "Adobe Refresh Manager",
+                         "Version":  "1.8.0",
+                         "Publisher":  "Adobe Systems Incorporated",
+                         "InstallDate":  "20250908",
+                         "SizeMB":  2.02
+                     },
+                     {
+                         "Name":  "Office 16 Click-to-Run Localization Component",
+                         "Version":  "16.0.19426.20170",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251208",
+                         "SizeMB":  1.04
+                     },
+                     {
+                         "Name":  "Microsoft Update Health Tools",
+                         "Version":  "3.74.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20240816",
+                         "SizeMB":  1.03
+                     },
+                     {
+                         "Name":  "Update for x64-based Windows Systems (KB5001716)",
+                         "Version":  "8.94.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250903",
+                         "SizeMB":  0.84
+                     },
+                     {
+                         "Name":  "Microsoft Edge",
+                         "Version":  "143.0.3650.96",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251220",
+                         "SizeMB":  null
+                     },
+                     {
+                         "Name":  "Google Chrome",
+                         "Version":  "143.0.7499.170",
+                         "Publisher":  "Google LLC",
+                         "InstallDate":  "20251224",
+                         "SizeMB":  null
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767183827543)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa PontoAgil.exe versão 24.0.1.2 parou de interagir com o Windows e foi fechado. Para ver se mais informações sobre o problema estão disponíveis, verifique o histórico de problemas no painel d",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181439208)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: FirmwareVersion:M49KT29A;OEMManufacturerName:LENO",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767134295695)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: PontoAgil.exe, versão: 24.0.1.2, carimbo de data/hora: 0x694ebbcf\r\nNome do módulo com falha: bdhkm32.dll, versão: 1.12.237.0, carimbo de data/hora: 0x67d01011\r\nCódigo de ",
+                          "EventID":  1000
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

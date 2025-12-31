@@ -1,0 +1,638 @@
+﻿{
+    "Hostname":  "SPA-ENTRADA2",
+    "TimestampUtc":  "2025-12-31T12:30:14.1181270Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1719350733000)\/",
+               "LastBoot":  "\/Date(1767181995500)\/",
+               "Uptime":  "0d 0h 36m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "10NN001JBR",
+                     "Family":  "V520S-08IKL",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE03PCN3",
+                     "User":  "BRASILDIST\\jessica.raillane"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M16KT60A",
+                 "ReleaseDate":  "\/Date(1568678400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3102",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+                "Cores":  2,
+                "Logical":  4,
+                "MaxClockMHz":  3912,
+                "ProcessorId":  "BFEBFBFF000906E9"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) HD Graphics 630",
+                "DriverVersion":  "31.0.101.2115",
+                "DriverDate":  "\/Date(1668556800000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1366x768",
+                "RefreshRate":  "59Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  2,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "ACR",
+                                         "Name":  "V206HQL",
+                                         "Model":  "0334",
+                                         "Serial":  "LY6AA0128509",
+                                         "Week":  8,
+                                         "Year":  2017,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\ACR0334\\4\u00262db56130\u00260\u0026UID200195_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1366,
+                                         "HeightPx":  768,
+                                         "Resolution":  "1366x768",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     },
+                                     {
+                                         "Manufacturer":  "ACR",
+                                         "Name":  "V206HQL",
+                                         "Model":  "0334",
+                                         "Serial":  "LY6AA0128509",
+                                         "Week":  8,
+                                         "Year":  2017,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\ACR0334\\4\u00262db56130\u00260\u0026UID198195_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1366,
+                                         "HeightPx":  768,
+                                         "Resolution":  "1366x768",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  false
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1366,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1366x768"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1366,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1366x768"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1366,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1366x768"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1366,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1366x768"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1366,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1366x768"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1366,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1366x768"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.91,
+                "FreeGB":  8.91,
+                "FreePercent":  56,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 1",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "Kingston",
+                                    "Part":  "KHX2400C15/8G       ",
+                                    "Serial":  "B54B524B",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2133,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 3",
+                                    "Slot":  "ChannelB-DIMM1",
+                                    "Manuf":  "0194",
+                                    "Part":  "SF4641G8CK8I8HLSBG  ",
+                                    "Serial":  "01407D53",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2667,
+                                    "ConfClk":  2133,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  223.52,
+                                        "FreeGB":  148.51,
+                                        "FreePercent":  66.4,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37240G",
+                                      "Serial":  "50026B7685EF4E93",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.35"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:99:DE:6E"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-99-DE-6E",
+                                         "IPv4":  [
+                                                      "192.168.17.35"
+                                                  ],
+                                         "Speed":  "100 Mbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  29.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  47,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  47,
+                                              "Display":  "47,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  28,
+                                                  "Display":  "28,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i3-7100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/4",
+                                                      "ValueC":  47,
+                                                      "MinC":  44,
+                                                      "MaxC":  47
+                                                  },
+                                                  {
+                                                      "HardwareName":  "KINGSTON SA400S37240G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  28,
+                                                      "MinC":  28,
+                                                      "MaxC":  28
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  10940,
+                          "CPU":  200.8,
+                          "MemoryMB":  705.63,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182028874)\/"
+                      },
+                      {
+                          "Name":  "msedge",
+                          "ID":  9412,
+                          "CPU":  189.91,
+                          "MemoryMB":  265,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+                          "StartTime":  "\/Date(1767184003890)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  2360,
+                          "CPU":  86.94,
+                          "MemoryMB":  363.77,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182144687)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1800,
+                          "CPU":  86.75,
+                          "MemoryMB":  69.66,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767182001935)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  12996,
+                          "CPU":  66.94,
+                          "MemoryMB":  248.57,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182139048)\/"
+                      },
+                      {
+                          "Name":  "msedge",
+                          "ID":  12800,
+                          "CPU":  60.67,
+                          "MemoryMB":  499.39,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+                          "StartTime":  "\/Date(1767184013885)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  1524,
+                          "CPU":  56.58,
+                          "MemoryMB":  208.39,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182139996)\/"
+                      },
+                      {
+                          "Name":  "PCSIS1301",
+                          "ID":  12352,
+                          "CPU":  52.23,
+                          "MemoryMB":  127.01,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCSIS1301.EXE",
+                          "StartTime":  "\/Date(1767182065323)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  37.19,
+                          "MemoryMB":  9.53,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767181997725)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3612,
+                          "CPU":  36.56,
+                          "MemoryMB":  644.52,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767182003266)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  10712,
+                          "CPU":  33.91,
+                          "MemoryMB":  121.31,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182028633)\/"
+                      },
+                      {
+                          "Name":  "PCSIS1301",
+                          "ID":  12712,
+                          "CPU":  27.05,
+                          "MemoryMB":  100.5,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCSIS1301.EXE",
+                          "StartTime":  "\/Date(1767182076391)\/"
+                      },
+                      {
+                          "Name":  "msedge",
+                          "ID":  10180,
+                          "CPU":  25.94,
+                          "MemoryMB":  171.01,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+                          "StartTime":  "\/Date(1767184004250)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  7760,
+                          "CPU":  25.64,
+                          "MemoryMB":  150.03,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767182016628)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  3572,
+                          "CPU":  24.67,
+                          "MemoryMB":  211.64,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182624723)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240820",
+                         "SizeMB":  1225.09
+                     },
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20997",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251211",
+                         "SizeMB":  1169.56
+                     },
+                     {
+                         "Name":  "LibreOffice 24.2.5.2",
+                         "Version":  "24.2.5.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20240718",
+                         "SizeMB":  780.86
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 9.0.10 (x64)",
+                         "Version":  "9.0.10.35325",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  103.39
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.21 (x64)",
+                         "Version":  "8.0.21.35325",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  98.35
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 9.0.10 (x64)",
+                         "Version":  "72.40.40927",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  74.05
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.21 (x64)",
+                         "Version":  "64.84.40925",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  70.25
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.24601",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  33.75
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.74
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.24
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  11.61
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  10.11
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20240626",
+                         "SizeMB":  9.23
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  2.35
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20240626",
+                         "SizeMB":  2.03
+                     },
+                     {
+                         "Name":  "Adobe Refresh Manager",
+                         "Version":  "1.8.0",
+                         "Publisher":  "Adobe Systems Incorporated",
+                         "InstallDate":  "20250908",
+                         "SizeMB":  2.02
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  1.98
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767182302821)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENO",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181998948)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "TPM",
+                          "Message":  "O driver de dispositivo do TPM (Trusted Platform Module) encontrou um erro irrecuperável no hardware TPM, o que impede que os serviços do TPM (como criptografia de dados) sejam usados. Para obter mais",
+                          "EventID":  15
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

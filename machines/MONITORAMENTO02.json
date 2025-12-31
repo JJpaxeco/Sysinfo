@@ -1,0 +1,703 @@
+﻿{
+    "Hostname":  "MONITORAMENTO02",
+    "TimestampUtc":  "2025-12-31T12:30:14.5556027Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1763050004000)\/",
+               "LastBoot":  "\/Date(1767177628500)\/",
+               "Uptime":  "0d 1h 49m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "To Be Filled By O.E.M.",
+                     "Model":  "B450M Steel Legend",
+                     "Family":  "To Be Filled By O.E.M.",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "To Be Filled By O.E.M.",
+                     "User":  "BRASILDIST\\monitoramento"
+                 },
+    "BIOS":  {
+                 "Vendor":  "American Megatrends Inc.",
+                 "Version":  "P10.43",
+                 "ReleaseDate":  "\/Date(1750809600000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "ASRock",
+                      "Product":  "B450M Steel Legend",
+                      "Serial":  "M80-D8003802025"
+                  },
+    "CPU":  {
+                "Name":  "AMD Ryzen 5 3600XT 6-Core Processor            ",
+                "Cores":  6,
+                "Logical":  12,
+                "MaxClockMHz":  3801,
+                "ProcessorId":  "178BFBFF00870F10"
+            },
+    "GPU":  {
+                "Name":  "NVIDIA GeForce GTX 1660",
+                "DriverVersion":  "32.0.15.9159",
+                "DriverDate":  "\/Date(1765411200000)\/",
+                "VRAM_GB":  4,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "74Hz",
+                "MaxRefreshRate":  "74Hz"
+            },
+    "Monitor":  {
+                    "Count":  3,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "AOC",
+                                         "Name":  "2460G5",
+                                         "Model":  "246A",
+                                         "Serial":  "1609",
+                                         "Week":  43,
+                                         "Year":  2020,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\AOC246A\\5\u00261549dab2\u00261\u0026UID24832_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     },
+                                     {
+                                         "Manufacturer":  "AOC",
+                                         "Name":  "2460G5",
+                                         "Model":  "246A",
+                                         "Serial":  "1751",
+                                         "Week":  43,
+                                         "Year":  2020,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\AOC246A\\5\u00261549dab2\u00261\u0026UID24836_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  false
+                                     },
+                                     {
+                                         "Manufacturer":  "AOC",
+                                         "Name":  "2460G5",
+                                         "Model":  "246A",
+                                         "Serial":  "1844",
+                                         "Week":  43,
+                                         "Year":  2020,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\AOC246A\\5\u00261549dab2\u00261\u0026UID24837_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  false
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  31.93,
+                "FreeGB":  26.66,
+                "FreePercent":  83.5,
+                "Modules":  [
+                                {
+                                    "Bank":  "P0 CHANNEL A",
+                                    "Slot":  "DIMM 1",
+                                    "Manuf":  "Unknown",
+                                    "Part":  " ",
+                                    "Serial":  "00000000",
+                                    "CapacityGB":  16,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "P0 CHANNEL B",
+                                    "Slot":  "DIMM 1",
+                                    "Manuf":  "Unknown",
+                                    "Part":  " ",
+                                    "Serial":  "00000000",
+                                    "CapacityGB":  16,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.91,
+                                        "FreeGB":  156.75,
+                                        "FreePercent":  70.3,
+                                        "Health":  "Healthy"
+                                    },
+                                    {
+                                        "DriveLetter":  "D",
+                                        "Label":  "Novo volume",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  1863,
+                                        "FreeGB":  1861.29,
+                                        "FreePercent":  99.9,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37/240G",
+                                      "Serial":  "59XT2BICS512A0000014",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  },
+                                  {
+                                      "Model":  "WDC WD20PURZ-85GU6Y0",
+                                      "Serial":  "WD-WCC4M3FRR805",
+                                      "Media":  "HDD",
+                                      "Bus":  "SATA",
+                                      "Type":  "HDD",
+                                      "SizeGB":  1863.02,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  "Unknown"
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.67.26"
+                             ],
+                    "MACs":  [
+                                 "A8:A1:59:45:75:A0"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "A8-A1-59-45-75-A0",
+                                         "IPv4":  [
+                                                      "192.168.67.26"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  52.1,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  52.1,
+                                              "Display":  "52,1 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  40,
+                                              "Display":  "40,0 °C"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  40,
+                                                  "Display":  "40,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "AMD Ryzen 5 3600XT",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "Média",
+                                                      "SensorId":  "/amdcpu/0/temperature/2",
+                                                      "ValueC":  52.1,
+                                                      "MinC":  41.5,
+                                                      "MaxC":  57.5
+                                                  },
+                                                  {
+                                                      "HardwareName":  "NVIDIA GeForce GTX 1660",
+                                                      "HardwareType":  "GpuNvidia",
+                                                      "SensorName":  "GPU Core",
+                                                      "SensorId":  "/gpu-nvidia/0/temperature/0",
+                                                      "ValueC":  40,
+                                                      "MinC":  40,
+                                                      "MaxC":  40
+                                                  },
+                                                  {
+                                                      "HardwareName":  "KINGSTON SA400S37/240G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  40,
+                                                      "MinC":  40,
+                                                      "MaxC":  40
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "SIMNext",
+                          "ID":  4256,
+                          "CPU":  6345.2,
+                          "MemoryMB":  1383.23,
+                          "Path":  "C:\\Program Files\\Intelbras\\SIMNext\\SIM Next\\SIMNext.exe",
+                          "StartTime":  "\/Date(1767177682145)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  1462.06,
+                          "MemoryMB":  1.9,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767177630545)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1960,
+                          "CPU":  523.72,
+                          "MemoryMB":  67.8,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767177636574)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4060,
+                          "CPU":  37.61,
+                          "MemoryMB":  842.87,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767177638397)\/"
+                      },
+                      {
+                          "Name":  "nvcontainer",
+                          "ID":  10032,
+                          "CPU":  19.78,
+                          "MemoryMB":  73.94,
+                          "Path":  "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+                          "StartTime":  "\/Date(1767177664007)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  10616,
+                          "CPU":  16.66,
+                          "MemoryMB":  176.76,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767177665871)\/"
+                      },
+                      {
+                          "Name":  "WmiPrvSE",
+                          "ID":  6084,
+                          "CPU":  15.83,
+                          "MemoryMB":  24.96,
+                          "Path":  "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+                          "StartTime":  "\/Date(1767177641110)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2476,
+                          "CPU":  14.22,
+                          "MemoryMB":  21.94,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767177637016)\/"
+                      },
+                      {
+                          "Name":  "EPProtectedService",
+                          "ID":  4052,
+                          "CPU":  11.67,
+                          "MemoryMB":  35.18,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767177638397)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  1004,
+                          "CPU":  6.98,
+                          "MemoryMB":  5.63,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767177635446)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  10208,
+                          "CPU":  6.78,
+                          "MemoryMB":  24.16,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767177664303)\/"
+                      },
+                      {
+                          "Name":  "SIMNext.LocalRecording",
+                          "ID":  4084,
+                          "CPU":  6.55,
+                          "MemoryMB":  167.07,
+                          "Path":  "C:\\Program Files\\Intelbras\\SIMNext\\Local Recording Service\\SIMNext.LocalRecording.exe",
+                          "StartTime":  "\/Date(1767177638399)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  1092,
+                          "CPU":  5.45,
+                          "MemoryMB":  14.25,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767177635607)\/"
+                      },
+                      {
+                          "Name":  "ctfmon",
+                          "ID":  10248,
+                          "CPU":  5.17,
+                          "MemoryMB":  23.29,
+                          "Path":  "C:\\Windows\\system32\\ctfmon.exe",
+                          "StartTime":  "\/Date(1767177665440)\/"
+                      },
+                      {
+                          "Name":  "lsass",
+                          "ID":  1100,
+                          "CPU":  4.25,
+                          "MemoryMB":  29.35,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767177635638)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20251204",
+                         "SizeMB":  974.39
+                     },
+                     {
+                         "Name":  "LibreOffice 25.8.4.2",
+                         "Version":  "25.8.4.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20251222",
+                         "SizeMB":  780.77
+                     },
+                     {
+                         "Name":  "Intelbras SIM Next 1.25.4",
+                         "Version":  "1.25.4",
+                         "Publisher":  "Intelbras",
+                         "InstallDate":  "20251222",
+                         "SizeMB":  459.86
+                     },
+                     {
+                         "Name":  "PowerShell 7-x64",
+                         "Version":  "7.5.4.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251113",
+                         "SizeMB":  280.09
+                     },
+                     {
+                         "Name":  "AMD Ryzen Master",
+                         "Version":  "2.14.2.3341",
+                         "Publisher":  "Advanced Micro Devices, Inc.",
+                         "InstallDate":  "20251113",
+                         "SizeMB":  146.91
+                     },
+                     {
+                         "Name":  "K-Lite Mega Codec Pack 19.3.5",
+                         "Version":  "19.3.5",
+                         "Publisher":  "KLCP",
+                         "InstallDate":  "20251222",
+                         "SizeMB":  118.99
+                     },
+                     {
+                         "Name":  "Java 8 Update 471 (64-bit)",
+                         "Version":  "8.0.4710.9",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251113",
+                         "SizeMB":  113.24
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719",
+                         "Version":  "14.50.35719.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.7
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664",
+                         "Version":  "12.0.40664.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.57
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+                         "Version":  "11.0.61030.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.52
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ v14 Redistributable (x86) - 14.50.35719",
+                         "Version":  "14.50.35719.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.23
+                     },
+                     {
+                         "Name":  "AMD Chipset Software",
+                         "Version":  "7.06.02.123",
+                         "Publisher":  "Advanced Micro Devices, Inc.",
+                         "InstallDate":  null,
+                         "SizeMB":  18.03
+                     },
+                     {
+                         "Name":  "AMD_Chipset_Drivers",
+                         "Version":  "7.06.02.123",
+                         "Publisher":  "Advanced Micro Devices, Inc.",
+                         "InstallDate":  "20251113",
+                         "SizeMB":  18.03
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+                         "Version":  "11.0.61030.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.38
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664",
+                         "Version":  "12.0.40664.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                         "Version":  "10.0.40219",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251113",
+                         "SizeMB":  13.87
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+                         "Version":  "9.0.30729.6161",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251113",
+                         "SizeMB":  13.21
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20251113",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+                         "Version":  "11.0.61030",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251113",
+                         "SizeMB":  11.98
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.50.35719",
+                         "Version":  "14.50.35719",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251222",
+                         "SizeMB":  11.59
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767177937731)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: BaseBoardManufacturer:ASRock;FirmwareManufacturer",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767177692814)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-PerfNet",
+                          "Message":  "Não foi possível abrir o objeto de desempenho do serviço do Servidor. Os primeiros quatro bytes (DWORD) da seção de dados contém o código do status.\r\n",
+                          "EventID":  2004
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767137242276)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: SIMNext.exe, versão: 1.25.4.1203, carimbo de data/hora: 0x69306ac4\r\nNome do módulo com falha: KERNELBASE.dll, versão: 10.0.19041.6280, carimbo de data/hora: 0x56511854\r\nC",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767137242040)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  ".NET Runtime",
+                          "Message":  "Aplicativo: SIMNext.exe\nVersão do Framework: v4.0.30319\nDescrição: O processo foi terminado devido a uma exceção sem tratamento.\nInformações da Exceção: System.IO.IOException\n   em System.IO.__Error.W",
+                          "EventID":  1026
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

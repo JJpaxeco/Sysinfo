@@ -1,0 +1,659 @@
+﻿{
+    "Hostname":  "SPA-CONTAB5",
+    "TimestampUtc":  "2025-12-16T14:00:11.7369319Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26200",
+               "Build":  "26200",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1764674395000)\/",
+               "LastBoot":  "\/Date(1765826257500)\/",
+               "Uptime":  "0d 18h 42m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "12JG0014BO",
+                     "Family":  "ThinkCentre neo 50s Gen 4",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0DCQ39",
+                     "User":  "BRASILDIST\\camila.silva"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M4ZKT49A",
+                 "ReleaseDate":  "\/Date(1760572800000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3339",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "13th Gen Intel(R) Core(TM) i3-13100",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3400,
+                "ProcessorId":  "BFEBFBFF000B06F5"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 730",
+                "DriverVersion":  "32.0.101.6129",
+                "DriverDate":  "\/Date(1729209600000)\/",
+                "VRAM_GB":  2,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "60Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "MS_",
+                                         "Name":  null,
+                                         "Model":  "0001",
+                                         "Serial":  "1",
+                                         "Week":  0,
+                                         "Year":  2002,
+                                         "SizeInches":  null,
+                                         "WidthCm":  null,
+                                         "HeightCm":  null,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\MS_0001\\4\u002632c006f6\u00263\u0026UID2142332_0",
+                                         "WidthPx":  1024,
+                                         "HeightPx":  768,
+                                         "Resolution":  "1024x768",
+                                         "CurrentHz":  60,
+                                         "MaxHz":  60,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  true,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  "WinDisc",
+                                                "Resolution":  "1024x768"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.68,
+                "FreeGB":  9.86,
+                "FreePercent":  62.9,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "Samsung",
+                                    "Part":  "M378A1G44CB0-CWE    ",
+                                    "Serial":  "382BDDBC",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM2",
+                                    "Manuf":  "Samsung",
+                                    "Part":  "M378A1G44CB0-CWE    ",
+                                    "Serial":  "382BE193",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  237.53,
+                                        "FreeGB":  176.7,
+                                        "FreePercent":  74.4,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "SKHynix_HFS256GEJ9X113N",
+                                      "Serial":  "0000_0000_0000_0000_40D5_6300_4B08_AA0F.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  238.47,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.66",
+                                 "169.254.151.225"
+                             ],
+                    "MACs":  [
+                                 "60:C7:27:20:1B:99"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Wi-Fi",
+                                         "Status":  "Disconnected",
+                                         "MAC":  "70-D8-C2-4E-36-1C",
+                                         "IPv4":  [
+                                                      "169.254.151.225"
+                                                  ],
+                                         "Speed":  "0 bps"
+                                     },
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "60-C7-27-20-1B-99",
+                                         "IPv4":  [
+                                                      "192.168.17.66"
+                                                  ],
+                                         "Speed":  "100 Mbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  35,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  35,
+                                              "Display":  "35,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  29,
+                                                  "Display":  "29,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "13th Gen Intel Core i3-13100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/6",
+                                                      "ValueC":  35,
+                                                      "MinC":  35,
+                                                      "MaxC":  35
+                                                  },
+                                                  {
+                                                      "HardwareName":  "SKHynix_HFS256GEJ9X113N",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/nvme/0/temperature/0",
+                                                      "ValueC":  29,
+                                                      "MinC":  0,
+                                                      "MaxC":  29
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4232,
+                          "CPU":  823.88,
+                          "MemoryMB":  775.69,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1765826269199)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  714.25,
+                          "MemoryMB":  1.89,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1765826261710)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1876,
+                          "CPU":  424.81,
+                          "MemoryMB":  170.66,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1765826268553)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  6736,
+                          "CPU":  182.78,
+                          "MemoryMB":  29.03,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1765826271318)\/"
+                      },
+                      {
+                          "Name":  "WmiPrvSE",
+                          "ID":  7640,
+                          "CPU":  174.67,
+                          "MemoryMB":  20.17,
+                          "Path":  "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe",
+                          "StartTime":  "\/Date(1765826276934)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3924,
+                          "CPU":  155.27,
+                          "MemoryMB":  10.03,
+                          "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1765826271531)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4572,
+                          "CPU":  142.22,
+                          "MemoryMB":  24.59,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1765826269264)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  7840,
+                          "CPU":  120.86,
+                          "MemoryMB":  28.09,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1765826274283)\/"
+                      },
+                      {
+                          "Name":  "AdobeCollabSync",
+                          "ID":  9844,
+                          "CPU":  81.17,
+                          "MemoryMB":  14.64,
+                          "Path":  "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\AdobeCollabSync.exe",
+                          "StartTime":  "\/Date(1765827044935)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2880,
+                          "CPU":  49.66,
+                          "MemoryMB":  21.33,
+                          "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1765826268782)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2976,
+                          "CPU":  47.73,
+                          "MemoryMB":  18.91,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1765826268801)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1720,
+                          "CPU":  40.28,
+                          "MemoryMB":  19.48,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1765826268442)\/"
+                      },
+                      {
+                          "Name":  "WUDFHost",
+                          "ID":  1580,
+                          "CPU":  39.5,
+                          "MemoryMB":  19.74,
+                          "Path":  "C:\\Windows\\System32\\WUDFHost.exe",
+                          "StartTime":  "\/Date(1765826268384)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  1252,
+                          "CPU":  39.5,
+                          "MemoryMB":  7.66,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1765826267799)\/"
+                      },
+                      {
+                          "Name":  "EPIntegrationService",
+                          "ID":  4240,
+                          "CPU":  38.48,
+                          "MemoryMB":  62.27,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPIntegrationService.exe",
+                          "StartTime":  "\/Date(1765826269199)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20997",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251215",
+                         "SizeMB":  1169.56
+                     },
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  974.39
+                     },
+                     {
+                         "Name":  "PowerShell 7-x64",
+                         "Version":  "7.5.4.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  280.09
+                     },
+                     {
+                         "Name":  "Intel® Graphics Software",
+                         "Version":  "25.32.1758.2",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  272.33
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 9.0.11 (x64)",
+                         "Version":  "9.0.11.35420",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  227.84
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.22 (x64)",
+                         "Version":  "8.0.22.35428",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  217.03
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.17 (x64)",
+                         "Version":  "8.0.17.34917",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  216.01
+                     },
+                     {
+                         "Name":  "K-Lite Mega Codec Pack 19.3.0",
+                         "Version":  "19.3.0",
+                         "Publisher":  "KLCP",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  207.84
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.22 (x86)",
+                         "Version":  "8.0.22.35428",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  201.65
+                     },
+                     {
+                         "Name":  "Intel® Graphics Software",
+                         "Version":  "25.32.1758.2",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  127.13
+                     },
+                     {
+                         "Name":  "Java 8 Update 471 (64-bit)",
+                         "Version":  "8.0.4710.9",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  113.24
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.22 (x64)",
+                         "Version":  "8.0.22.35427",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  98.38
+                     },
+                     {
+                         "Name":  "Realtek Audio Driver",
+                         "Version":  "6.0.9686.1",
+                         "Publisher":  "Realtek Semiconductor Corp.",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  98.1
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 9.0.11 (x64)",
+                         "Version":  "72.44.42433",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  94.66
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.17 (x64)",
+                         "Version":  "64.68.34385",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  89.94
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.22 (x64)",
+                         "Version":  "64.88.42561",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  89.94
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.22 (x86)",
+                         "Version":  "64.88.42561",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  84.68
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 9.0.11 (x64)",
+                         "Version":  "72.44.42384",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  74.06
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.22 (x64)",
+                         "Version":  "64.88.42551",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  70.25
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.17 (x64)",
+                         "Version":  "64.68.34370",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251202",
+                         "SizeMB":  70.25
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1765890210080)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa explorer.exe versão 10.0.26100.7462 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de cont",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765826569528)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765826269394)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765826217698)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765823739605)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-WindowsUpdateClient",
+                          "Message":  "Falha na Instalação: o Windows não pôde instalar a seguinte atualização com o erro 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765823599630)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  ".NET Runtime",
+                          "Message":  ".NET Runtime version 4.0.30319.0 - Falha ao inicializar a infra-estrutura de anexação da API do criador de perfil. Esse processo não permite que um perfil seja anexado. HRESULT: 0x80004005.  ID do Pro",
+                          "EventID":  1022
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765822607360)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: AdobeCollabSync.exe, versão: 25.1.20937.0, carimbo de data/hora: 0x691b6e8f\r\nNome do módulo com falha: ucrtbase.dll, versão: 10.0.26100.7019, carimbo de data/hora: 0x55ee",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765822576430)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765822372942)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765822292934)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Startup script falhou. \r\n\tNome do GPO: GPO-AQS-INSTALL-MESH\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{47A8AE7D-12F0-4B9F-BFA4-8DBF99186FDD}\\Machine\r\n\tNom",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1765822292916)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "O processamento da Política de Grupo falhou devido à falta de conectividade de rede com um controlador de domínio. Talvez seja uma condição temporária. Uma mensagem de êxito será gerada assim que a má",
+                          "EventID":  1129
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

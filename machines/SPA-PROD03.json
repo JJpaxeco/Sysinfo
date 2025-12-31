@@ -1,0 +1,635 @@
+﻿{
+    "Hostname":  "SPA-PROD03",
+    "TimestampUtc":  "2025-12-31T12:30:11.9295113Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26200",
+               "Build":  "26200",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1737372354000)\/",
+               "LastBoot":  "\/Date(1767174683500)\/",
+               "Uptime":  "0d 2h 38m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "11T000C2BO",
+                     "Family":  "ThinkCentre neo 50s Gen 3",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0A8EL1",
+                     "User":  "BRASILDIST\\raimundo.lima"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M49KT29A",
+                 "ReleaseDate":  "\/Date(1704326400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "32E6",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "12th Gen Intel(R) Core(TM) i3-12100",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3300,
+                "ProcessorId":  "BFEBFBFF00090675"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 730",
+                "DriverVersion":  "32.0.101.6129",
+                "DriverDate":  "\/Date(1729209600000)\/",
+                "VRAM_GB":  2,
+                "Resolution":  "1366x768",
+                "RefreshRate":  "59Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "GSM",
+                                         "Name":  "LG HD",
+                                         "Model":  "5ACB",
+                                         "Serial":  "16843009",
+                                         "Week":  1,
+                                         "Year":  2014,
+                                         "SizeInches":  18.5,
+                                         "WidthCm":  41,
+                                         "HeightCm":  23,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\GSM5ACB\\4\u002638e9fd99\u00260\u0026UID64_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1366,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1366x768"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.72,
+                "FreeGB":  2.92,
+                "FreePercent":  37.8,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "A-DATA Technology",
+                                    "Part":  "AL2P32NC8T1-B8ES    ",
+                                    "Serial":  "51010000",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "Windows",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  236.25,
+                                        "FreeGB":  120.61,
+                                        "FreePercent":  51.1,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "SSSTC CL4-8D256-Q79",
+                                      "Serial":  "38F6_0156_318E_0A89.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  238.47,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.13"
+                             ],
+                    "MACs":  [
+                                 "18:A5:9C:B6:4B:6F"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "18-A5-9C-B6-4B-6F",
+                                         "IPv4":  [
+                                                      "192.168.17.13"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  39,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  39,
+                                              "Display":  "39,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  27,
+                                                  "Display":  "27,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "12th Gen Intel Core i3-12100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/6",
+                                                      "ValueC":  39,
+                                                      "MinC":  39,
+                                                      "MaxC":  40
+                                                  },
+                                                  {
+                                                      "HardwareName":  "SSSTC CL4-8D256-Q79",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/nvme/0/temperature/0",
+                                                      "ValueC":  27,
+                                                      "MinC":  0,
+                                                      "MaxC":  27
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "PCMIX6107",
+                          "ID":  15592,
+                          "CPU":  116.62,
+                          "MemoryMB":  88.63,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCMIX6107.EXE",
+                          "StartTime":  "\/Date(1767175728266)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  103.92,
+                          "MemoryMB":  4.21,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767174685812)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4480,
+                          "CPU":  44.64,
+                          "MemoryMB":  324.35,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767174691070)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  2020,
+                          "CPU":  42.42,
+                          "MemoryMB":  82.32,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767174690574)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  14468,
+                          "CPU":  28.25,
+                          "MemoryMB":  0.55,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767174808019)\/"
+                      },
+                      {
+                          "Name":  "PCINF000",
+                          "ID":  6328,
+                          "CPU":  28.14,
+                          "MemoryMB":  81.97,
+                          "Path":  "C:\\WinThor\\Spool\\Executaveis\\45FB528F0AD05BCC56680F4DFFDED1EC\\PCINF000.exe",
+                          "StartTime":  "\/Date(1767174893678)\/"
+                      },
+                      {
+                          "Name":  "PCINF000",
+                          "ID":  11816,
+                          "CPU":  25.02,
+                          "MemoryMB":  79.58,
+                          "Path":  "C:\\WinThor\\Spool\\Executaveis\\45FB528F0AD05BCC56680F4DFFDED1EC\\PCINF000.exe",
+                          "StartTime":  "\/Date(1767175706043)\/"
+                      },
+                      {
+                          "Name":  "PCSIS2069",
+                          "ID":  10788,
+                          "CPU":  21.06,
+                          "MemoryMB":  54.93,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCSIS2069.EXE",
+                          "StartTime":  "\/Date(1767176547514)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  9560,
+                          "CPU":  18.19,
+                          "MemoryMB":  216.81,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767174793868)\/"
+                      },
+                      {
+                          "Name":  "Memory Compression",
+                          "ID":  3436,
+                          "CPU":  17.14,
+                          "MemoryMB":  627.16,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767174690789)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4024,
+                          "CPU":  14.19,
+                          "MemoryMB":  20.43,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767174690949)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  1244,
+                          "CPU":  13,
+                          "MemoryMB":  6.5,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767174689825)\/"
+                      },
+                      {
+                          "Name":  "UDClientService",
+                          "ID":  4724,
+                          "CPU":  12.8,
+                          "MemoryMB":  45.87,
+                          "Path":  "C:\\WINDOWS\\System32\\drivers\\Lenovo\\udc\\Service\\UDClientService.exe",
+                          "StartTime":  "\/Date(1767174691106)\/"
+                      },
+                      {
+                          "Name":  "EPCP",
+                          "ID":  4464,
+                          "CPU":  10.58,
+                          "MemoryMB":  19.61,
+                          "Path":  "C:\\Program Files\\EPSON\\EpsonCustomerResearchParticipation\\EPCP.exe",
+                          "StartTime":  "\/Date(1767174691070)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4792,
+                          "CPU":  9.72,
+                          "MemoryMB":  22.88,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767174691113)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20241205",
+                         "SizeMB":  1166.72
+                     },
+                     {
+                         "Name":  "LibreOffice 7.5.5.2",
+                         "Version":  "7.5.5.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20240229",
+                         "SizeMB":  790.93
+                     },
+                     {
+                         "Name":  "Adobe Acrobat Reader DC - Português",
+                         "Version":  "15.020.20039",
+                         "Publisher":  "Adobe Systems Incorporated",
+                         "InstallDate":  "20240229",
+                         "SizeMB":  216.58
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.28902",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20251203",
+                         "SizeMB":  166.8
+                     },
+                     {
+                         "Name":  "Epson ScanSmart",
+                         "Version":  "3.7.17",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20250819",
+                         "SizeMB":  120.32
+                     },
+                     {
+                         "Name":  "Realtek Audio Driver",
+                         "Version":  "6.0.9686.1",
+                         "Publisher":  "Realtek Semiconductor Corp.",
+                         "InstallDate":  "20250717",
+                         "SizeMB":  98.1
+                     },
+                     {
+                         "Name":  "Epson Event Manager",
+                         "Version":  "3.11.82",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20250819",
+                         "SizeMB":  71.65
+                     },
+                     {
+                         "Name":  "EpsonNet Print",
+                         "Version":  "3.3.1.0",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20250819",
+                         "SizeMB":  21.68
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660",
+                         "Version":  "12.0.40660.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.57
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27027",
+                         "Version":  "14.16.27027.1",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.15
+                     },
+                     {
+                         "Name":  "Easy Photo Scan",
+                         "Version":  "1.00.0018",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20241212",
+                         "SizeMB":  18.55
+                     },
+                     {
+                         "Name":  "Scan To",
+                         "Version":  "2.0.1",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20241210",
+                         "SizeMB":  18.01
+                     },
+                     {
+                         "Name":  "Lenovo Vantage Service",
+                         "Version":  "4.2511.18.0",
+                         "Publisher":  "Lenovo Group Ltd.",
+                         "InstallDate":  "20251203",
+                         "SizeMB":  17.82
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Epson Printer Connection Checker",
+                         "Version":  "3.4.1.0",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20250819",
+                         "SizeMB":  14.43
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                         "Version":  "10.0.40219",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251010",
+                         "SizeMB":  13.86
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                         "Version":  "10.0.40219",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251010",
+                         "SizeMB":  13.84
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660",
+                         "Version":  "12.0.40660",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20230901",
+                         "SizeMB":  11.51
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+                         "Version":  "9.0.30729",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20241212",
+                         "SizeMB":  10.27
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767174991315)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767174815914)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço Serviço do Google Update (gupdate) devido ao seguinte erro: \r\nO serviço não respondeu à requisição de início ou controle em tempo hábil.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767174815914)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767174694791)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767174685809)\/",
+                          "LogName":  "System",
+                          "Level":  "Nível Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem um desligamento correto primeiro. Esse erro pode ser causado quando o sistema para de responder, trava ou fica sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767174690858)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "EventLog",
+                          "Message":  "O desligamento do sistema que ocorreu às 18:26:55 do dia ‎30/‎12/‎2025 não era esperado.\r\n",
+                          "EventID":  6008
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

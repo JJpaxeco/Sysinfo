@@ -1,0 +1,659 @@
+﻿{
+    "Hostname":  "SPA-MATABURRO",
+    "TimestampUtc":  "2025-12-31T12:30:14.7959786Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.22621",
+               "Build":  "22621",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1746544236000)\/",
+               "LastBoot":  "\/Date(1767173948500)\/",
+               "Uptime":  "0d 2h 51m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "To be filled by O.E.M.",
+                     "Model":  "To be filled by O.E.M.",
+                     "Family":  "To be filled by O.E.M.",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "To be filled by O.E.M.",
+                     "User":  "BRASILDIST\\repositores"
+                 },
+    "BIOS":  {
+                 "Vendor":  "American Megatrends Inc.",
+                 "Version":  "4.6.5",
+                 "ReleaseDate":  "\/Date(1607385600000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "INTEL Corporation",
+                      "Product":  "H81",
+                      "Serial":  "To be filled by O.E.M."
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+                "Cores":  2,
+                "Logical":  4,
+                "MaxClockMHz":  3400,
+                "ProcessorId":  "BFEBFBFF000306C3"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) HD Graphics 4400",
+                "DriverVersion":  "20.19.15.4531",
+                "DriverDate":  "\/Date(1475107200000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1440x900",
+                "RefreshRate":  "75Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "SAM",
+                                         "Name":  "SyncMaster",
+                                         "Model":  "02E3",
+                                         "Serial":  "HXGQB05090",
+                                         "Week":  46,
+                                         "Year":  2008,
+                                         "SizeInches":  17.2,
+                                         "WidthCm":  37,
+                                         "HeightCm":  23,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\SAM02E3\\4\u0026182de763\u00260\u0026UID65793_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1440,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1440x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  11.92,
+                "FreeGB":  8.15,
+                "FreePercent":  68.4,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "ChannelA-DIMM0",
+                                    "Manuf":  "0114",
+                                    "Part":  "SH564128FH8N6TNSQG",
+                                    "Serial":  "06224565",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  1600,
+                                    "ConfClk":  1600,
+                                    "Form":  8,
+                                    "SMBIOSType":  24,
+                                    "Voltage":  0,
+                                    "Min_Voltage":  0,
+                                    "Max_Voltage":  0
+                                },
+                                {
+                                    "Bank":  "BANK 2",
+                                    "Slot":  "ChannelB-DIMM0",
+                                    "Manuf":  "0000",
+                                    "Part":  "                  ",
+                                    "Serial":  "00000000",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  1600,
+                                    "ConfClk":  1600,
+                                    "Form":  8,
+                                    "SMBIOSType":  24,
+                                    "Voltage":  0,
+                                    "Min_Voltage":  0,
+                                    "Max_Voltage":  0
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.23,
+                                        "FreeGB":  187.68,
+                                        "FreePercent":  84.5,
+                                        "Health":  "Healthy"
+                                    },
+                                    {
+                                        "DriveLetter":  "D",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  0.74,
+                                        "FreeGB":  0.11,
+                                        "FreePercent":  15.3,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37/240G",
+                                      "Serial":  "58XTL06B040000000349",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.119"
+                             ],
+                    "MACs":  [
+                                 "0A:E0:AF:C4:03:C0"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "0A-E0-AF-C4-03-C0",
+                                         "IPv4":  [
+                                                      "192.168.17.119"
+                                                  ],
+                                         "Speed":  "100 Mbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  29.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  41,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  41,
+                                              "Display":  "41,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  40,
+                                                  "Display":  "40,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i3-4130",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/4",
+                                                      "ValueC":  41,
+                                                      "MinC":  39,
+                                                      "MaxC":  41
+                                                  },
+                                                  {
+                                                      "HardwareName":  "KINGSTON SA400S37/240G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  40,
+                                                      "MinC":  40,
+                                                      "MaxC":  40
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "chrome",
+                          "ID":  7864,
+                          "CPU":  30.08,
+                          "MemoryMB":  97.01,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767183520996)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3364,
+                          "CPU":  25.03,
+                          "MemoryMB":  704.21,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767173954877)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  3444,
+                          "CPU":  24.2,
+                          "MemoryMB":  126.68,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767183527098)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  12.69,
+                          "MemoryMB":  0.16,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767173949694)\/"
+                      },
+                      {
+                          "Name":  "MoUsoCoreWorker",
+                          "ID":  8188,
+                          "CPU":  6.27,
+                          "MemoryMB":  39.32,
+                          "Path":  "C:\\Windows\\uus\\packages\\preview\\AMD64\\MoUsoCoreWorker.exe",
+                          "StartTime":  "\/Date(1767174078522)\/"
+                      },
+                      {
+                          "Name":  "PCSIS1118",
+                          "ID":  10156,
+                          "CPU":  5.78,
+                          "MemoryMB":  67.34,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCSIS1118.EXE",
+                          "StartTime":  "\/Date(1767182903106)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  7884,
+                          "CPU":  5.73,
+                          "MemoryMB":  147.66,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767182638257)\/"
+                      },
+                      {
+                          "Name":  "tacticalrmm",
+                          "ID":  3604,
+                          "CPU":  4.98,
+                          "MemoryMB":  27.33,
+                          "Path":  "C:\\Program Files\\TacticalAgent\\tacticalrmm.exe",
+                          "StartTime":  "\/Date(1767173955010)\/"
+                      },
+                      {
+                          "Name":  "SearchHost",
+                          "ID":  2464,
+                          "CPU":  4.75,
+                          "MemoryMB":  170.32,
+                          "Path":  "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+                          "StartTime":  "\/Date(1767182640961)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1776,
+                          "CPU":  4.59,
+                          "MemoryMB":  73.17,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767173953741)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2012,
+                          "CPU":  4.09,
+                          "MemoryMB":  12.34,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767173953822)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  1932,
+                          "CPU":  3.95,
+                          "MemoryMB":  2.45,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182773333)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2388,
+                          "CPU":  3.58,
+                          "MemoryMB":  20.61,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767173954003)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  7400,
+                          "CPU":  3.55,
+                          "MemoryMB":  158.44,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767183519790)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  9268,
+                          "CPU":  2.34,
+                          "MemoryMB":  6.08,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182771893)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20250506",
+                         "SizeMB":  1180.78
+                     },
+                     {
+                         "Name":  "LibreOffice 25.2.4.3",
+                         "Version":  "25.2.4.3",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20250628",
+                         "SizeMB":  765.92
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.22 (x64)",
+                         "Version":  "8.0.22.35428",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  217.03
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.22 (x64)",
+                         "Version":  "8.0.22.35427",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  98.38
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.22 (x64)",
+                         "Version":  "64.88.42561",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251111",
+                         "SizeMB":  89.94
+                     },
+                     {
+                         "Name":  "Intel(R) Processor Graphics",
+                         "Version":  "20.19.15.4531",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  74.22
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.22 (x64)",
+                         "Version":  "64.88.42551",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251111",
+                         "SizeMB":  70.25
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.74
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.24
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251025",
+                         "SizeMB":  11.61
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251025",
+                         "SizeMB":  10.11
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250506",
+                         "SizeMB":  9.23
+                     },
+                     {
+                         "Name":  "Printer Tool",
+                         "Version":  "1.3.5",
+                         "Publisher":  "Argox",
+                         "InstallDate":  "20251222",
+                         "SizeMB":  8.1
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251025",
+                         "SizeMB":  2.35
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250506",
+                         "SizeMB":  2.03
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251025",
+                         "SizeMB":  1.98
+                     },
+                     {
+                         "Name":  "Microsoft Update Health Tools",
+                         "Version":  "5.72.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250506",
+                         "SizeMB":  1.02
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767175202513)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "A atualização de Inicialização Segura falhou ao atualizar uma variável da Inicialização Segura com o erro A Inicialização Segura não está habilitada neste computador.. Para mais informações, consulte ",
+                          "EventID":  1796
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767174078598)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "A atualização de Inicialização Segura falhou ao atualizar uma variável da Inicialização Segura com o erro A Inicialização Segura não está habilitada neste computador.. Para mais informações, consulte ",
+                          "EventID":  1796
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767173949685)\/",
+                          "LogName":  "System",
+                          "Level":  "Nível Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem um desligamento correto primeiro. Esse erro pode ser causado quando o sistema para de responder, trava ou fica sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767173954706)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "EventLog",
+                          "Message":  "O desligamento do sistema que ocorreu às 20:28:20 do dia ‎30/‎12/‎2025 não era esperado.\r\n",
+                          "EventID":  6008
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767132001645)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "A atualização de Inicialização Segura falhou ao atualizar uma variável da Inicialização Segura com o erro A Inicialização Segura não está habilitada neste computador.. Para mais informações, consulte ",
+                          "EventID":  1796
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767104308069)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "System Restore",
+                          "Message":  "Falha ao criar ponto de restauração (Processo = C:\\Windows\\system32\\srtasks.exe ExecuteScheduledSPPCreation; Descrição = Ponto de Verificação Agendado; Erro = 0x80070422).\r\n",
+                          "EventID":  8193
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

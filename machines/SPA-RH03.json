@@ -1,0 +1,973 @@
+﻿{
+    "Hostname":  "SPA-RH03",
+    "TimestampUtc":  "2025-12-31T12:39:00.8801499Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26100",
+               "Build":  "26100",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1746722882000)\/",
+               "LastBoot":  "\/Date(1767181128500)\/",
+               "Uptime":  "0d 1h 0m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "11T000C2BO",
+                     "Family":  "ThinkCentre neo 50s Gen 3",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0A8E6K",
+                     "User":  "BRASILDIST\\joselei.favero"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M49KT29A",
+                 "ReleaseDate":  "\/Date(1704326400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "32E6",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "12th Gen Intel(R) Core(TM) i3-12100",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3300,
+                "ProcessorId":  "BFEBFBFF00090675"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 730",
+                "DriverVersion":  "32.0.101.7026",
+                "DriverDate":  "\/Date(1755561600000)\/",
+                "VRAM_GB":  2,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "60Hz"
+            },
+    "Monitor":  {
+                    "Count":  2,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA493780",
+                                         "Week":  35,
+                                         "Year":  2021,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u002638e9fd99\u00260\u0026UID64_0",
+                                         "DisplayName":  "\\\\.\\DISPLAY2",
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  60,
+                                         "MaxHz":  60,
+                                         "Primary":  true
+                                     },
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA496930",
+                                         "Week":  35,
+                                         "Year":  2021,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u002638e9fd99\u00260\u0026UID20545_0",
+                                         "DisplayName":  "\\\\.\\DISPLAY1",
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  60,
+                                         "MaxHz":  60,
+                                         "Primary":  false
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  "\\\\.\\DISPLAY1",
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  true,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  "\\\\.\\DISPLAY2",
+                                                "Resolution":  "1600x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.72,
+                "FreeGB":  10.5,
+                "FreePercent":  66.8,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "0x0F1C",
+                                    "Part":  "RM-D4-8G-3200Z      ",
+                                    "Serial":  "00000262",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2667,
+                                    "ConfClk":  2667,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.35
+                                },
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM2",
+                                    "Manuf":  "0x0F1C",
+                                    "Part":  "RM-D4-8G-3200Z      ",
+                                    "Serial":  "000000E1",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2667,
+                                    "ConfClk":  2667,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.35
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "Windows",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  236.25,
+                                        "FreeGB":  66.95,
+                                        "FreePercent":  28.3,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "SSSTC CL4-8D256-Q79",
+                                      "Serial":  "38F6_0156_318E_0D53.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  238.47,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.33"
+                             ],
+                    "MACs":  [
+                                 "18:A5:9C:B1:7A:0B"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "18-A5-9C-B1-7A-0B",
+                                         "IPv4":  [
+                                                      "192.168.17.33"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  null,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "explorer",
+                          "ID":  10880,
+                          "CPU":  4.41,
+                          "MemoryMB":  267.32,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767184724848)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3652,
+                          "CPU":  2.47,
+                          "MemoryMB":  49.25,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767184724160)\/"
+                      },
+                      {
+                          "Name":  "DSATray",
+                          "ID":  10492,
+                          "CPU":  2,
+                          "MemoryMB":  105.02,
+                          "Path":  "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\x86\\DSATray.exe",
+                          "StartTime":  "\/Date(1767184724454)\/"
+                      },
+                      {
+                          "Name":  "SearchHost",
+                          "ID":  11404,
+                          "CPU":  1.27,
+                          "MemoryMB":  154.5,
+                          "Path":  "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+                          "StartTime":  "\/Date(1767184726665)\/"
+                      },
+                      {
+                          "Name":  "StartMenuExperienceHost",
+                          "ID":  11508,
+                          "CPU":  1.11,
+                          "MemoryMB":  147.83,
+                          "Path":  "C:\\WINDOWS\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+                          "StartTime":  "\/Date(1767184726673)\/"
+                      },
+                      {
+                          "Name":  "Microsoft.Notes",
+                          "ID":  11436,
+                          "CPU":  1.09,
+                          "MemoryMB":  149.55,
+                          "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftStickyNotes_6.1.4.0_x64__8wekyb3d8bbwe\\Microsoft.Notes.exe",
+                          "StartTime":  "\/Date(1767184726667)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  13200,
+                          "CPU":  0.98,
+                          "MemoryMB":  114.39,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767184727944)\/"
+                      },
+                      {
+                          "Name":  "EPConsole",
+                          "ID":  9704,
+                          "CPU":  0.67,
+                          "MemoryMB":  105.74,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EpConsole.exe",
+                          "StartTime":  "\/Date(1767184724133)\/"
+                      },
+                      {
+                          "Name":  "sihost",
+                          "ID":  9168,
+                          "CPU":  0.62,
+                          "MemoryMB":  50.74,
+                          "Path":  "C:\\WINDOWS\\system32\\sihost.exe",
+                          "StartTime":  "\/Date(1767184724025)\/"
+                      },
+                      {
+                          "Name":  "powershell",
+                          "ID":  13768,
+                          "CPU":  0.58,
+                          "MemoryMB":  93.77,
+                          "Path":  "C:\\WINDOWS\\system32\\WindowsPowershell\\v1.0\\powershell.exe",
+                          "StartTime":  "\/Date(1767184729292)\/"
+                      },
+                      {
+                          "Name":  "WidgetService",
+                          "ID":  12780,
+                          "CPU":  0.52,
+                          "MemoryMB":  26.38,
+                          "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe",
+                          "StartTime":  "\/Date(1767184727594)\/"
+                      },
+                      {
+                          "Name":  "RuntimeBroker",
+                          "ID":  12376,
+                          "CPU":  0.5,
+                          "MemoryMB":  49.72,
+                          "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+                          "StartTime":  "\/Date(1767184727137)\/"
+                      },
+                      {
+                          "Name":  "opushutil",
+                          "ID":  10612,
+                          "CPU":  0.47,
+                          "MemoryMB":  47.25,
+                          "Path":  "C:\\Program Files\\Microsoft Office\\root\\vfs\\ProgramFilesCommonx64\\Microsoft Shared\\Office16\\opushutil.exe",
+                          "StartTime":  "\/Date(1767184724543)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  13804,
+                          "CPU":  0.45,
+                          "MemoryMB":  108.93,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767184728457)\/"
+                      },
+                      {
+                          "Name":  "ShellExperienceHost",
+                          "ID":  13948,
+                          "CPU":  0.45,
+                          "MemoryMB":  104.08,
+                          "Path":  "C:\\WINDOWS\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+                          "StartTime":  "\/Date(1767184728564)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20997",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251211",
+                         "SizeMB":  1169.56
+                     },
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240314",
+                         "SizeMB":  1045.74
+                     },
+                     {
+                         "Name":  "Microsoft OneDrive",
+                         "Version":  "25.222.1112.0002",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  456.59
+                     },
+                     {
+                         "Name":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte ",
+                         "Version":  "1.0",
+                         "Publisher":  "Receita Federal do Brasil",
+                         "InstallDate":  null,
+                         "SizeMB":  250.28
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+                         "Version":  "8.0.14.34613",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  201.68
+                     },
+                     {
+                         "Name":  "Teams Machine-Wide Installer",
+                         "Version":  "1.6.0.24078",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20231120",
+                         "SizeMB":  135.8
+                     },
+                     {
+                         "Name":  "Domínio Web Plugin",
+                         "Version":  "4.1",
+                         "Publisher":  "Thomson Reuters",
+                         "InstallDate":  "20251118",
+                         "SizeMB":  132.41
+                     },
+                     {
+                         "Name":  "Assinador SERPRO 4.2.1",
+                         "Version":  "4.2.1",
+                         "Publisher":  "SERPRO- Serviço Federal de Processamento de dados",
+                         "InstallDate":  "20240531",
+                         "SizeMB":  126.31
+                     },
+                     {
+                         "Name":  "Java 8 Update 251",
+                         "Version":  "8.0.2510.8",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20231120",
+                         "SizeMB":  104.25
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x64)",
+                         "Version":  "8.0.14.34611",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  98.29
+                     },
+                     {
+                         "Name":  "Realtek Audio Driver",
+                         "Version":  "6.0.9686.1",
+                         "Publisher":  "Realtek Semiconductor Corp.",
+                         "InstallDate":  "20250714",
+                         "SizeMB":  98.1
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+                         "Version":  "64.56.29521",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  84.66
+                     },
+                     {
+                         "Name":  "AppController - AllUsers",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn",
+                         "InstallDate":  null,
+                         "SizeMB":  76.45
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x64)",
+                         "Version":  "64.56.29490",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  70.25
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x86)",
+                         "Version":  "64.56.29490",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  64.75
+                     },
+                     {
+                         "Name":  "Intel(R) Computing Improvement Program",
+                         "Version":  "2.4.10910",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  "20250127",
+                         "SizeMB":  58.55
+                     },
+                     {
+                         "Name":  "Epson Event Manager",
+                         "Version":  "3.10.0069",
+                         "Publisher":  "Seiko Epson Corporation",
+                         "InstallDate":  "20231121",
+                         "SizeMB":  45.94
+                     },
+                     {
+                         "Name":  "AppController",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn Corporation",
+                         "InstallDate":  "20231120",
+                         "SizeMB":  40.34
+                     },
+                     {
+                         "Name":  "Intel® Driver \u0026 Support Assistant",
+                         "Version":  "25.4.36.6",
+                         "Publisher":  "Intel",
+                         "InstallDate":  "20250909",
+                         "SizeMB":  37.06
+                     },
+                     {
+                         "Name":  "Acesso Remoto - Dominio Sistemas",
+                         "Version":  "7.52.1119",
+                         "Publisher":  "LogMeIn, Inc.",
+                         "InstallDate":  "20250514",
+                         "SizeMB":  34.65
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767184625289)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767184310641)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767183991369)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767183676708)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767183450148)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Intel(R) SUR QC Software Asset Manager.\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767183362043)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767183047395)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182732794)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182418154)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "BROWSER",
+                          "Message":  "O localizador não pôde se promover a mestre. O computador que atualmente se considera localizador mestre é SPA-RH04.\r\n",
+                          "EventID":  8009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182413584)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182098912)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182055900)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  ".NET Runtime",
+                          "Message":  "Description: A .NET application failed.\nApplication: DSAArcDetect64.exe\nPath: C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAArcDetect64.exe\nMessage: You must install or update .NET to r",
+                          "EventID":  1023
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181784258)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181761976)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Intel(R) SUR QC Software Asset Manager.\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181471513)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181433346)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181260006)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço Serviço do Google Update (gupdate) devido ao seguinte erro: \r\nO serviço não respondeu à requisição de início ou controle em tempo hábil.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181260006)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181156958)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181148963)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  ".NET Runtime",
+                          "Message":  "Description: A .NET application failed.\nApplication: DSAArcDetect64.exe\nPath: C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAArcDetect64.exe\nMessage: You must install or update .NET to r",
+                          "EventID":  1023
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181136602)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767128358151)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC0000001.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767128357233)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Universal Device Client Service não foi desligado corretamente após receber um controle de pré-desligamento.\r\n",
+                          "EventID":  7043
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767128130022)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767127815358)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767127500690)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767127186050)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767126871381)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767126556749)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767126242134)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767125927502)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767125612863)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767125298225)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767124983545)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767124668910)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767124354283)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767124039625)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767123724958)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767123410265)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767123095580)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767122780896)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767122470782)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767122156128)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767121841450)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767121526782)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767121212137)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767120897480)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767120582814)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767120268164)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767119953493)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NetBT",
+                          "Message":  "O nome \"BRASILDIST     :1d\" não pôde ser registrado na interface com o endereço IP 192.168.17.33. O computador de endereço IP 192.168.17.32 não permitiu que o nome fosse reivindicado por este computad",
+                          "EventID":  4321
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

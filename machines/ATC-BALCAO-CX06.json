@@ -1,0 +1,599 @@
+﻿{
+    "Hostname":  "ATC-BALCAO-CX06",
+    "TimestampUtc":  "2025-12-31T12:30:17.3127618Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1654007713000)\/",
+               "LastBoot":  "\/Date(1767096107500)\/",
+               "Uptime":  "1d 0h 28m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "90AT0002BR",
+                     "Family":  " ",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE01J0LA",
+                     "User":  "BRASILDIST\\regina.santos"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "FCKT65AUS",
+                 "ReleaseDate":  "\/Date(1421020800000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  " ",
+                      "Serial":  "INVALID             "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+                "Cores":  2,
+                "Logical":  4,
+                "MaxClockMHz":  3400,
+                "ProcessorId":  "BFEBFBFF000306C3"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) HD Graphics 4400",
+                "DriverVersion":  "20.19.15.4963",
+                "DriverDate":  "\/Date(1519171200000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "85Hz"
+            },
+    "Monitor":  {
+                    "Count":  0,
+                    "Monitors":  [
+
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1024x768"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1024x768"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1024x768"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.92,
+                "FreeGB":  2.66,
+                "FreePercent":  33.6,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "ChannelA-DIMM0",
+                                    "Manuf":  "0114",
+                                    "Part":  "SH564128FH8N6TNSQG",
+                                    "Serial":  "00AC9FCC",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  1600,
+                                    "ConfClk":  1600,
+                                    "Form":  8,
+                                    "SMBIOSType":  24,
+                                    "Voltage":  1.5,
+                                    "Min_Voltage":  1.5,
+                                    "Max_Voltage":  1.5
+                                },
+                                {
+                                    "Bank":  "BANK 2",
+                                    "Slot":  "ChannelB-DIMM0",
+                                    "Manuf":  "0000",
+                                    "Part":  "M08GD16P1600C10   ",
+                                    "Serial":  "00679456",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  1600,
+                                    "ConfClk":  1600,
+                                    "Form":  8,
+                                    "SMBIOSType":  24,
+                                    "Voltage":  1.5,
+                                    "Min_Voltage":  1.5,
+                                    "Max_Voltage":  1.5
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.94,
+                                        "FreeGB":  128.89,
+                                        "FreePercent":  57.8,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "SanDisk SSD PLUS 240GB",
+                                      "Serial":  "1946C4800180",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.62"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:74:DB:C5"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-74-DB-C5",
+                                         "IPv4":  [
+                                                      "192.168.17.62"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  29.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  42,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  42,
+                                              "Display":  "42,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  35,
+                                                  "Display":  "35,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i3-4130",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/4",
+                                                      "ValueC":  42,
+                                                      "MinC":  42,
+                                                      "MaxC":  43
+                                                  },
+                                                  {
+                                                      "HardwareName":  "SanDisk SSD PLUS 240GB",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  35,
+                                                      "MinC":  35,
+                                                      "MaxC":  35
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "dwm",
+                          "ID":  1768,
+                          "CPU":  2856.23,
+                          "MemoryMB":  60.05,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767096115882)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  444.55,
+                          "MemoryMB":  12.35,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767096110216)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4076,
+                          "CPU":  436.22,
+                          "MemoryMB":  573.05,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767096119758)\/"
+                      },
+                      {
+                          "Name":  "msedge",
+                          "ID":  10896,
+                          "CPU":  199.75,
+                          "MemoryMB":  416.61,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+                          "StartTime":  "\/Date(1767182140856)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  3480,
+                          "CPU":  195.86,
+                          "MemoryMB":  116.76,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767096269934)\/"
+                      },
+                      {
+                          "Name":  "tacticalrmm",
+                          "ID":  4052,
+                          "CPU":  165.75,
+                          "MemoryMB":  34.54,
+                          "Path":  "C:\\Program Files\\TacticalAgent\\tacticalrmm.exe",
+                          "StartTime":  "\/Date(1767096119750)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  5664,
+                          "CPU":  145.89,
+                          "MemoryMB":  18.88,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767096139059)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  11244,
+                          "CPU":  144.45,
+                          "MemoryMB":  508.95,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182276559)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2504,
+                          "CPU":  127.45,
+                          "MemoryMB":  22.09,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767096116548)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  1984,
+                          "CPU":  101.48,
+                          "MemoryMB":  212.68,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182267540)\/"
+                      },
+                      {
+                          "Name":  "ctfmon",
+                          "ID":  3904,
+                          "CPU":  99.66,
+                          "MemoryMB":  17.09,
+                          "Path":  "C:\\WINDOWS\\system32\\ctfmon.exe",
+                          "StartTime":  "\/Date(1767096269744)\/"
+                      },
+                      {
+                          "Name":  "msedge",
+                          "ID":  5704,
+                          "CPU":  93.23,
+                          "MemoryMB":  115.26,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+                          "StartTime":  "\/Date(1767182138114)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  840,
+                          "CPU":  88.75,
+                          "MemoryMB":  6.12,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767096113641)\/"
+                      },
+                      {
+                          "Name":  "oracle",
+                          "ID":  4036,
+                          "CPU":  86.52,
+                          "MemoryMB":  240.51,
+                          "Path":  "c:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin\\ORACLE.EXE",
+                          "StartTime":  "\/Date(1767096119750)\/"
+                      },
+                      {
+                          "Name":  "EPIntegrationService",
+                          "ID":  3136,
+                          "CPU":  83.31,
+                          "MemoryMB":  51.88,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPIntegrationService.exe",
+                          "StartTime":  "\/Date(1767096119770)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Registo de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Servidor",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Gestão Remota do Windows (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240819",
+                         "SizeMB":  1225.09
+                     },
+                     {
+                         "Name":  "LibreOffice 7.0.4.2",
+                         "Version":  "7.0.4.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20220601",
+                         "SizeMB":  671.28
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20220531",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20220531",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "CAIXA versão 30.03.04.787",
+                         "Version":  "30.03.04.787",
+                         "Publisher":  "TOTVs Winthor",
+                         "InstallDate":  "20220531",
+                         "SizeMB":  166.42
+                     },
+                     {
+                         "Name":  "Intel(R) Processor Graphics",
+                         "Version":  "20.19.15.4963",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  74.22
+                     },
+                     {
+                         "Name":  "NetSupport Manager",
+                         "Version":  "11.30.0000",
+                         "Publisher":  "NetSupport Ltd",
+                         "InstallDate":  "20220531",
+                         "SizeMB":  41.77
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "HP MFP Scan",
+                         "Version":  "1.06.67 ()",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  null,
+                         "SizeMB":  16.36
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "HP Scan Process Machine",
+                         "Version":  "1.03.05.30",
+                         "Publisher":  "HP Development Company, L.P.",
+                         "InstallDate":  null,
+                         "SizeMB":  12.51
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+                         "Version":  "9.0.30729.6161",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220601",
+                         "SizeMB":  10.2
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220531",
+                         "SizeMB":  9.23
+                     },
+                     {
+                         "Name":  "Assistente de Atualização do Windows 10",
+                         "Version":  "1.4.9200.23367",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  5
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2005 Redistributable",
+                         "Version":  "8.0.56336",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220531",
+                         "SizeMB":  5
+                     },
+                     {
+                         "Name":  "Aplicativo Desktop Remoto 20.10.3",
+                         "Version":  "20.10.3",
+                         "Publisher":  "Aplicativo Desktop Remoto 20.10.3",
+                         "InstallDate":  "20230103",
+                         "SizeMB":  4.4
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Bematech User Software",
+                         "Version":  null,
+                         "Publisher":  "Bematech",
+                         "InstallDate":  "20220613",
+                         "SizeMB":  2.85
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220531",
+                         "SizeMB":  2.03
+                     },
+                     {
+                         "Name":  "Microsoft Update Health Tools",
+                         "Version":  "3.74.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20231128",
+                         "SizeMB":  1.03
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767117158043)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "A versão 37.0.11.387 do programa PCSIS316.EXE deixou de interagir com o Windows e foi fechada. Para verificar se existem mais informações sobre o problema, consulte o histórico de problemas no painel ",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767117155800)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome da aplicação com falha: PCSIS317.EXE, versão: 37.0.0.17, carimbo de data/hora: 0x68cd9e20\r\nNome do módulo com falha: orageneric12.dll, versão: 12.2.0.1, carimbo de data/hora: 0x58a2624c\r\nCódigo d",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767107499175)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "A versão 37.0.11.387 do programa PCSIS316.EXE deixou de interagir com o Windows e foi fechada. Para verificar se existem mais informações sobre o problema, consulte o histórico de problemas no painel ",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767107497377)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome da aplicação com falha: PCSIS317.EXE, versão: 37.0.0.17, carimbo de data/hora: 0x68cd9e20\r\nNome do módulo com falha: orageneric12.dll, versão: 12.2.0.1, carimbo de data/hora: 0x58a2624c\r\nCódigo d",
+                          "EventID":  1000
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

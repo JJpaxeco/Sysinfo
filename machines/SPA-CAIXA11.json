@@ -1,0 +1,642 @@
+﻿{
+    "Hostname":  "SPA-CAIXA11",
+    "TimestampUtc":  "2025-12-31T12:30:14.6484125Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1741351560000)\/",
+               "LastBoot":  "\/Date(1767178156500)\/",
+               "Uptime":  "0d 1h 40m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "V530s-07icr",
+                     "Family":  "V530S-07ICR",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "pe05k6dr",
+                     "User":  "BRASILDIST\\caixa"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M30KT25A",
+                 "ReleaseDate":  "\/Date(1635206400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3178",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+                "Cores":  6,
+                "Logical":  6,
+                "MaxClockMHz":  2808,
+                "ProcessorId":  "BFEBFBFF000906EA"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 630",
+                "DriverVersion":  "27.20.100.8783",
+                "DriverDate":  "\/Date(1600905600000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "800x600",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA705013",
+                                         "Week":  13,
+                                         "Year":  2022,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u0026bc73863\u00260\u0026UID224795_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.9,
+                "FreeGB":  10.92,
+                "FreePercent":  68.7,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "Kingston",
+                                    "Part":  "KHX2400C15/8G       ",
+                                    "Serial":  "B4A17707",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 2",
+                                    "Slot":  "ChannelB-DIMM2",
+                                    "Manuf":  "Kingston",
+                                    "Part":  "KHX2400C15/8G       ",
+                                    "Serial":  "A6A17BAB",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  238.37,
+                                        "FreeGB":  42.64,
+                                        "FreePercent":  17.9,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "SSSTC CL4-8D256-Q79",
+                                      "Serial":  "38F6_0156_3190_410B.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  238.47,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.16.190"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:B4:62:26"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-B4-62-26",
+                                         "IPv4":  [
+                                                      "192.168.16.190"
+                                                  ],
+                                         "Speed":  "100 Mbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  42,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  40,
+                                              "Display":  "40,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  42,
+                                                  "Display":  "42,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i5-8400",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/8",
+                                                      "ValueC":  40,
+                                                      "MinC":  40,
+                                                      "MaxC":  40
+                                                  },
+                                                  {
+                                                      "HardwareName":  "SSSTC CL4-8D256-Q79",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/nvme/0/temperature/0",
+                                                      "ValueC":  42,
+                                                      "MinC":  0,
+                                                      "MaxC":  42
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3512,
+                          "CPU":  120.94,
+                          "MemoryMB":  654.89,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767178163687)\/"
+                      },
+                      {
+                          "Name":  "SerialDevMan",
+                          "ID":  9972,
+                          "CPU":  91.86,
+                          "MemoryMB":  11.21,
+                          "Path":  "C:\\Program Files (x86)\\Gertec\\Serial Device Manager\\SerialDevMan.exe",
+                          "StartTime":  "\/Date(1767178238283)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  33.97,
+                          "MemoryMB":  5.09,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178158731)\/"
+                      },
+                      {
+                          "Name":  "oracle",
+                          "ID":  4428,
+                          "CPU":  29.28,
+                          "MemoryMB":  530.09,
+                          "Path":  "c:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin\\ORACLE.EXE",
+                          "StartTime":  "\/Date(1767178163731)\/"
+                      },
+                      {
+                          "Name":  "PCSIS2075.BIN",
+                          "ID":  11360,
+                          "CPU":  18.28,
+                          "MemoryMB":  27.17,
+                          "Path":  "C:\\Winthor\\PROD\\MOD-020\\PCSIS2075.BIN",
+                          "StartTime":  "\/Date(1767178213844)\/"
+                      },
+                      {
+                          "Name":  "tacticalrmm",
+                          "ID":  4624,
+                          "CPU":  5.52,
+                          "MemoryMB":  27.43,
+                          "Path":  "C:\\Program Files\\TacticalAgent\\tacticalrmm.exe",
+                          "StartTime":  "\/Date(1767178163764)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2328,
+                          "CPU":  5.23,
+                          "MemoryMB":  14.1,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178163310)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3100,
+                          "CPU":  5.12,
+                          "MemoryMB":  20.55,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178163435)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  9192,
+                          "CPU":  4.8,
+                          "MemoryMB":  126.38,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767178207664)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  748,
+                          "CPU":  4.42,
+                          "MemoryMB":  17.15,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178161831)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4084,
+                          "CPU":  3.12,
+                          "MemoryMB":  44.98,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178163682)\/"
+                      },
+                      {
+                          "Name":  "MSPCManagerService",
+                          "ID":  3904,
+                          "CPU":  2.38,
+                          "MemoryMB":  92.76,
+                          "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPCManager_3.18.5.0_x64__8wekyb3d8bbwe\\PCManager\\MSPCManagerService.exe",
+                          "StartTime":  "\/Date(1767178166500)\/"
+                      },
+                      {
+                          "Name":  "SearchIndexer",
+                          "ID":  3596,
+                          "CPU":  2.28,
+                          "MemoryMB":  47.7,
+                          "Path":  "C:\\Windows\\system32\\SearchIndexer.exe",
+                          "StartTime":  "\/Date(1767178166527)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3728,
+                          "CPU":  2.02,
+                          "MemoryMB":  14.8,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178163609)\/"
+                      },
+                      {
+                          "Name":  "lsass",
+                          "ID":  920,
+                          "CPU":  1.98,
+                          "MemoryMB":  25.35,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178161860)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20250307",
+                         "SizeMB":  848.62
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251224",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251224",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "PowerShell 7.5.4.0-x64",
+                         "Version":  "7.5.4.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  386.79
+                     },
+                     {
+                         "Name":  "Java(TM) SE Development Kit 21.0.5 (64-bit)",
+                         "Version":  "21.0.5.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20250402",
+                         "SizeMB":  317.12
+                     },
+                     {
+                         "Name":  "PowerShell 7-x64",
+                         "Version":  "7.5.4.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251030",
+                         "SizeMB":  280.08
+                     },
+                     {
+                         "Name":  "Lenovo System Update",
+                         "Version":  "5.08.03.59",
+                         "Publisher":  "Lenovo",
+                         "InstallDate":  "20250412",
+                         "SizeMB":  49.9
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.24.31301",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20250313",
+                         "SizeMB":  31.77
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.74
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.24
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Notepad++ (64-bit x64)",
+                         "Version":  "8.6.7",
+                         "Publisher":  "Notepad++ Team",
+                         "InstallDate":  null,
+                         "SizeMB":  15.34
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20251224",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250911",
+                         "SizeMB":  11.61
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250911",
+                         "SizeMB":  10.11
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250307",
+                         "SizeMB":  9.23
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2005 Redistributable",
+                         "Version":  "8.0.56336",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251224",
+                         "SizeMB":  5
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2022-12-02 15:42:16.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.31
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211",
+                         "Version":  "14.44.35211",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250911",
+                         "SizeMB":  2.35
+                     },
+                     {
+                         "Name":  "Gertec WebAPI Service",
+                         "Version":  "2.2.0.1",
+                         "Publisher":  "Gertec",
+                         "InstallDate":  null,
+                         "SizeMB":  2.34
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767178464001)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: FirmwareVersion:M30KT25A;OEMManufacturerName:LENO",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767178223934)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de logon falhou. \r\n\tNome do GPO: GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\User\r\n\t",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767178163680)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nNão é possível entrar com esta credencial porque o domínio não está disp",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767108112138)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Mesh Agent foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 5000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767099127211)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de logon falhou. \r\n\tNome do GPO: GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\User\r\n\t",
+                          "EventID":  1130
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

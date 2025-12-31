@@ -1,0 +1,525 @@
+﻿{
+    "Hostname":  "VM-BALANCA",
+    "TimestampUtc":  "2025-12-31T12:30:56.4146495Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "RAM livre baixa",
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1741612317000)\/",
+               "LastBoot":  "\/Date(1763540790500)\/",
+               "Uptime":  "42d 4h 4m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "QEMU",
+                     "Model":  "Standard PC (i440FX + PIIX, 1996)",
+                     "Family":  null,
+                     "Domain":  "brasildis.lan",
+                     "Serial":  null,
+                     "User":  "BRASILDIST\\balanca"
+                 },
+    "BIOS":  {
+                 "Vendor":  "SeaBIOS",
+                 "Version":  "rel-1.16.3-0-ga6ed6b701f0a-prebuilt.qemu.org",
+                 "ReleaseDate":  "\/Date(1396310400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  null,
+                      "Product":  null,
+                      "Serial":  null
+                  },
+    "CPU":  {
+                "Name":  "Common KVM processor",
+                "Cores":  3,
+                "Logical":  3,
+                "MaxClockMHz":  2394,
+                "ProcessorId":  "078BFBFF00000F61"
+            },
+    "GPU":  {
+                "Name":  "Microsoft Basic Display Adapter",
+                "DriverVersion":  "10.0.19041.3636",
+                "DriverDate":  "\/Date(1150848000000)\/",
+                "VRAM_GB":  null,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "1Hz",
+                "MaxRefreshRate":  "64Hz"
+            },
+    "Monitor":  {
+                    "Count":  0,
+                    "Monitors":  [
+
+                                 ],
+                    "WinFormsScreens":  [
+
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  6,
+                "FreeGB":  1.46,
+                "FreePercent":  24.3,
+                "Modules":  [
+                                {
+                                    "Bank":  "",
+                                    "Slot":  "DIMM 0",
+                                    "Manuf":  "QEMU",
+                                    "Part":  null,
+                                    "Serial":  null,
+                                    "CapacityGB":  6,
+                                    "SpeedMHz":  null,
+                                    "ConfClk":  0,
+                                    "Form":  8,
+                                    "SMBIOSType":  7,
+                                    "Voltage":  0,
+                                    "Min_Voltage":  0,
+                                    "Max_Voltage":  0
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  119.44,
+                                        "FreeGB":  75.1,
+                                        "FreePercent":  62.9,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "QEMU HARDDISK",
+                                      "Serial":  "QM00005",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  120,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.7.254",
+                                 "192.168.16.7"
+                             ],
+                    "MACs":  [
+                                 "B2:EA:04:78:88:C1",
+                                 "BC:24:11:4A:BA:39"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "B2-EA-04-78-88-C1",
+                                         "IPv4":  [
+                                                      "192.168.16.7"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     },
+                                     {
+                                         "Name":  "Ethernet 2",
+                                         "Status":  "Up",
+                                         "MAC":  "BC-24-11-4A-BA-39",
+                                         "IPv4":  [
+                                                      "192.168.7.254"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  31,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  31,
+                                                  "Display":  "31,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "QEMU HARDDISK",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  31,
+                                                      "MinC":  31,
+                                                      "MaxC":  31
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "WmiPrvSE",
+                          "ID":  5512,
+                          "CPU":  47042,
+                          "MemoryMB":  37.77,
+                          "Path":  "C:\\WINDOWS\\system32\\wbem\\wmiprvse.exe",
+                          "StartTime":  "\/Date(1763540809430)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1736,
+                          "CPU":  44241.94,
+                          "MemoryMB":  35.28,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763540804910)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4864,
+                          "CPU":  40444.53,
+                          "MemoryMB":  452.37,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1764908057824)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  856,
+                          "CPU":  26915.38,
+                          "MemoryMB":  15.87,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1763540801484)\/"
+                      },
+                      {
+                          "Name":  "CargaRemota",
+                          "ID":  3824,
+                          "CPU":  24960.39,
+                          "MemoryMB":  60.72,
+                          "Path":  "C:\\Program Files (x86)\\Toledo do Brasil\\MGV 7\\CargaRemota.exe",
+                          "StartTime":  "\/Date(1763540805745)\/"
+                      },
+                      {
+                          "Name":  "Controle",
+                          "ID":  3840,
+                          "CPU":  23169.8,
+                          "MemoryMB":  95.63,
+                          "Path":  "C:\\Program Files (x86)\\Toledo do Brasil\\MGV 7\\Controle.exe",
+                          "StartTime":  "\/Date(1763540805748)\/"
+                      },
+                      {
+                          "Name":  "sqlservr",
+                          "ID":  3532,
+                          "CPU":  22588.3,
+                          "MemoryMB":  718.63,
+                          "Path":  "C:\\Program Files\\Microsoft SQL Server\\MSSQL16.SQL_MGV7\\MSSQL\\Binn\\sqlservr.exe",
+                          "StartTime":  "\/Date(1763540971730)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  17204.92,
+                          "MemoryMB":  6.81,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1763540793867)\/"
+                      },
+                      {
+                          "Name":  "MGV7Monitor",
+                          "ID":  8720,
+                          "CPU":  16829.92,
+                          "MemoryMB":  137.19,
+                          "Path":  "C:\\Program Files (x86)\\Toledo do Brasil\\MGV 7\\MGV7Monitor.exe",
+                          "StartTime":  "\/Date(1764085216394)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1432,
+                          "CPU":  16805.84,
+                          "MemoryMB":  11.31,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763540803265)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  8944,
+                          "CPU":  13003.97,
+                          "MemoryMB":  184.98,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1764085194663)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1876,
+                          "CPU":  9281.55,
+                          "MemoryMB":  14.73,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763540803701)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  992,
+                          "CPU":  9125.88,
+                          "MemoryMB":  89.21,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1763540802317)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3264,
+                          "CPU":  8616.44,
+                          "MemoryMB":  61.04,
+                          "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1763540805165)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1272,
+                          "CPU":  5783.67,
+                          "MemoryMB":  35.85,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1763540854146)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "MGV 7",
+                         "Version":  "7.0.175.13",
+                         "Publisher":  "Toledo do Brasil Indústria de Balanças Ltda.",
+                         "InstallDate":  "20250310",
+                         "SizeMB":  1366.89
+                     },
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20250310",
+                         "SizeMB":  1011.79
+                     },
+                     {
+                         "Name":  "Update MGV 7",
+                         "Version":  "7.2.11",
+                         "Publisher":  "Toledo do Brasil",
+                         "InstallDate":  "20251108",
+                         "SizeMB":  797.8
+                     },
+                     {
+                         "Name":  "SQL Server 2022 Database Engine Services",
+                         "Version":  "16.0.1000.6",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251111",
+                         "SizeMB":  514.25
+                     },
+                     {
+                         "Name":  "SQL Server 2022 Database Engine Shared",
+                         "Version":  "16.0.1000.6",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251111",
+                         "SizeMB":  141.64
+                     },
+                     {
+                         "Name":  "Microsoft SQL Server 2022 Setup (English)",
+                         "Version":  "16.0.1160.1",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251111",
+                         "SizeMB":  103.81
+                     },
+                     {
+                         "Name":  "Licenciamento e Monitoramento Prix",
+                         "Version":  "1.1.120",
+                         "Publisher":  "Toledo do Brasil Indústria de Balanças Ltda.",
+                         "InstallDate":  "20250310",
+                         "SizeMB":  70.51
+                     },
+                     {
+                         "Name":  "Python 3.13.7 Documentation (64-bit)",
+                         "Version":  "3.13.7150.0",
+                         "Publisher":  "Python Software Foundation",
+                         "InstallDate":  "20250911",
+                         "SizeMB":  59.2
+                     },
+                     {
+                         "Name":  "Python 3.13.7 Test Suite (64-bit)",
+                         "Version":  "3.13.7150.0",
+                         "Publisher":  "Python Software Foundation",
+                         "InstallDate":  "20250911",
+                         "SizeMB":  32.47
+                     },
+                     {
+                         "Name":  "SQL Server 2022 Common Files",
+                         "Version":  "16.0.1000.6",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251111",
+                         "SizeMB":  30.5
+                     },
+                     {
+                         "Name":  "Python 3.13.7 Standard Library (64-bit)",
+                         "Version":  "3.13.7150.0",
+                         "Publisher":  "Python Software Foundation",
+                         "InstallDate":  "20250911",
+                         "SizeMB":  22.87
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438",
+                         "Version":  "14.42.34438.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.72
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.38.33130",
+                         "Version":  "14.38.33130.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.69
+                     },
+                     {
+                         "Name":  "Browser for SQL Server 2022",
+                         "Version":  "16.0.1000.6",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251111",
+                         "SizeMB":  18.62
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34438",
+                         "Version":  "14.42.34438.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.17
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.38.33130",
+                         "Version":  "14.38.33130.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.07
+                     },
+                     {
+                         "Name":  "Python 3.13.7 Tcl/Tk Support (64-bit)",
+                         "Version":  "3.13.7150.0",
+                         "Publisher":  "Python Software Foundation",
+                         "InstallDate":  "20250911",
+                         "SizeMB":  13.55
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft ReportViewer 2010 Redistributable",
+                         "Version":  "10.0.30319",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250310",
+                         "SizeMB":  12.42
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438",
+                         "Version":  "14.42.34438",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250311",
+                         "SizeMB":  11.6
+                     }
+                 ],
+    "EventLogs":  [
+
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

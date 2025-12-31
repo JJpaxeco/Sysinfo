@@ -1,0 +1,978 @@
+﻿{
+    "Hostname":  "SPA-CAIXA14",
+    "TimestampUtc":  "2025-12-31T12:30:19.2707174Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1761175335000)\/",
+               "LastBoot":  "\/Date(1767178864500)\/",
+               "Uptime":  "0d 1h 29m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "10NN001JBR",
+                     "Family":  "V520S-08IKL",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE02ZQVT",
+                     "User":  "BRASILDIST\\caixa"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M16KT71A",
+                 "ReleaseDate":  "\/Date(1694649600000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3102",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+                "Cores":  2,
+                "Logical":  4,
+                "MaxClockMHz":  3912,
+                "ProcessorId":  "BFEBFBFF000906E9"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) HD Graphics 630",
+                "DriverVersion":  "31.0.101.2137",
+                "DriverDate":  "\/Date(1756339200000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "ACR",
+                                         "Name":  "Acer V226HQL",
+                                         "Model":  "032D",
+                                         "Serial":  "LXLAA0144284",
+                                         "Week":  46,
+                                         "Year":  2020,
+                                         "SizeInches":  21.7,
+                                         "WidthCm":  48,
+                                         "HeightCm":  27,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\ACR032D\\4\u00262db56130\u00262\u0026UID200195_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.91,
+                "FreeGB":  4.11,
+                "FreePercent":  52,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 1",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "8F1C",
+                                    "Part":  "RM-D4-8G-3200Z      ",
+                                    "Serial":  "00000473",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2667,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.91,
+                                        "FreeGB":  177.01,
+                                        "FreePercent":  79.4,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37/240G",
+                                      "Serial":  "58XTL06B040000000030",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.16.193"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:8C:51:77"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-8C-51-77",
+                                         "IPv4":  [
+                                                      "192.168.16.193"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  29.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  40,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  40,
+                                                  "Display":  "40,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "KINGSTON SA400S37/240G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  40,
+                                                      "MinC":  40,
+                                                      "MaxC":  40
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "MsMpEng",
+                          "ID":  4120,
+                          "CPU":  142.58,
+                          "MemoryMB":  287.22,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178872276)\/"
+                      },
+                      {
+                          "Name":  "oracle",
+                          "ID":  4044,
+                          "CPU":  53.02,
+                          "MemoryMB":  686.12,
+                          "Path":  "c:\\oraclexe\\app\\oracle\\product\\11.2.0\\server\\bin\\ORACLE.EXE",
+                          "StartTime":  "\/Date(1767178872221)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1772,
+                          "CPU":  28.45,
+                          "MemoryMB":  71.13,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767178870869)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  23.33,
+                          "MemoryMB":  1.45,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178866214)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3764,
+                          "CPU":  18.73,
+                          "MemoryMB":  514.92,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767178872135)\/"
+                      },
+                      {
+                          "Name":  "PCSIS2075.BIN",
+                          "ID":  9252,
+                          "CPU":  15.28,
+                          "MemoryMB":  144.1,
+                          "Path":  "C:\\Winthor\\PROD\\MOD-020\\PCSIS2075.BIN",
+                          "StartTime":  "\/Date(1767183891159)\/"
+                      },
+                      {
+                          "Name":  "SerialDevMan",
+                          "ID":  10308,
+                          "CPU":  14,
+                          "MemoryMB":  7.8,
+                          "Path":  "C:\\Program Files (x86)\\Gertec\\Serial Device Manager\\SerialDevMan.exe",
+                          "StartTime":  "\/Date(1767180155890)\/"
+                      },
+                      {
+                          "Name":  "MeshAgent",
+                          "ID":  3420,
+                          "CPU":  12.03,
+                          "MemoryMB":  15.21,
+                          "Path":  "C:\\Program Files\\Mesh Agent\\MeshAgent.exe",
+                          "StartTime":  "\/Date(1767183806963)\/"
+                      },
+                      {
+                          "Name":  "tacticalrmm",
+                          "ID":  4144,
+                          "CPU":  7.72,
+                          "MemoryMB":  27.87,
+                          "Path":  "C:\\Program Files\\TacticalAgent\\tacticalrmm.exe",
+                          "StartTime":  "\/Date(1767178872282)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  2948,
+                          "CPU":  6.83,
+                          "MemoryMB":  124.12,
+                          "Path":  "C:\\Windows\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767180125565)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2232,
+                          "CPU":  5.03,
+                          "MemoryMB":  13.73,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178871063)\/"
+                      },
+                      {
+                          "Name":  "Memory Compression",
+                          "ID":  2396,
+                          "CPU":  4.62,
+                          "MemoryMB":  154.87,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178871118)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3680,
+                          "CPU":  4.27,
+                          "MemoryMB":  44.02,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178872111)\/"
+                      },
+                      {
+                          "Name":  "SearchApp",
+                          "ID":  8104,
+                          "CPU":  4.2,
+                          "MemoryMB":  184.71,
+                          "Path":  "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+                          "StartTime":  "\/Date(1767180128464)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3260,
+                          "CPU":  4.11,
+                          "MemoryMB":  13.81,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178871792)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20251024",
+                         "SizeMB":  936.41
+                     },
+                     {
+                         "Name":  "LibreOffice 25.8.2.2",
+                         "Version":  "25.8.2.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20251024",
+                         "SizeMB":  783.6
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251218",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "Oracle Database 11g Express Edition",
+                         "Version":  "11.2.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251218",
+                         "SizeMB":  549.55
+                     },
+                     {
+                         "Name":  "PowerShell 7-x64",
+                         "Version":  "7.5.4.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251024",
+                         "SizeMB":  280.09
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 9.0.10 (x64)",
+                         "Version":  "9.0.10.35325",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  227.64
+                     },
+                     {
+                         "Name":  "K-Lite Mega Codec Pack 19.2.5",
+                         "Version":  "19.2.5",
+                         "Publisher":  "KLCP",
+                         "InstallDate":  "20251024",
+                         "SizeMB":  219.62
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.21 (x64)",
+                         "Version":  "8.0.21.35325",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  216.78
+                     },
+                     {
+                         "Name":  "Java 8 Update 471 (64-bit)",
+                         "Version":  "8.0.4710.9",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20251024",
+                         "SizeMB":  113.24
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 9.0.10 (x64)",
+                         "Version":  "72.40.40921",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  94.66
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.21 (x64)",
+                         "Version":  "64.84.40919",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251024",
+                         "SizeMB":  89.94
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 9.0.10 (x64)",
+                         "Version":  "72.40.40927",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251023",
+                         "SizeMB":  74.05
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.21 (x64)",
+                         "Version":  "64.84.40925",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251024",
+                         "SizeMB":  70.25
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.24601",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20251024",
+                         "SizeMB":  33.75
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.74
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664",
+                         "Version":  "12.0.40664.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.57
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+                         "Version":  "11.0.61030.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.52
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211",
+                         "Version":  "14.44.35211.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  18.24
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+                         "Version":  "11.0.61030.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.38
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664",
+                         "Version":  "12.0.40664.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767180157146)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de logon falhou. \r\n\tNome do GPO: GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\User\r\n\t",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180153352)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767180151309)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767179171659)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: FirmwareVersion:M16KT71A;OEMManufacturerName:LENO",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767178873438)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nNão é possível entrar com esta credencial porque o domínio não está disp",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767138416074)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767138414019)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767136619015)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767136616991)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767134815967)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767134813920)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767133019250)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767133017219)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767131215185)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767131213147)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767130213134)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767130211088)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767129415682)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767129413635)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767128413879)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767128411832)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767127618984)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767127616953)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767126613494)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767126611447)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767125816172)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767125814126)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767124813932)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767124811869)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767124015994)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767124013949)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767123015537)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767123013500)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767122216522)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767122214476)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767121213641)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767121211601)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767120416182)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767120414129)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767119413483)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767119411453)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767118618917)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767118616877)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767117615919)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767117613874)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767116823213)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767116820897)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767116744515)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: FirmwareVersion:M16KT71A;OEMManufacturerName:LENO",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767116515562)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-GroupPolicy",
+                          "Message":  "Script de logon falhou. \r\n\tNome do GPO: GPO-AQS-PDV-BKP-XMLS-NFCE\r\n\tCaminho do Sistema de Arquivos do GPO : \\\\brasildis.lan\\SysVol\\brasildis.lan\\Policies\\{636EF9A6-79F4-44C1-8250-90AB19CC0B3E}\\User\r\n\t",
+                          "EventID":  1130
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767116446182)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nNão é possível entrar com esta credencial porque o domínio não está disp",
+                          "EventID":  5719
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  0,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

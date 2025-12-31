@@ -1,0 +1,587 @@
+﻿{
+    "Hostname":  "SPA-CONTAB05",
+    "TimestampUtc":  "2025-12-02T21:30:39.1167897Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "RAM livre baixa",
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.3",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1598632456000)\/",
+               "LastBoot":  "\/Date(1764675460500)\/",
+               "Uptime":  "0d 9h 52m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "10NN001JBR",
+                     "Family":  "V520S-08IKL",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE03PCNU",
+                     "User":  "BRASILDIST\\camila.silva"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M16KT60A",
+                 "ReleaseDate":  "\/Date(1568678400000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3102",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+                "Cores":  2,
+                "Logical":  4,
+                "MaxClockMHz":  3912,
+                "ProcessorId":  "BFEBFBFF000906E9"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) HD Graphics 630",
+                "DriverVersion":  "26.20.100.7986",
+                "DriverDate":  "\/Date(1583712000000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1366x768",
+                "RefreshRate":  "59Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  2,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "ACR",
+                                         "Name":  "V206HQL",
+                                         "Model":  "0334",
+                                         "Serial":  "LY6AA0128509",
+                                         "Week":  8,
+                                         "Year":  2017,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\ACR0334\\4\u00262db56130\u00260\u0026UID200195_0",
+                                         "WidthPx":  1024,
+                                         "HeightPx":  768,
+                                         "Primary":  true,
+                                         "Resolution":  "1024x768"
+                                     },
+                                     {
+                                         "Manufacturer":  "ACR",
+                                         "Name":  "V206HQL",
+                                         "Model":  "0334",
+                                         "Serial":  "LY6AA0128509",
+                                         "Week":  8,
+                                         "Year":  2017,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\ACR0334\\4\u00262db56130\u00260\u0026UID198195_0"
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  true,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  "WinDisc"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  7.91,
+                "FreeGB":  1.3,
+                "FreePercent":  16.4,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 1",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "0194",
+                                    "Part":  "SF464128CK8I6GKSEG  ",
+                                    "Serial":  "0430BA92",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 3",
+                                    "Slot":  "ChannelB-DIMM1",
+                                    "Manuf":  "859B",
+                                    "Part":  "BLS4G4D240FSC.8FBD2 ",
+                                    "Serial":  "E2061E48",
+                                    "CapacityGB":  4,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.4,
+                                        "FreeGB":  29.34,
+                                        "FreePercent":  13.2,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37240G",
+                                      "Serial":  "50026B73802F96F8",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.72"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:99:DC:50"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-99-DC-50",
+                                         "IPv4":  [
+                                                      "192.168.17.72"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  29.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  29.9
+              },
+    "Processes":  [
+                      {
+                          "Name":  "PresentationFontCache",
+                          "ID":  3936,
+                          "CPU":  33370.19,
+                          "MemoryMB":  11.09,
+                          "Path":  "C:\\WINDOWS\\Microsoft.Net\\Framework64\\v3.0\\WPF\\PresentationFontCache.exe",
+                          "StartTime":  "\/Date(1764675706144)\/"
+                      },
+                      {
+                          "Name":  "PCSIS1452",
+                          "ID":  8076,
+                          "CPU":  17251.62,
+                          "MemoryMB":  12.8,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCSIS1452.EXE",
+                          "StartTime":  "\/Date(1764680542399)\/"
+                      },
+                      {
+                          "Name":  "PCSIS1007",
+                          "ID":  2832,
+                          "CPU":  16913.45,
+                          "MemoryMB":  19.56,
+                          "Path":  "C:\\Winthor\\Spool\\Executaveis\\PCSIS1007.EXE",
+                          "StartTime":  "\/Date(1764686154658)\/"
+                      },
+                      {
+                          "Name":  "SearchIndexer",
+                          "ID":  6724,
+                          "CPU":  9627.36,
+                          "MemoryMB":  117.73,
+                          "Path":  "C:\\WINDOWS\\system32\\SearchIndexer.exe",
+                          "StartTime":  "\/Date(1764675481689)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  11668,
+                          "CPU":  7191.78,
+                          "MemoryMB":  291.33,
+                          "Path":  "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1764675999403)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  3756,
+                          "CPU":  3543.66,
+                          "MemoryMB":  261.96,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1764675471872)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  8952,
+                          "CPU":  1746.56,
+                          "MemoryMB":  613.8,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\142.0.3595.94\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1764675727622)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  784.34,
+                          "MemoryMB":  0.13,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764675467048)\/"
+                      },
+                      {
+                          "Name":  "core",
+                          "ID":  5456,
+                          "CPU":  570.67,
+                          "MemoryMB":  141.59,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764675705063)\/"
+                      },
+                      {
+                          "Name":  "core",
+                          "ID":  4272,
+                          "CPU":  559.02,
+                          "MemoryMB":  128.93,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764675472041)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  10344,
+                          "CPU":  521.12,
+                          "MemoryMB":  150.91,
+                          "Path":  "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1764676000587)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1740,
+                          "CPU":  432.02,
+                          "MemoryMB":  59.73,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1764675470381)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  10260,
+                          "CPU":  386.77,
+                          "MemoryMB":  183,
+                          "Path":  "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1764691576347)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  6736,
+                          "CPU":  274.05,
+                          "MemoryMB":  111.64,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1764675706856)\/"
+                      },
+                      {
+                          "Name":  "Acrobat",
+                          "ID":  14120,
+                          "CPU":  227.05,
+                          "MemoryMB":  152.07,
+                          "Path":  "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe",
+                          "StartTime":  "\/Date(1764687208765)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20937",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251120",
+                         "SizeMB":  1169.56
+                     },
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.28.580",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240314",
+                         "SizeMB":  1045.74
+                     },
+                     {
+                         "Name":  "LibreOffice 7.5.3.2",
+                         "Version":  "7.5.3.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20230520",
+                         "SizeMB":  777.49
+                     },
+                     {
+                         "Name":  "Foxit PDF Reader",
+                         "Version":  "12.0.1.12430",
+                         "Publisher":  "Foxit Software Inc.",
+                         "InstallDate":  "20220920",
+                         "SizeMB":  619.83
+                     },
+                     {
+                         "Name":  "Google Chrome",
+                         "Version":  "142.0.7444.176",
+                         "Publisher":  "Google LLC",
+                         "InstallDate":  "20251121",
+                         "SizeMB":  446.95
+                     },
+                     {
+                         "Name":  "HP LaserJet Pro MFP 4101 4102 4103 4104 Software básico do dispositivo",
+                         "Version":  "54.4.5271.22122",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20230912",
+                         "SizeMB":  340.86
+                     },
+                     {
+                         "Name":  "Sped Fiscal ICMS IPI 5.0.3",
+                         "Version":  "5.0.3",
+                         "Publisher":  "Receita Federal do Brasil",
+                         "InstallDate":  null,
+                         "SizeMB":  284.32
+                     },
+                     {
+                         "Name":  "Mozilla Firefox (x64 pt-BR)",
+                         "Version":  "127.0",
+                         "Publisher":  "Mozilla",
+                         "InstallDate":  null,
+                         "SizeMB":  238.67
+                     },
+                     {
+                         "Name":  "Teams Machine-Wide Installer",
+                         "Version":  "1.5.0.30767",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20230526",
+                         "SizeMB":  131.8
+                     },
+                     {
+                         "Name":  "Busca - NF-e Escritório",
+                         "Version":  null,
+                         "Publisher":  "Domínio Sistemas Ltda.",
+                         "InstallDate":  "20210211",
+                         "SizeMB":  130.63
+                     },
+                     {
+                         "Name":  "Assinador SERPRO 4.1.0",
+                         "Version":  "4.1.0",
+                         "Publisher":  "SERPRO- Serviço Federal de Processamento de dados",
+                         "InstallDate":  "20231011",
+                         "SizeMB":  125.44
+                     },
+                     {
+                         "Name":  "AppController - AllUsers",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn",
+                         "InstallDate":  null,
+                         "SizeMB":  76.45
+                     },
+                     {
+                         "Name":  "Warsaw 2.23.1.1 64 bits",
+                         "Version":  "2.23.1.1",
+                         "Publisher":  "Topaz",
+                         "InstallDate":  "20200326",
+                         "SizeMB":  64.04
+                     },
+                     {
+                         "Name":  "Domínio Utilitários",
+                         "Version":  null,
+                         "Publisher":  "Domínio Sistemas Ltda.",
+                         "InstallDate":  "20210211",
+                         "SizeMB":  56.55
+                     },
+                     {
+                         "Name":  "AppController",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn Corporation",
+                         "InstallDate":  "20221027",
+                         "SizeMB":  40.34
+                     },
+                     {
+                         "Name":  "Office 16 Click-to-Run Extensibility Component",
+                         "Version":  "16.0.19328.20106",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251103",
+                         "SizeMB":  37.18
+                     },
+                     {
+                         "Name":  "SQL Anywhere",
+                         "Version":  "16.0.0",
+                         "Publisher":  "Domínio Sistemas Ltda.",
+                         "InstallDate":  "20221007",
+                         "SizeMB":  36.65
+                     },
+                     {
+                         "Name":  "Java 8 Update 241",
+                         "Version":  "8.0.2410.7",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20200128",
+                         "SizeMB":  36.26
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.06502",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  31.79
+                     },
+                     {
+                         "Name":  "HP Universal Fax Driver",
+                         "Version":  "5.0.82.4109",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20230912",
+                         "SizeMB":  30.32
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1764686253734)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: PCSIS1452.EXE, versão: 37.0.3.354, carimbo de data/hora: 0x68dae7a1\r\nNome do módulo com falha: PCSIS1452.EXE, versão: 37.0.3.354, carimbo de data/hora: 0x68dae7a1\r\nCódigo",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764686200995)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: PCSIS1007.EXE, versão: 37.0.0.96, carimbo de data/hora: 0x690cd36d\r\nNome do módulo com falha: PCSIS1007.EXE, versão: 37.0.0.96, carimbo de data/hora: 0x690cd36d\r\nCódigo d",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764676307775)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: clipesu.exe, versão: 10.0.19041.6392, carimbo de data/hora: 0x22d5d34a\r\nNome do módulo com falha: clipesu.exe, versão: 10.0.19041.6392, carimbo de data/hora: 0x22d5d34a\r\n",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764675771679)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "As ca/chaves de inicialização segura precisam ser atualizadas. Estas informações de assinatura do dispositivo estão incluídas aqui.\r\nDeviceAttributes: FirmwareVersion:M16KT60A;OEMManufacturerName:LENO",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764675605484)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "SecurityCenter",
+                          "Message":  "O Serviço da Central de Segurança do Windows não pôde carregar instâncias do FirewallProduct do repositório de dados.\r\n",
+                          "EventID":  18
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764675603939)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço Serviço do Google Update (gupdate) devido ao seguinte erro: \r\nO serviço não respondeu à requisição de início ou controle em tempo hábil.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764675603939)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       },
+                                       {
+                                           "Name":  "Kaspersky Endpoint Security for Windows",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       }
+                                   ]
+                 }
+}

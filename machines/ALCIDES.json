@@ -1,0 +1,875 @@
+﻿{
+    "Hostname":  "ALCIDES",
+    "TimestampUtc":  "2025-11-06T20:06:11.8212388Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.2",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1660305695000)\/",
+               "LastBoot":  "\/Date(1762459536500)\/",
+               "Uptime":  "0d 0h 0m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "11BL000FBP",
+                     "Family":  "V530S-07ICR",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE060ZBH",
+                     "User":  "BRASILDIST\\alcides.zirondi"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M30KT19A",
+                 "ReleaseDate":  "\/Date(1580428800000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3178",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+                "Cores":  6,
+                "Logical":  6,
+                "MaxClockMHz":  2808,
+                "ProcessorId":  "BFEBFBFF000906EA"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 630",
+                "DriverVersion":  "27.20.100.8783",
+                "DriverDate":  "\/Date(1600905600000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA381880",
+                                         "Week":  40,
+                                         "Year":  2020,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u0026bc73863\u00260\u0026UID224795_0"
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  true,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  "\\\\.\\DISPLAY1"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  31.9,
+                "FreeGB":  29.47,
+                "FreePercent":  92.4,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "Micron",
+                                    "Part":  "DDR4 16GB 3200MHz   ",
+                                    "Serial":  "5A4638A7",
+                                    "CapacityGB":  16,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 2",
+                                    "Slot":  "ChannelB-DIMM2",
+                                    "Manuf":  "Micron",
+                                    "Part":  "DDR4 16GB 3200MHz   ",
+                                    "Serial":  "5A4639FB",
+                                    "CapacityGB":  16,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  953.25,
+                                        "FreeGB":  900,
+                                        "FreePercent":  94.4,
+                                        "Health":  null
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "XPG GAMMIX S41",
+                                      "Serial":  "0000_0000_0100_0000_00E0_4C65_EADA_67CE.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  953.87,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.60"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:B9:F9:0B"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-B9-F9-0B",
+                                         "IPv4":  [
+                                                      "192.168.17.60"
+                                                  ],
+                                         "Speed":  "100 Mbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  null
+              },
+    "Processes":  [
+                      {
+                          "Name":  "MsMpEng",
+                          "ID":  3868,
+                          "CPU":  7.88,
+                          "MemoryMB":  282.66,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1762459544802)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  6.47,
+                          "MemoryMB":  1.16,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1762459538575)\/"
+                      },
+                      {
+                          "Name":  "SIMNext.LocalRecording",
+                          "ID":  3688,
+                          "CPU":  5.42,
+                          "MemoryMB":  164.58,
+                          "Path":  "C:\\Program Files\\Intelbras\\SIMNext\\Local Recording Service\\SIMNext.LocalRecording.exe",
+                          "StartTime":  "\/Date(1762459544767)\/"
+                      },
+                      {
+                          "Name":  "powershell",
+                          "ID":  4900,
+                          "CPU":  2.78,
+                          "MemoryMB":  113.7,
+                          "Path":  "C:\\Windows\\system32\\WindowsPowershell\\v1.0\\powershell.exe",
+                          "StartTime":  "\/Date(1762459556487)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  672,
+                          "CPU":  2.64,
+                          "MemoryMB":  5.63,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1762459540715)\/"
+                      },
+                      {
+                          "Name":  "powershell",
+                          "ID":  8500,
+                          "CPU":  2.61,
+                          "MemoryMB":  69.45,
+                          "Path":  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                          "StartTime":  "\/Date(1762459558622)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  5676,
+                          "CPU":  2.47,
+                          "MemoryMB":  72.2,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1762459545753)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3376,
+                          "CPU":  1.2,
+                          "MemoryMB":  29.3,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1762459544727)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1932,
+                          "CPU":  0.95,
+                          "MemoryMB":  22.41,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1762459544321)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1188,
+                          "CPU":  0.94,
+                          "MemoryMB":  55.22,
+                          "Path":  "C:\\Windows\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1762459544236)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  6804,
+                          "CPU":  0.91,
+                          "MemoryMB":  8.68,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1762459552943)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1868,
+                          "CPU":  0.92,
+                          "MemoryMB":  31.48,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1762459544641)\/"
+                      },
+                      {
+                          "Name":  "MeshAgent",
+                          "ID":  3580,
+                          "CPU":  0.83,
+                          "MemoryMB":  39.42,
+                          "Path":  "C:\\Program Files\\Mesh Agent\\MeshAgent.exe",
+                          "StartTime":  "\/Date(1762459544751)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2900,
+                          "CPU":  0.67,
+                          "MemoryMB":  20.28,
+                          "Path":  "C:\\Windows\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1762459544601)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1372,
+                          "CPU":  0.67,
+                          "MemoryMB":  19.95,
+                          "Path":  "C:\\Windows\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1762459544274)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "Dhcp",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "LibreOffice 7.3.5.2",
+                         "Version":  "7.3.5.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20220812",
+                         "SizeMB":  759.21
+                     },
+                     {
+                         "Name":  "Foxit PDF Reader",
+                         "Version":  "12.0.1.12430",
+                         "Publisher":  "Foxit Software Inc.",
+                         "InstallDate":  "20220812",
+                         "SizeMB":  619.83
+                     },
+                     {
+                         "Name":  "Intelbras SIM Next 1.20.5",
+                         "Version":  "1.20.5",
+                         "Publisher":  "Intelbras",
+                         "InstallDate":  "20220812",
+                         "SizeMB":  407.85
+                     },
+                     {
+                         "Name":  "Mozilla Firefox (x64 pt-BR)",
+                         "Version":  "103.0.2",
+                         "Publisher":  "Mozilla",
+                         "InstallDate":  null,
+                         "SizeMB":  208.8
+                     },
+                     {
+                         "Name":  "K-Lite Codec Pack 17.1.5 Full",
+                         "Version":  "17.1.5",
+                         "Publisher":  "KLCP",
+                         "InstallDate":  "20220812",
+                         "SizeMB":  167.16
+                     },
+                     {
+                         "Name":  "Eclipse Temurin JRE with Hotspot 8u342-b07 (x64)",
+                         "Version":  "8.0.342.7",
+                         "Publisher":  "Eclipse Adoptium",
+                         "InstallDate":  "20220812",
+                         "SizeMB":  96.79
+                     },
+                     {
+                         "Name":  "Google Chrome",
+                         "Version":  "135.0.7049.41",
+                         "Publisher":  "Google LLC",
+                         "InstallDate":  "20220812",
+                         "SizeMB":  88.05
+                     },
+                     {
+                         "Name":  "UltraVnc",
+                         "Version":  "1.3.8.1",
+                         "Publisher":  "uvnc bvba",
+                         "InstallDate":  "20220812",
+                         "SizeMB":  18.92
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20251106",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Verificação de integridade do PC Windows",
+                         "Version":  "3.6.2204.08001",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20220812",
+                         "SizeMB":  11.66
+                     },
+                     {
+                         "Name":  "7-Zip 22.01 (x64)",
+                         "Version":  "22.01",
+                         "Publisher":  "Igor Pavlov",
+                         "InstallDate":  null,
+                         "SizeMB":  5.47
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2022-12-02 15:42:16.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.31
+                     },
+                     {
+                         "Name":  "AnyDesk",
+                         "Version":  "ad 7.0.15",
+                         "Publisher":  "philandro Software GmbH",
+                         "InstallDate":  null,
+                         "SizeMB":  2
+                     },
+                     {
+                         "Name":  "Microsoft Update Health Tools",
+                         "Version":  "3.74.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20231219",
+                         "SizeMB":  1.03
+                     },
+                     {
+                         "Name":  "Update for x64-based Windows Systems (KB5001716)",
+                         "Version":  "8.94.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20241211",
+                         "SizeMB":  0.84
+                     },
+                     {
+                         "Name":  "Mozilla Maintenance Service",
+                         "Version":  "103.0.2",
+                         "Publisher":  "Mozilla",
+                         "InstallDate":  null,
+                         "SizeMB":  0.32
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1762459555790)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459555040)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Ntfs",
+                          "Message":  "Corrupção detectada na estrutura do sistema de arquivos, no volume C:.\r\n\r\nUma corrupção foi encontrada em uma estrutura de índice do sistema de arquivos. O número de referência do arquivo é 0x1d000000",
+                          "EventID":  55
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459538573)\/",
+                          "LogName":  "System",
+                          "Level":  "Nível Crítico",
+                          "Provider":  "Microsoft-Windows-Kernel-Power",
+                          "Message":  "O sistema foi reiniciado sem um desligamento correto primeiro. Esse erro pode ser causado quando o sistema para de responder, trava ou fica sem energia inesperadamente.\r\n",
+                          "EventID":  41
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459544304)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "EventLog",
+                          "Message":  "O desligamento do sistema que ocorreu às 16:01:05 do dia ‎06/‎11/‎2025 não era esperado.\r\n",
+                          "EventID":  6008
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459489163)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459466715)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459444324)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459431175)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Ntfs",
+                          "Message":  "Corrupção detectada na estrutura do sistema de arquivos, no volume C:.\r\n\r\nUma corrupção foi encontrada em uma estrutura de índice do sistema de arquivos. O número de referência do arquivo é 0x1d000000",
+                          "EventID":  55
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459421878)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459399465)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459395276)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço Serviço do Google Update (gupdate) devido ao seguinte erro: \r\nO serviço não respondeu à requisição de início ou controle em tempo hábil.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459395276)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459377044)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459354664)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459332286)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459301453)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço TacticalRMM Agent Service foi finalizado inesperadamente. Isto aconteceu 1 vez(es). A seguinte ação corretiva será tomada em 12000 milissegundos: Reiniciar o serviço.\r\n",
+                          "EventID":  7031
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459205242)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-WindowsUpdateClient",
+                          "Message":  "Falha na Instalação: o Windows não pôde instalar a seguinte atualização com o erro 0x80070017: 2024-12 Atualização Cumulativa do Windows 10 Version 22H2 para sistemas operacionais baseados em x64 (KB5",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459188374)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459188363)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459188350)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459188338)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459188325)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459010916)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459010892)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459010867)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459010843)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459010819)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459010795)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009896)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009872)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009828)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009801)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009776)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009752)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009729)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009646)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459009612)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000577)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000565)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000552)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000540)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000528)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000280)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000268)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000256)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000243)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762459000231)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762458999595)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762458999582)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1762458999570)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "disk",
+                          "Message":  "O dispositivo, \\Device\\Harddisk0\\DR0, possui um setor defeituoso.\r\n",
+                          "EventID":  7
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

@@ -1,0 +1,687 @@
+﻿{
+    "Hostname":  "SPA-CONTAB03",
+    "TimestampUtc":  "2025-12-31T12:30:15.2807176Z",
+    "Status":  "OK",
+    "IssuesWarn":  [
+
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26200",
+               "Build":  "26200",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1748692636000)\/",
+               "LastBoot":  "\/Date(1767182039500)\/",
+               "Uptime":  "0d 0h 36m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "11BL000FBP",
+                     "Family":  "V530S-07ICR",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE060ZBB",
+                     "User":  "BRASILDIST\\andressa.vieira"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M30KT19A",
+                 "ReleaseDate":  "\/Date(1580428800000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3178",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+                "Cores":  6,
+                "Logical":  6,
+                "MaxClockMHz":  2808,
+                "ProcessorId":  "BFEBFBFF000906EA"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 630",
+                "DriverVersion":  "27.20.100.8783",
+                "DriverDate":  "\/Date(1600905600000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  2,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA677531",
+                                         "Week":  10,
+                                         "Year":  2022,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u0026bc73863\u00260\u0026UID224795_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     },
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA289073",
+                                         "Week":  11,
+                                         "Year":  2020,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u0026bc73863\u00260\u0026UID198179_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  false
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.9,
+                "FreeGB":  8.78,
+                "FreePercent":  55.2,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "Kingston",
+                                    "Part":  "KHX2400C15/16G      ",
+                                    "Serial":  "B89C1E48",
+                                    "CapacityGB":  16,
+                                    "SpeedMHz":  2400,
+                                    "ConfClk":  2400,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.72,
+                                        "FreeGB":  136.11,
+                                        "FreePercent":  61.1,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "Kingston SA400S37/240G",
+                                      "Serial":  "2308241000504",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.39"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:B9:F9:B7"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-B9-F9-B7",
+                                         "IPv4":  [
+                                                      "192.168.17.39"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  44,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  44,
+                                              "Display":  "44,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  40,
+                                                  "Display":  "40,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i5-8400",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/8",
+                                                      "ValueC":  44,
+                                                      "MinC":  43,
+                                                      "MaxC":  44
+                                                  },
+                                                  {
+                                                      "HardwareName":  "Kingston SA400S37/240G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  40,
+                                                      "MinC":  40,
+                                                      "MaxC":  40
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "Acrobat",
+                          "ID":  10504,
+                          "CPU":  84.59,
+                          "MemoryMB":  448.24,
+                          "Path":  "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe",
+                          "StartTime":  "\/Date(1767182319543)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  4360,
+                          "CPU":  56.94,
+                          "MemoryMB":  310.3,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767182137877)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  51.62,
+                          "MemoryMB":  3.19,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182042260)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  16128,
+                          "CPU":  42.03,
+                          "MemoryMB":  33.64,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767183771661)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  8772,
+                          "CPU":  36.23,
+                          "MemoryMB":  271.52,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182237817)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1680,
+                          "CPU":  30.8,
+                          "MemoryMB":  102.82,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767182050391)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4480,
+                          "CPU":  30.78,
+                          "MemoryMB":  600.91,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767182051233)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  11944,
+                          "CPU":  27.67,
+                          "MemoryMB":  427.5,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182248789)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  15712,
+                          "CPU":  27.61,
+                          "MemoryMB":  201.04,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767182241848)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1136,
+                          "CPU":  25.8,
+                          "MemoryMB":  58.48,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767183916568)\/"
+                      },
+                      {
+                          "Name":  "Acrobat",
+                          "ID":  8724,
+                          "CPU":  21.33,
+                          "MemoryMB":  87.55,
+                          "Path":  "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe",
+                          "StartTime":  "\/Date(1767182319346)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3968,
+                          "CPU":  17.09,
+                          "MemoryMB":  22.17,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182051106)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1536,
+                          "CPU":  14.98,
+                          "MemoryMB":  18.21,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767182050194)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  13332,
+                          "CPU":  14.36,
+                          "MemoryMB":  63.13,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767182158770)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  1100,
+                          "CPU":  9.52,
+                          "MemoryMB":  7.64,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767182049147)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20997",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251211",
+                         "SizeMB":  1169.56
+                     },
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20250318",
+                         "SizeMB":  839.48
+                     },
+                     {
+                         "Name":  "LibreOffice 25.2.3.2",
+                         "Version":  "25.2.3.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  765.82
+                     },
+                     {
+                         "Name":  "HP LaserJet Pro MFP 4101 4102 4103 4104 Software básico do dispositivo",
+                         "Version":  "54.4.5330.23293",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  339.76
+                     },
+                     {
+                         "Name":  "Domínio Web Plugin",
+                         "Version":  "3.0",
+                         "Publisher":  "Thomson Reuters",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  132.33
+                     },
+                     {
+                         "Name":  "AppController - AllUsers",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn",
+                         "InstallDate":  null,
+                         "SizeMB":  76.45
+                     },
+                     {
+                         "Name":  "AppController",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn Corporation",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  41.33
+                     },
+                     {
+                         "Name":  "Acesso Remoto - Dominio Sistemas",
+                         "Version":  "7.52.1119",
+                         "Publisher":  "LogMeIn, Inc.",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  34.65
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.25.06502",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  33.19
+                     },
+                     {
+                         "Name":  "HP Universal Fax Driver",
+                         "Version":  "5.0.82.4109",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  30.32
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Estudo de aprimoramento de produto para HP LaserJet Pro MFP 4101 4102 4103 4104",
+                         "Version":  "54.4.5330.23293",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  11.89
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250318",
+                         "SizeMB":  9.23
+                     },
+                     {
+                         "Name":  "HP SFTP Plugin",
+                         "Version":  "56.0.480.0",
+                         "Publisher":  "HP Inc.",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  7.41
+                     },
+                     {
+                         "Name":  "HP EmailSMTP Plugin",
+                         "Version":  "56.0.480.0",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  6.92
+                     },
+                     {
+                         "Name":  "HP SharePoint Plugin",
+                         "Version":  "56.0.480.0",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  6.05
+                     },
+                     {
+                         "Name":  "HP FTP Plugin",
+                         "Version":  "56.0.480.0",
+                         "Publisher":  "HP",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  5.73
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+                         "Version":  "12.0.21005",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250318",
+                         "SizeMB":  2.03
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767182351482)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182121172)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Universal Print",
+                          "Message":  "Failed to GetUserSid. hr: 0x8001012d\r\n",
+                          "EventID":  1
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182121170)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Universal Print",
+                          "Message":  "Failed to GetUserSid. hr: 0x8001012d\r\n",
+                          "EventID":  1
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182121169)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Universal Print",
+                          "Message":  "Failed to GetUserSid. hr: 0x8001012d\r\n",
+                          "EventID":  1
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182087056)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Universal Print",
+                          "Message":  "Failed to GetUserSid. hr: 0x8001012d\r\n",
+                          "EventID":  1
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182087055)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Universal Print",
+                          "Message":  "Failed to GetUserSid. hr: 0x8001012d\r\n",
+                          "EventID":  1
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182087053)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Universal Print",
+                          "Message":  "Failed to GetUserSid. hr: 0x8001012d\r\n",
+                          "EventID":  1
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182086794)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Universal Print",
+                          "Message":  "Failed to GetUserSid. hr: 0x8001012d\r\n",
+                          "EventID":  1
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182060986)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767182051345)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nNão é possível entrar com esta credencial porque o domínio não está disp",
+                          "EventID":  5719
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

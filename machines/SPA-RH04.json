@@ -1,0 +1,782 @@
+﻿{
+    "Hostname":  "SPA-RH04",
+    "TimestampUtc":  "2025-12-31T12:30:10.6702922Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26200",
+               "Build":  "26200",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1736525761000)\/",
+               "LastBoot":  "\/Date(1767181119500)\/",
+               "Uptime":  "0d 0h 51m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "11T000C2BO",
+                     "Family":  "ThinkCentre neo 50s Gen 3",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0A8E76",
+                     "User":  "BRASILDIST\\sthefany.correia"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M49KT21A",
+                 "ReleaseDate":  "\/Date(1672704000000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "32E6",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "12th Gen Intel(R) Core(TM) i3-12100",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3300,
+                "ProcessorId":  "BFEBFBFF00090675"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 730",
+                "DriverVersion":  "32.0.101.7026",
+                "DriverDate":  "\/Date(1755561600000)\/",
+                "VRAM_GB":  2,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  2,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA493746",
+                                         "Week":  35,
+                                         "Year":  2021,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u002638e9fd99\u00260\u0026UID20545_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     },
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA384848",
+                                         "Week":  40,
+                                         "Year":  2020,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u002638e9fd99\u00260\u0026UID36915_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  false
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.72,
+                "FreeGB":  8.24,
+                "FreePercent":  52.4,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "A-DATA Technology",
+                                    "Part":  "AL2P32NC8T1-B8ES    ",
+                                    "Serial":  "EF050000",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM2",
+                                    "Manuf":  "A-DATA Technology",
+                                    "Part":  "AL2P32NC8T1-B8ES    ",
+                                    "Serial":  "23040000",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "Windows",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  236.25,
+                                        "FreeGB":  109.6,
+                                        "FreePercent":  46.4,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "SSSTC CL4-8D256-Q79",
+                                      "Serial":  "38F6_0156_315B_99C5.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  238.47,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.32"
+                             ],
+                    "MACs":  [
+                                 "18:A5:9C:B6:4D:46"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "18-A5-9C-B6-4D-46",
+                                         "IPv4":  [
+                                                      "192.168.17.32"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  49,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  49,
+                                              "Display":  "49,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  31,
+                                                  "Display":  "31,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "12th Gen Intel Core i3-12100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/6",
+                                                      "ValueC":  49,
+                                                      "MinC":  44,
+                                                      "MaxC":  49
+                                                  },
+                                                  {
+                                                      "HardwareName":  "SSSTC CL4-8D256-Q79",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/nvme/0/temperature/0",
+                                                      "ValueC":  31,
+                                                      "MinC":  0,
+                                                      "MaxC":  31
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  16456,
+                          "CPU":  116.75,
+                          "MemoryMB":  417.2,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767181760631)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  93.3,
+                          "MemoryMB":  4.09,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767181121555)\/"
+                      },
+                      {
+                          "Name":  "msedgewebview2",
+                          "ID":  15788,
+                          "CPU":  57.41,
+                          "MemoryMB":  132.83,
+                          "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\143.0.3650.96\\msedgewebview2.exe",
+                          "StartTime":  "\/Date(1767181759746)\/"
+                      },
+                      {
+                          "Name":  "SurSvc",
+                          "ID":  4624,
+                          "CPU":  52.05,
+                          "MemoryMB":  118.32,
+                          "Path":  "C:\\Program Files\\Intel\\SUR\\QUEENCREEK\\SurSvc.exe",
+                          "StartTime":  "\/Date(1767181126471)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4200,
+                          "CPU":  45.91,
+                          "MemoryMB":  658.06,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767181126409)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  2028,
+                          "CPU":  44.42,
+                          "MemoryMB":  215.91,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767181125856)\/"
+                      },
+                      {
+                          "Name":  "PontoAgil",
+                          "ID":  13392,
+                          "CPU":  43.75,
+                          "MemoryMB":  57.6,
+                          "Path":  "X:\\Ponto\\PontoAgil.exe",
+                          "StartTime":  "\/Date(1767181809261)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  6088,
+                          "CPU":  40.97,
+                          "MemoryMB":  76.21,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767181132841)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  6672,
+                          "CPU":  29.84,
+                          "MemoryMB":  364.58,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767181735838)\/"
+                      },
+                      {
+                          "Name":  "WhatsApp.Root",
+                          "ID":  15468,
+                          "CPU":  25.89,
+                          "MemoryMB":  261.07,
+                          "Path":  "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2587.9.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe",
+                          "StartTime":  "\/Date(1767181758524)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  5500,
+                          "CPU":  25.61,
+                          "MemoryMB":  222.67,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1767181793375)\/"
+                      },
+                      {
+                          "Name":  "DSAService",
+                          "ID":  4160,
+                          "CPU":  21.64,
+                          "MemoryMB":  117.76,
+                          "Path":  "C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\x86\\DSAService.exe",
+                          "StartTime":  "\/Date(1767181126405)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3756,
+                          "CPU":  20.94,
+                          "MemoryMB":  23.54,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767181126215)\/"
+                      },
+                      {
+                          "Name":  "TRInternetMonitor",
+                          "ID":  19196,
+                          "CPU":  20.47,
+                          "MemoryMB":  41.89,
+                          "Path":  "C:\\Program Files (x86)\\Domínio Web Plugin\\TRInternetMonitor\\TRInternetMonitor.exe",
+                          "StartTime":  "\/Date(1767181867160)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  7336,
+                          "CPU":  17.95,
+                          "MemoryMB":  60.29,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767184031967)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Adobe Acrobat (64-bit)",
+                         "Version":  "25.001.20997",
+                         "Publisher":  "Adobe",
+                         "InstallDate":  "20251211",
+                         "SizeMB":  1169.56
+                     },
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240318",
+                         "SizeMB":  1045.74
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+                         "Version":  "8.0.14.34613",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  201.68
+                     },
+                     {
+                         "Name":  "Teams Machine-Wide Installer",
+                         "Version":  "1.6.0.24078",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20231121",
+                         "SizeMB":  135.8
+                     },
+                     {
+                         "Name":  "Domínio Web Plugin",
+                         "Version":  "4.1",
+                         "Publisher":  "Thomson Reuters",
+                         "InstallDate":  "20251020",
+                         "SizeMB":  132.41
+                     },
+                     {
+                         "Name":  "Java 8 Update 291",
+                         "Version":  "8.0.2910.10",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20231124",
+                         "SizeMB":  108.85
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x64)",
+                         "Version":  "8.0.14.34611",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  98.29
+                     },
+                     {
+                         "Name":  "Realtek Audio Driver",
+                         "Version":  "6.0.9686.1",
+                         "Publisher":  "Realtek Semiconductor Corp.",
+                         "InstallDate":  "20250712",
+                         "SizeMB":  98.1
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.14 (x86)",
+                         "Version":  "64.56.29521",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  84.66
+                     },
+                     {
+                         "Name":  "Intel(R) Computing Improvement Program",
+                         "Version":  "2.4.11077",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  "20251217",
+                         "SizeMB":  80.9
+                     },
+                     {
+                         "Name":  "AppController - AllUsers",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn",
+                         "InstallDate":  null,
+                         "SizeMB":  76.45
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x64)",
+                         "Version":  "64.56.29490",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  70.25
+                     },
+                     {
+                         "Name":  "Microsoft .NET Runtime - 8.0.14 (x86)",
+                         "Version":  "64.56.29490",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  64.75
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.24.13005",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20250507",
+                         "SizeMB":  61.71
+                     },
+                     {
+                         "Name":  "AppController",
+                         "Version":  "6.2.2.32205",
+                         "Publisher":  "GraphOn Corporation",
+                         "InstallDate":  "20231118",
+                         "SizeMB":  40.34
+                     },
+                     {
+                         "Name":  "Intel® Driver \u0026 Support Assistant",
+                         "Version":  "25.4.36.6",
+                         "Publisher":  "Intel",
+                         "InstallDate":  "20250909",
+                         "SizeMB":  37.06
+                     },
+                     {
+                         "Name":  "Acesso Remoto - Dominio Sistemas",
+                         "Version":  "7.52.1119",
+                         "Publisher":  "LogMeIn, Inc.",
+                         "InstallDate":  "20251001",
+                         "SizeMB":  34.65
+                     },
+                     {
+                         "Name":  "Office 16 Click-to-Run Extensibility Component",
+                         "Version":  "16.0.19426.20170",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251208",
+                         "SizeMB":  34.11
+                     },
+                     {
+                         "Name":  "Microsoft ASP.NET Core 8.0.14 - Shared Framework (x86)",
+                         "Version":  "8.0.14.25112",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  34
+                     },
+                     {
+                         "Name":  "Microsoft ASP.NET Core 8.0.14 Shared Framework (x86)",
+                         "Version":  "8.0.14.25112",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250408",
+                         "SizeMB":  25.19
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767182043378)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  ".NET Runtime",
+                          "Message":  "Description: A .NET application failed.\nApplication: DSAArcDetect64.exe\nPath: C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAArcDetect64.exe\nMessage: You must install or update .NET to r",
+                          "EventID":  1023
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181426699)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181255923)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço Serviço do Google Update (gupdate) devido ao seguinte erro: \r\nO serviço não respondeu à requisição de início ou controle em tempo hábil.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181255923)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Tempo limite esgotado (30000 milissegundos) ao aguardar a conexão do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181137587)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181136049)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  ".NET Runtime",
+                          "Message":  "Description: A .NET application failed.\nApplication: DSAArcDetect64.exe\nPath: C:\\Program Files (x86)\\Intel\\Driver and Support Assistant\\DSAArcDetect64.exe\nMessage: You must install or update .NET to r",
+                          "EventID":  1023
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181126636)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço IntelTACD devido ao seguinte erro: \r\nO sistema não pode encontrar o arquivo especificado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181126632)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço IntelTACD devido ao seguinte erro: \r\nO sistema não pode encontrar o arquivo especificado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181126630)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço IntelTACD devido ao seguinte erro: \r\nO sistema não pode encontrar o arquivo especificado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181126609)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço IntelTACD devido ao seguinte erro: \r\nO sistema não pode encontrar o arquivo especificado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767181125938)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço bfs devido ao seguinte erro: \r\nAcesso negado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767134321796)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC0000001.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767134320755)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Universal Device Client Service não foi desligado corretamente após receber um controle de pré-desligamento.\r\n",
+                          "EventID":  7043
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767129299611)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa PontoAgil.exe versão 24.0.1.2 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de controle d",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767116649769)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa AppController.exe versão 6.2.2.32205 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de con",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767116465471)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa AppController.exe versão 6.2.2.32205 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de con",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767115992891)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa PontoAgil.exe versão 24.0.1.2 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de controle d",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767115977363)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa AppController.exe versão 6.2.2.32205 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de con",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767098780290)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa PontoAgil.exe versão 24.0.1.2 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de controle d",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767097894794)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-WindowsUpdateClient",
+                          "Message":  "Falha na Instalação: o Windows não pôde instalar a seguinte atualização com o erro 0x80073D02: 9P8K5G2MWW6Z-AppUp.IntelArcSoftware.\r\n",
+                          "EventID":  20
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

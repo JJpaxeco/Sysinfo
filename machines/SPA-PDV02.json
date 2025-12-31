@@ -1,0 +1,635 @@
+﻿{
+    "Hostname":  "SPA-PDV02",
+    "TimestampUtc":  "2025-12-31T12:30:13.6215303Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.4",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26100",
+               "Build":  "26100",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1748601336000)\/",
+               "LastBoot":  "\/Date(1767178769500)\/",
+               "Uptime":  "0d 1h 30m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "11HA000QBP",
+                     "Family":  "V50s-07IMB",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE07KSEJ",
+                     "User":  "BRASILDIST\\caixa"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M2VKT26A",
+                 "ReleaseDate":  "\/Date(1718323200000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3188",
+                      "Serial":  "                    "
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3600,
+                "ProcessorId":  "BFEBFBFF000A0653"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 630",
+                "DriverVersion":  "27.20.100.8783",
+                "DriverDate":  "\/Date(1600905600000)\/",
+                "VRAM_GB":  1,
+                "Resolution":  "1600x900",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "LEN",
+                                         "Name":  "LEN E2002bA",
+                                         "Model":  "60BB",
+                                         "Serial":  "VA416986",
+                                         "Week":  48,
+                                         "Year":  2020,
+                                         "SizeInches":  19.4,
+                                         "WidthCm":  43,
+                                         "HeightCm":  24,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\LEN60BB\\4\u00267f7598b\u00260\u0026UID224795_0",
+                                         "DisplayName":  null,
+                                         "WidthPx":  1600,
+                                         "HeightPx":  900,
+                                         "Resolution":  "1600x900",
+                                         "CurrentHz":  null,
+                                         "MaxHz":  null,
+                                         "Primary":  true
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  2,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  3,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  4,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            },
+                                            {
+                                                "Index":  5,
+                                                "Primary":  false,
+                                                "WidthPx":  1600,
+                                                "HeightPx":  900,
+                                                "DeviceName":  null,
+                                                "Resolution":  "1600x900"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.65,
+                "FreeGB":  11.23,
+                "FreePercent":  71.8,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "ChannelA-DIMM1",
+                                    "Manuf":  "8F1C",
+                                    "Part":  "RM-D4-8G-3200Z      ",
+                                    "Serial":  "0000012B",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2666,
+                                    "ConfClk":  2666,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 2",
+                                    "Slot":  "ChannelB-DIMM2",
+                                    "Manuf":  "8F1C",
+                                    "Part":  "RM-D4-8G-3200Z      ",
+                                    "Serial":  "00000465",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  2666,
+                                    "ConfClk":  2666,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  222.7,
+                                        "FreeGB":  124.32,
+                                        "FreePercent":  55.8,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "Kingston SA400S37/240G",
+                                      "Serial":  "2308240107430",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  223.57,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.16.202"
+                             ],
+                    "MACs":  [
+                                 "64:1C:67:D0:F7:3B"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "64-1C-67-D0-F7-3B",
+                                         "IPv4":  [
+                                                      "192.168.16.202"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  41,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  41,
+                                              "Display":  "41,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  40,
+                                                  "Display":  "40,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i3-10100",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/6",
+                                                      "ValueC":  41,
+                                                      "MinC":  41,
+                                                      "MaxC":  41
+                                                  },
+                                                  {
+                                                      "HardwareName":  "Kingston SA400S37/240G",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/hdd/0/temperature/0",
+                                                      "ValueC":  40,
+                                                      "MinC":  40,
+                                                      "MaxC":  40
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "SerialDevMan",
+                          "ID":  10904,
+                          "CPU":  182.72,
+                          "MemoryMB":  8.51,
+                          "Path":  "C:\\Program Files (x86)\\Gertec\\Serial Device Manager\\SerialDevMan.exe",
+                          "StartTime":  "\/Date(1767178812674)\/"
+                      },
+                      {
+                          "Name":  "AcruxPDV",
+                          "ID":  9584,
+                          "CPU":  162.7,
+                          "MemoryMB":  87.11,
+                          "Path":  "C:\\C5Client\\AcruxPDV\\AcruxPDV.exe",
+                          "StartTime":  "\/Date(1767178810512)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4252,
+                          "CPU":  68.78,
+                          "MemoryMB":  609.37,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1767178794310)\/"
+                      },
+                      {
+                          "Name":  "mysqld",
+                          "ID":  4812,
+                          "CPU":  65.86,
+                          "MemoryMB":  366.66,
+                          "Path":  "C:\\Program Files\\MySQL\\MySQL Server 5.5\\bin\\mysqld.exe",
+                          "StartTime":  "\/Date(1767178794394)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  44.66,
+                          "MemoryMB":  12.22,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178772227)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  1208,
+                          "CPU":  17.91,
+                          "MemoryMB":  7.07,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178792194)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  10228,
+                          "CPU":  10.22,
+                          "MemoryMB":  174.97,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1767178810998)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1908,
+                          "CPU":  8.36,
+                          "MemoryMB":  80.05,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1767178793342)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4056,
+                          "CPU":  7.22,
+                          "MemoryMB":  18.23,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178794267)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4652,
+                          "CPU":  7.19,
+                          "MemoryMB":  22.35,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178794368)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4192,
+                          "CPU":  7.09,
+                          "MemoryMB":  36.62,
+                          "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178794303)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1512,
+                          "CPU":  6.16,
+                          "MemoryMB":  35.12,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1767178793033)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  1344,
+                          "CPU":  5.95,
+                          "MemoryMB":  22.68,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1767178792341)\/"
+                      },
+                      {
+                          "Name":  "AcruxPDVBrokerServices",
+                          "ID":  3508,
+                          "CPU":  5.73,
+                          "MemoryMB":  6.08,
+                          "Path":  "C:\\C5Client\\AcruxPDV\\AcruxPDVBrokerServices.exe",
+                          "StartTime":  "\/Date(1767178826953)\/"
+                      },
+                      {
+                          "Name":  "SearchIndexer",
+                          "ID":  9980,
+                          "CPU":  5.52,
+                          "MemoryMB":  31.79,
+                          "Path":  "C:\\WINDOWS\\system32\\SearchIndexer.exe",
+                          "StartTime":  "\/Date(1767178813580)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Server",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.29.589",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240819",
+                         "SizeMB":  1225.09
+                     },
+                     {
+                         "Name":  "TOTVS Varejo Supermercados PDV",
+                         "Version":  "25.06.001",
+                         "Publisher":  "Totvs",
+                         "InstallDate":  "20250728",
+                         "SizeMB":  290.32
+                     },
+                     {
+                         "Name":  "MySQL Server 5.5",
+                         "Version":  "5.5.32",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20250728",
+                         "SizeMB":  123.33
+                     },
+                     {
+                         "Name":  "ELGINUtilitySetup V1.2.2.22",
+                         "Version":  "V1.2.2.22",
+                         "Publisher":  "ELGIN",
+                         "InstallDate":  "20240823",
+                         "SizeMB":  88.93
+                     },
+                     {
+                         "Name":  "Realtek Audio Driver",
+                         "Version":  "6.0.9258.1",
+                         "Publisher":  "Realtek Semiconductor Corp.",
+                         "InstallDate":  "20250902",
+                         "SizeMB":  71.74
+                     },
+                     {
+                         "Name":  "Lenovo System Update",
+                         "Version":  "5.08.03.59",
+                         "Publisher":  "Lenovo",
+                         "InstallDate":  "20250901",
+                         "SizeMB":  49.9
+                     },
+                     {
+                         "Name":  "NetSupport Manager",
+                         "Version":  "11.30.0000",
+                         "Publisher":  "NetSupport Ltd",
+                         "InstallDate":  "20231103",
+                         "SizeMB":  41.77
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2005 Redistributable",
+                         "Version":  "8.0.56336",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20231103",
+                         "SizeMB":  5
+                     },
+                     {
+                         "Name":  "ELGIN Printer Driver v1.7.3",
+                         "Version":  "1.7.3",
+                         "Publisher":  null,
+                         "InstallDate":  "20240823",
+                         "SizeMB":  3.41
+                     },
+                     {
+                         "Name":  "Mesh Agent",
+                         "Version":  "2025-03-06 17:44:07.000-04:00",
+                         "Publisher":  null,
+                         "InstallDate":  null,
+                         "SizeMB":  3.29
+                     },
+                     {
+                         "Name":  "Gertec WebAPI Service",
+                         "Version":  "2.2.0.1",
+                         "Publisher":  "Gertec",
+                         "InstallDate":  null,
+                         "SizeMB":  2.34
+                     },
+                     {
+                         "Name":  "Microsoft Update Health Tools",
+                         "Version":  "5.72.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20250401",
+                         "SizeMB":  1.02
+                     },
+                     {
+                         "Name":  "Microsoft GameInput",
+                         "Version":  "10.1.26100.6879",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251105",
+                         "SizeMB":  0.92
+                     },
+                     {
+                         "Name":  "Update for x64-based Windows Systems (KB5001716)",
+                         "Version":  "8.94.0.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20241105",
+                         "SizeMB":  0.84
+                     },
+                     {
+                         "Name":  "Serial Device Manager",
+                         "Version":  "1.2.0.5",
+                         "Publisher":  "Gertec Brasil Ltda",
+                         "InstallDate":  null,
+                         "SizeMB":  0.53
+                     },
+                     {
+                         "Name":  "Microsoft Edge WebView2 Runtime",
+                         "Version":  "143.0.3650.96",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251219",
+                         "SizeMB":  null
+                     },
+                     {
+                         "Name":  "Microsoft Edge",
+                         "Version":  "143.0.3650.96",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251220",
+                         "SizeMB":  null
+                     },
+                     {
+                         "Name":  "Gertec-Full-Installer",
+                         "Version":  "2.2.2.0",
+                         "Publisher":  "Gertec",
+                         "InstallDate":  null,
+                         "SizeMB":  null
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1767179094652)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767178794533)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767118370839)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot certificates have been updated but are not yet applied to the device firmware. Review the published guidance to complete the update and ensure full protection. This device signature inform",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767118104512)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome do aplicativo com falha: AcruxPDV.exe, versão: 25.12.0.4, carimbo de data/hora: 0x693f40f0\r\nNome do módulo com falha: AcruxPDV.exe, versão: 25.12.0.4, carimbo de data/hora: 0x693f40f0\r\nCódigo de ",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1767118070958)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não pôde configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST devido ao seguinte: \r\nErro interno. \r\nIsso pode causar problemas de autenticação. Certifique-s",
+                          "EventID":  5719
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

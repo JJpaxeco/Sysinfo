@@ -1,0 +1,450 @@
+﻿[
+    {
+        "Hostname":  "SPA-PONTO",
+        "Json":  "machines/SPA-PONTO.json",
+        "TimestampUtc":  "2025-12-31T12:30:37.6112593Z",
+        "Status":  "Crítico",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "ATC-BALCAO-CX06",
+        "Json":  "machines/ATC-BALCAO-CX06.json",
+        "TimestampUtc":  "2025-12-31T12:30:17.3127618Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "MONITORAMENTO01",
+        "Json":  "machines/MONITORAMENTO01.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.9026817Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "MONITORAMENTO02",
+        "Json":  "machines/MONITORAMENTO02.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.5556027Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-ARQUIVOS",
+        "Json":  "machines/SPA-ARQUIVOS.json",
+        "TimestampUtc":  "2025-12-31T12:30:09.8035980Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows Server 2016 Standard",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CAIXA11",
+        "Json":  "machines/SPA-CAIXA11.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.6484125Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CAIXA13",
+        "Json":  "machines/SPA-CAIXA13.json",
+        "TimestampUtc":  "2025-12-31T12:30:22.9353665Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-COMPRAS05",
+        "Json":  "machines/SPA-COMPRAS05.json",
+        "TimestampUtc":  "2025-12-31T12:30:13.7647278Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-COMPRAS06",
+        "Json":  "machines/SPA-COMPRAS06.json",
+        "TimestampUtc":  "2025-12-31T12:30:29.1620109Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CONTAB02",
+        "Json":  "machines/SPA-CONTAB02.json",
+        "TimestampUtc":  "2025-12-31T12:30:17.6237556Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CONTAB04",
+        "Json":  "machines/SPA-CONTAB04.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.7756526Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CONTAB06",
+        "Json":  "machines/SPA-CONTAB06.json",
+        "TimestampUtc":  "2025-12-31T12:31:17.4077476Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CRIS",
+        "Json":  "machines/SPA-CRIS.json",
+        "TimestampUtc":  "2025-12-31T12:30:16.3565210Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-DEPOSITO1",
+        "Json":  "machines/SPA-DEPOSITO1.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.0987855Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-ENTRADA2",
+        "Json":  "machines/SPA-ENTRADA2.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.1181270Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-FINANC1",
+        "Json":  "machines/SPA-FINANC1.json",
+        "TimestampUtc":  "2025-12-31T12:30:19.3526140Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-FINANC2",
+        "Json":  "machines/SPA-FINANC2.json",
+        "TimestampUtc":  "2025-12-30T21:30:14.5759734Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV02",
+        "Json":  "machines/SPA-PDV02.json",
+        "TimestampUtc":  "2025-12-31T12:30:13.6215303Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV03",
+        "Json":  "machines/SPA-PDV03.json",
+        "TimestampUtc":  "2025-12-31T12:30:16.8572382Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV04",
+        "Json":  "machines/SPA-PDV04.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.3449432Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV05",
+        "Json":  "machines/SPA-PDV05.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.4231788Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV07",
+        "Json":  "machines/SPA-PDV07.json",
+        "TimestampUtc":  "2025-12-31T12:30:17.0345041Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV08",
+        "Json":  "machines/SPA-PDV08.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.4124235Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV09",
+        "Json":  "machines/SPA-PDV09.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.5259613Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV14",
+        "Json":  "machines/SPA-PDV14.json",
+        "TimestampUtc":  "2025-12-31T12:30:16.3332787Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PROD01",
+        "Json":  "machines/SPA-PROD01.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.1194755Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PROD03",
+        "Json":  "machines/SPA-PROD03.json",
+        "TimestampUtc":  "2025-12-31T12:30:11.9295113Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-REPOSITOR03",
+        "Json":  "machines/SPA-REPOSITOR03.json",
+        "TimestampUtc":  "2025-12-31T12:30:25.8673491Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-RH01",
+        "Json":  "machines/SPA-RH01.json",
+        "TimestampUtc":  "2025-12-30T21:30:14.6578566Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-RH04",
+        "Json":  "machines/SPA-RH04.json",
+        "TimestampUtc":  "2025-12-31T12:30:10.6702922Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-SUBGERENTE",
+        "Json":  "machines/SPA-SUBGERENTE.json",
+        "TimestampUtc":  "2025-12-30T22:26:21.7235975Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-TI",
+        "Json":  "machines/SPA-TI.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.1353625Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-TI02",
+        "Json":  "machines/SPA-TI02.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.0260427Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "VM-BALANCA",
+        "Json":  "machines/VM-BALANCA.json",
+        "TimestampUtc":  "2025-12-31T12:30:56.4146495Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "VM-GERTECSERVER",
+        "Json":  "machines/VM-GERTECSERVER.json",
+        "TimestampUtc":  "2025-12-31T12:30:38.0435863Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "VM-WINTHOR",
+        "Json":  "machines/VM-WINTHOR.json",
+        "TimestampUtc":  "2025-12-31T12:30:44.3690407Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "AUXI-GERENCIA",
+        "Json":  "machines/AUXI-GERENCIA.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.4843935Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-AVARIA",
+        "Json":  "machines/SPA-AVARIA.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.3484942Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CAIXA12",
+        "Json":  "machines/SPA-CAIXA12.json",
+        "TimestampUtc":  "2025-12-31T12:30:18.7696184Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CAIXA14",
+        "Json":  "machines/SPA-CAIXA14.json",
+        "TimestampUtc":  "2025-12-31T12:30:19.2707174Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CONTAB01",
+        "Json":  "machines/SPA-CONTAB01.json",
+        "TimestampUtc":  "2025-12-31T12:30:12.2403994Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-CONTAB03",
+        "Json":  "machines/SPA-CONTAB03.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.2807176Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-DEPOSITO2",
+        "Json":  "machines/SPA-DEPOSITO2.json",
+        "TimestampUtc":  "2025-12-31T12:30:16.0409370Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-ELETRO",
+        "Json":  "machines/SPA-ELETRO.json",
+        "TimestampUtc":  "2025-12-31T12:30:15.2294760Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-FINANC3",
+        "Json":  "machines/SPA-FINANC3.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.1582069Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-FISCAIS2",
+        "Json":  "machines/SPA-FISCAIS2.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.2689440Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-MATABURRO",
+        "Json":  "machines/SPA-MATABURRO.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.7959786Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV01",
+        "Json":  "machines/SPA-PDV01.json",
+        "TimestampUtc":  "2025-12-31T12:30:12.2728168Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV06",
+        "Json":  "machines/SPA-PDV06.json",
+        "TimestampUtc":  "2025-12-31T12:30:16.8059269Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV10",
+        "Json":  "machines/SPA-PDV10.json",
+        "TimestampUtc":  "2025-12-31T12:30:18.2563684Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PDV11",
+        "Json":  "machines/SPA-PDV11.json",
+        "TimestampUtc":  "2025-12-30T12:03:33.1402251Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-PROD02",
+        "Json":  "machines/SPA-PROD02.json",
+        "TimestampUtc":  "2025-12-31T12:30:14.0684677Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-REPOSITOR02",
+        "Json":  "machines/SPA-REPOSITOR02.json",
+        "TimestampUtc":  "2025-12-31T12:30:24.3231340Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-RH02",
+        "Json":  "machines/SPA-RH02.json",
+        "TimestampUtc":  "2025-12-31T12:30:10.3183709Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-RH03",
+        "Json":  "machines/SPA-RH03.json",
+        "TimestampUtc":  "2025-12-31T12:39:00.8801499Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
+        "Hostname":  "SPA-TESOUR2",
+        "Json":  "machines/SPA-TESOUR2.json",
+        "TimestampUtc":  "2025-12-31T12:30:16.2141243Z",
+        "Status":  "OK",
+        "OS":  "Microsoft Windows 10 Pro",
+        "CollectionMode":  "Completo"
+    }
+]

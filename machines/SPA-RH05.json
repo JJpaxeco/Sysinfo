@@ -1,0 +1,839 @@
+﻿{
+    "Hostname":  "SPA-RH05",
+    "TimestampUtc":  "2025-12-01T20:40:11.9823137Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.2",
+    "OS":  {
+               "Caption":  "Microsoft Windows 10 Pro",
+               "Version":  "10.0.19045",
+               "Build":  "19045",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1639410619000)\/",
+               "LastBoot":  "\/Date(1764617592500)\/",
+               "Uptime":  "0d 1h 6m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "LENOVO",
+                     "Model":  "12JG0014BO",
+                     "Family":  "ThinkCentre neo 50s Gen 4",
+                     "Domain":  "brasildis.lan",
+                     "Serial":  "PE0DCQ39",
+                     "User":  "BRASILDIST\\administrator"
+                 },
+    "BIOS":  {
+                 "Vendor":  "LENOVO",
+                 "Version":  "M4ZKT40A",
+                 "ReleaseDate":  "\/Date(1723680000000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "LENOVO",
+                      "Product":  "3339",
+                      "Serial":  "                        "
+                  },
+    "CPU":  {
+                "Name":  "13th Gen Intel(R) Core(TM) i3-13100",
+                "Cores":  4,
+                "Logical":  8,
+                "MaxClockMHz":  3400,
+                "ProcessorId":  "BFEBFBFF000B06F5"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 730",
+                "DriverVersion":  "32.0.101.6129",
+                "DriverDate":  "\/Date(1729209600000)\/",
+                "VRAM_GB":  2,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "60Hz",
+                "MaxRefreshRate":  "100Hz"
+            },
+    "Monitor":  {
+                    "Count":  1,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "PHL",
+                                         "Name":  "PHL 241V8LAB",
+                                         "Model":  "C326",
+                                         "Serial":  "AF02429296042",
+                                         "Week":  29,
+                                         "Year":  2024,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\PHLC326\\4\u002632c006f6\u00260\u0026UID36915_0"
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  true,
+                                                "WidthPx":  1024,
+                                                "HeightPx":  768,
+                                                "DeviceName":  "WinDisc"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.67,
+                "FreeGB":  10.36,
+                "FreePercent":  66.1,
+                "Modules":  [
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "Samsung",
+                                    "Part":  "M378A1G44CB0-CWE    ",
+                                    "Serial":  "382BDDBC",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                },
+                                {
+                                    "Bank":  "BANK 0",
+                                    "Slot":  "DIMM2",
+                                    "Manuf":  "Samsung",
+                                    "Part":  "M378A1G44CB0-CWE    ",
+                                    "Serial":  "382BE193",
+                                    "CapacityGB":  8,
+                                    "SpeedMHz":  3200,
+                                    "ConfClk":  3200,
+                                    "Form":  8,
+                                    "SMBIOSType":  26,
+                                    "Voltage":  1.2,
+                                    "Min_Voltage":  1.2,
+                                    "Max_Voltage":  1.2
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "D",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  238.46,
+                                        "FreeGB":  238.28,
+                                        "FreePercent":  99.9,
+                                        "Health":  null
+                                    },
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  446.5,
+                                        "FreeGB":  300.17,
+                                        "FreePercent":  67.2,
+                                        "Health":  null
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "KINGSTON SA400S37480G",
+                                      "Serial":  "50026B76833EE592",
+                                      "Media":  "SSD",
+                                      "Bus":  "SATA",
+                                      "Type":  "SSD",
+                                      "SizeGB":  447.13,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  },
+                                  {
+                                      "Model":  "SKHynix_HFS256GEJ9X113N",
+                                      "Serial":  "0000_0000_0000_0000_40D5_6300_4B08_AA0F.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  238.47,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.17.73",
+                                 "169.254.52.111"
+                             ],
+                    "MACs":  [
+                                 "70:D8:C2:4E:36:1C"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet 2",
+                                         "Status":  "Disconnected",
+                                         "MAC":  "60-C7-27-20-1B-99",
+                                         "IPv4":  [
+                                                      "169.254.52.111"
+                                                  ],
+                                         "Speed":  "0 bps"
+                                     },
+                                     {
+                                         "Name":  "Wi-Fi",
+                                         "Status":  "Up",
+                                         "MAC":  "70-D8-C2-4E-36-1C",
+                                         "IPv4":  [
+                                                      "192.168.17.73"
+                                                  ],
+                                         "Speed":  "516 Mbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  27.9,
+                  "Disk_MaxC":  null,
+                  "MaxC":  27.9
+              },
+    "Processes":  [
+                      {
+                          "Name":  "svchost",
+                          "ID":  2632,
+                          "CPU":  259.78,
+                          "MemoryMB":  9.23,
+                          "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617603859)\/"
+                      },
+                      {
+                          "Name":  "EPSecurityService",
+                          "ID":  4684,
+                          "CPU":  137.42,
+                          "MemoryMB":  885.07,
+                          "Path":  "C:\\Program Files\\Bitdefender\\Endpoint Security\\EPSecurityService.exe",
+                          "StartTime":  "\/Date(1764617604662)\/"
+                      },
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  114.83,
+                          "MemoryMB":  22.11,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764617596066)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  2808,
+                          "CPU":  62.89,
+                          "MemoryMB":  136.22,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1764617603879)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  4024,
+                          "CPU":  47.75,
+                          "MemoryMB":  35.93,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617604408)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2616,
+                          "CPU":  40.38,
+                          "MemoryMB":  29.09,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617603859)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1472,
+                          "CPU":  19.05,
+                          "MemoryMB":  18.7,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617603425)\/"
+                      },
+                      {
+                          "Name":  "csrss",
+                          "ID":  832,
+                          "CPU":  13.44,
+                          "MemoryMB":  6.54,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764617602239)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  8236,
+                          "CPU":  12.73,
+                          "MemoryMB":  14.18,
+                          "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617611637)\/"
+                      },
+                      {
+                          "Name":  "services",
+                          "ID":  1076,
+                          "CPU":  12.47,
+                          "MemoryMB":  15.09,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1764617602309)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1308,
+                          "CPU":  12.08,
+                          "MemoryMB":  34.65,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617602739)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  1564,
+                          "CPU":  11.52,
+                          "MemoryMB":  114.16,
+                          "Path":  "C:\\Windows\\explorer.exe",
+                          "StartTime":  "\/Date(1764619248494)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  1116,
+                          "CPU":  9.38,
+                          "MemoryMB":  25.98,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617641787)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2320,
+                          "CPU":  8.89,
+                          "MemoryMB":  27.3,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617603750)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3076,
+                          "CPU":  8.61,
+                          "MemoryMB":  22.53,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1764617604004)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "Dhcp",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Registo de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Servidor",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Gestão Remota do Windows (WS-Management)",
+                         "Status":  1,
+                         "StartType":  "Manual"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Bitdefender Endpoint Security Tools",
+                         "Version":  "7.9.28.580",
+                         "Publisher":  "Bitdefender",
+                         "InstallDate":  "20240821",
+                         "SizeMB":  1225.11
+                     },
+                     {
+                         "Name":  "LibreOffice 25.2.3.2",
+                         "Version":  "25.2.3.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20250527",
+                         "SizeMB":  762.67
+                     },
+                     {
+                         "Name":  "Teams Machine-Wide Installer",
+                         "Version":  "1.4.0.22976",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20211213",
+                         "SizeMB":  118.81
+                     },
+                     {
+                         "Name":  "Microsoft .NET Core Runtime - 3.1.10 (x64)",
+                         "Version":  "3.1.10.29419",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  91.48
+                     },
+                     {
+                         "Name":  "Microsoft .NET Core Runtime - 3.1.10 (x64)",
+                         "Version":  "24.104.29419",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20221109",
+                         "SizeMB":  65.49
+                     },
+                     {
+                         "Name":  "Office 16 Click-to-Run Extensibility Component",
+                         "Version":  "16.0.19328.20106",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20251103",
+                         "SizeMB":  37.2
+                     },
+                     {
+                         "Name":  "Microsoft Teams Meeting Add-in for Microsoft Office",
+                         "Version":  "1.24.19202",
+                         "Publisher":  "Microsoft",
+                         "InstallDate":  "20240816",
+                         "SizeMB":  31.06
+                     },
+                     {
+                         "Name":  "Microsoft ASP.NET Core 3.1.10 - Shared Framework",
+                         "Version":  "3.1.10.20520",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  25.96
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.38.33130",
+                         "Version":  "14.38.33130.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.69
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+                         "Version":  "11.0.61030.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  20.52
+                     },
+                     {
+                         "Name":  "Microsoft ASP.NET Core 3.1.10 Shared Framework (x64)",
+                         "Version":  "3.1.10.20520",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20221109",
+                         "SizeMB":  18.98
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.29.30133",
+                         "Version":  "14.29.30133.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.91
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+                         "Version":  "11.0.61030.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.38
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+                         "Version":  "12.0.30501.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  17.19
+                     },
+                     {
+                         "Name":  "Tactical RMM Agent",
+                         "Version":  "2.9.1",
+                         "Publisher":  "AmidaWare Inc",
+                         "InstallDate":  "20250508",
+                         "SizeMB":  12.56
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+                         "Version":  "10.0.40219",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20211221",
+                         "SizeMB":  12.46
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+                         "Version":  "11.0.61030",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20221109",
+                         "SizeMB":  11.98
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.38.33130",
+                         "Version":  "14.38.33130",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20240529",
+                         "SizeMB":  11.61
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+                         "Version":  "9.0.30729",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20211221",
+                         "SizeMB":  10.27
+                     },
+                     {
+                         "Name":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.29.30133",
+                         "Version":  "14.29.30133",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20221109",
+                         "SizeMB":  10.18
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1764620961013)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome da aplicação com falha: RevoUnPro.exe, versão: 5.4.3.0, carimbo de data/hora: 0x68edf31c\r\nNome do módulo com falha: RevoUnPro.exe, versão: 5.4.3.0, carimbo de data/hora: 0x68edf31c\r\nCódigo de exc",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764619212498)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "VSS",
+                          "Message":  "Erro do serviço de cópia sombra de volumes: Erro inesperado ao chamar a rotina ConvertStringSidToSid(S-1-5-21-4260858774-818455491-2155611142-1141.old). hr = 0x80070539, A estrutura do ID de segurança",
+                          "EventID":  8193
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764618725323)\/",
+                          "LogName":  "Application",
+                          "Level":  null,
+                          "Provider":  "OCS Inventory Service",
+                          "Message":  "",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764618504854)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome da aplicação com falha: AdobeCollabSync.exe, versão: 25.1.20937.0, carimbo de data/hora: 0x691b6e8f\r\nNome do módulo com falha: ucrtbase.dll, versão: 10.0.19041.3636, carimbo de data/hora: 0x81cf5",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764618409262)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome da aplicação com falha: SystemSettingsBroker.exe, versão: 10.0.19041.6396, carimbo de data/hora: 0x7387d4ca\r\nNome do módulo com falha: ucrtbase.dll, versão: 10.0.19041.3636, carimbo de data/hora:",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764618120345)\/",
+                          "LogName":  "Application",
+                          "Level":  null,
+                          "Provider":  "OCS Inventory Service",
+                          "Message":  "",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764618042077)\/",
+                          "LogName":  "Application",
+                          "Level":  null,
+                          "Provider":  "OCS Inventory Service",
+                          "Message":  "",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764618004706)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-TPM-WMI",
+                          "Message":  "Secure Boot CA/keys need to be updated. This device signature information is included here.\r\nDeviceAttributes: FirmwareVersion:M4ZKT40A;OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_12JG_BU_Think_F",
+                          "EventID":  1801
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617889819)\/",
+                          "LogName":  "Application",
+                          "Level":  null,
+                          "Provider":  "OCS Inventory Service",
+                          "Message":  "",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617772164)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Error",
+                          "Message":  "Nome da aplicação com falha: SystemSettingsBroker.exe, versão: 10.0.19041.6396, carimbo de data/hora: 0x7387d4ca\r\nNome do módulo com falha: ucrtbase.dll, versão: 10.0.19041.3636, carimbo de data/hora:",
+                          "EventID":  1000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617760108)\/",
+                          "LogName":  "Application",
+                          "Level":  null,
+                          "Provider":  "OCS Inventory Service",
+                          "Message":  "",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617739576)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "O serviço Serviço do Google Update (gupdate) falhou o arranque devido ao seguinte erro: \r\nO serviço não respondeu ao pedido de início ou controlo atempadamente.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617739576)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (30000 milissegundos) ao aguardar pela ligação do serviço Serviço do Google Update (gupdate).\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617691887)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617689923)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617689919)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617689914)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617688860)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617685845)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617682224)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617679194)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678682)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678678)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678673)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678663)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678659)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678653)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678638)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678633)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678629)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678464)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678460)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617678455)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617676171)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Schannel",
+                          "Message":  "O certificado recebido do servidor remoto foi emitido por uma autoridade de certificação não fidedigna. Por esse motivo, os dados contidos no certificado não podem ser validados. O pedido de ligação T",
+                          "EventID":  36882
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617605148)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Cannot retrieve event message text.\r\n",
+                          "EventID":  7023
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617605070)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Foi atingido o tempo limite (45000 milissegundos) ao aguardar pela ligação do serviço Intel(R) TPM Provisioning Service.\r\n",
+                          "EventID":  7009
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1764617604645)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "NETLOGON",
+                          "Message":  "Este computador não conseguiu configurar uma sessão segura com um controlador de domínio no domínio BRASILDIST pela seguinte razão: \r\nNão é possível iniciar sessão com esta credencial porque o seu dom",
+                          "EventID":  5719
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Bitdefender Endpoint Security Tools Anti-malware",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       },
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       },
+                                       {
+                                           "Name":  "Kaspersky Endpoint Security for Windows",
+                                           "State":  "Ativo",
+                                           "Updated":  "Atualizado"
+                                       }
+                                   ]
+                 }
+}
