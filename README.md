@@ -2,7 +2,7 @@
 
 Sistema corporativo de **inventário e monitoramento** para estações e servidores Windows, composto por:
 
-- **Coletor PowerShell** (`GPO-AQS-COMPLETE-SYSINFO.ps1`) que gera **JSON por host** e mantém um **manifesto** central.
+- **Coletor PowerShell** (`sysinfo.ps1`) que gera **JSON por host** e mantém um **manifesto** central.
 - **Dashboard Web** (`index.html`, `script.js`, `style.css`) que consome `manifest.json` + `machines/*.json` e exibe indicadores, alertas e detalhes por máquina.
 
 ---
@@ -18,7 +18,7 @@ Sistema corporativo de **inventário e monitoramento** para estações e servido
 ## Componentes
 
 ### 1) Coletor (PowerShell)
-Arquivo: `GPO-AQS-COMPLETE-SYSINFO.ps1`
+Arquivo: `sysinfo.ps1`
 
 Gera, por padrão, no `RepoRoot`:
 
@@ -60,7 +60,7 @@ A forma mais simples é manter **dashboard + dados** no mesmo diretório servido
 
 ```text
 \\SERVIDOR\share\sysinfo\
-├── GPO-AQS-COMPLETE-SYSINFO.ps1
+├── sysinfo.ps1
 ├── index.html
 ├── script.js
 ├── style.css
@@ -113,12 +113,12 @@ Comportamento:
 ### 3) Execute o coletor (teste manual)
 Exemplo (salvando no compartilhamento padrão):
 ```powershell
-powershell.exe -ExecutionPolicy Bypass -File .\GPO-AQS-COMPLETE-SYSINFO.ps1
+powershell.exe -ExecutionPolicy Bypass -File .\sysinfo.ps1
 ```
 
 Exemplo (salvando em pasta local):
 ```powershell
-powershell.exe -ExecutionPolicy Bypass -File .\GPO-AQS-COMPLETE-SYSINFO.ps1 -RepoRoot "C:\sysinfo"
+powershell.exe -ExecutionPolicy Bypass -File .\sysinfo.ps1 -RepoRoot "C:\sysinfo"
 ```
 
 ### 4) Sirva o dashboard via HTTP
@@ -162,7 +162,7 @@ Principais parâmetros disponíveis (conforme `param()` do script):
 
 Exemplo com limiares customizados:
 ```powershell
-powershell.exe -ExecutionPolicy Bypass -File .\GPO-AQS-COMPLETE-SYSINFO.ps1 -MinMemFreePercent 10 -MinDiskFreePercent 10 -HighTempWarnC 75 -HighTempCritC 85
+powershell.exe -ExecutionPolicy Bypass -File .\sysinfo.ps1 -MinMemFreePercent 10 -MinDiskFreePercent 10 -HighTempWarnC 75 -HighTempCritC 85
 ```
 
 ---
@@ -171,13 +171,13 @@ powershell.exe -ExecutionPolicy Bypass -File .\GPO-AQS-COMPLETE-SYSINFO.ps1 -Min
 
 ### Via GPO (Startup Script)
 Recomendação:
-1. Armazene o script no compartilhamento (ex.: `\\SERVIDOR\share\sysinfo\GPO-AQS-COMPLETE-SYSINFO.ps1`)
+1. Armazene o script no compartilhamento (ex.: `\\SERVIDOR\share\sysinfo\sysinfo.ps1`)
 2. Garanta permissões de escrita para o contexto de execução (tipicamente **conta do computador** / `Domain Computers`) no `RepoRoot`
 3. Configure a GPO para executar no startup com `ExecutionPolicy Bypass`
 
 Exemplo de linha única (startup):
 ```powershell
-powershell.exe -ExecutionPolicy Bypass -File "\\SERVIDOR\share\sysinfo\GPO-AQS-COMPLETE-SYSINFO.ps1" -RepoRoot "\\SERVIDOR\share\sysinfo"
+powershell.exe -ExecutionPolicy Bypass -File "\\SERVIDOR\share\sysinfo\sysinfo.ps1" -RepoRoot "\\SERVIDOR\share\sysinfo"
 ```
 
 ---
