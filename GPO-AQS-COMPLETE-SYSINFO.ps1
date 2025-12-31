@@ -7,7 +7,7 @@
 #>
 
 param(
-    [string]$RepoRoot = "\\192.168.16.3\brasilsuperatacado\sysinfo",
+    [string]$RepoRoot = "C:\Codes\Sysinfo",
     [ValidateSet("Completo", "Minimo")]
     [string]$ModoColeta = "Completo",
     [int]$IntervaloExecucao = 0,
