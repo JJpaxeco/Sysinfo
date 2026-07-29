@@ -5,7 +5,7 @@
 #  Requisitos: Windows PowerShell 5.1
 
 param(
-    [string]$RepoRoot = ".\machines",
+    [string]$RepoRoot = "C:\Arquivos\Aplicacoes\Sysinfo",
     [ValidateSet("Completo", "Minimo")]
     [string]$ModoColeta = "Completo",
     [int]$IntervaloExecucao = 0,

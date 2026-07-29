@@ -1,0 +1,983 @@
+﻿{
+    "Hostname":  "TI-REDES-ADM",
+    "TimestampUtc":  "2026-07-29T19:37:17.8257776Z",
+    "Status":  "Atenção",
+    "IssuesWarn":  [
+                       "Processos com alto uso de CPU"
+                   ],
+    "IssuesCrit":  [
+
+                   ],
+    "CollectionMode":  "Completo",
+    "ScriptVersion":  "2.5",
+    "OS":  {
+               "Caption":  "Microsoft Windows 11 Pro",
+               "Version":  "10.0.26200",
+               "Build":  "26200",
+               "Architecture":  "64 bits",
+               "InstallDate":  "\/Date(1778710884000)\/",
+               "LastBoot":  "\/Date(1785351658187)\/",
+               "Uptime":  "0d 0h 36m"
+           },
+    "Computer":  {
+                     "Manufacturer":  "Dell Inc.",
+                     "Model":  "Dell Pro Micro QCM1250",
+                     "Family":  "Dell Pro Desktops",
+                     "Domain":  "WORKGROUP",
+                     "Serial":  "G91Q7H4",
+                     "User":  "TI-REDES-ADM\\Encarregado de Redes"
+                 },
+    "BIOS":  {
+                 "Vendor":  "Dell Inc.",
+                 "Version":  "1.16.0",
+                 "ReleaseDate":  "\/Date(1781740800000)\/"
+             },
+    "BaseBoard":  {
+                      "Manufacturer":  "Dell Inc.",
+                      "Product":  "0WJWFN",
+                      "Serial":  "/G91Q7H4/BRCMM005CI02C3/"
+                  },
+    "CPU":  {
+                "Name":  "Intel(R) Core(TM) i5-14500T",
+                "Cores":  14,
+                "Logical":  20,
+                "MaxClockMHz":  1700,
+                "ProcessorId":  "BFEBFBFF000B06F2"
+            },
+    "GPU":  {
+                "Name":  "Intel(R) UHD Graphics 770",
+                "DriverVersion":  "32.0.101.7088",
+                "DriverDate":  "\/Date(1781654400000)\/",
+                "VRAM_Bytes":  2147479552,
+                "VRAM_GB":  2,
+                "Resolution":  "1920x1080",
+                "RefreshRate":  "75Hz",
+                "MaxRefreshRate":  "75Hz"
+            },
+    "Monitor":  {
+                    "Count":  2,
+                    "Monitors":  [
+                                     {
+                                         "Manufacturer":  "ATK",
+                                         "Name":  "MNT-ATK238",
+                                         "Model":  "7935",
+                                         "Serial":  "16843009",
+                                         "Week":  21,
+                                         "Year":  2025,
+                                         "SizeInches":  23.8,
+                                         "WidthCm":  53,
+                                         "HeightCm":  29,
+                                         "Input":  "Analógica",
+                                         "InstanceName":  "DISPLAY\\ATK7935\\4\u00266c8cbc2\u00264\u0026UID4161_0",
+                                         "DisplayName":  "\\\\.\\DISPLAY1",
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  75,
+                                         "MaxHz":  75,
+                                         "Primary":  true
+                                     },
+                                     {
+                                         "Manufacturer":  "ATK",
+                                         "Name":  "MNT-ATK238",
+                                         "Model":  "7935",
+                                         "Serial":  "000000000000",
+                                         "Week":  15,
+                                         "Year":  2025,
+                                         "SizeInches":  24,
+                                         "WidthCm":  53,
+                                         "HeightCm":  30,
+                                         "Input":  "Digital",
+                                         "InstanceName":  "DISPLAY\\ATK7935\\4\u00266c8cbc2\u00264\u0026UID20531_0",
+                                         "DisplayName":  "\\\\.\\DISPLAY2",
+                                         "WidthPx":  1920,
+                                         "HeightPx":  1080,
+                                         "Resolution":  "1920x1080",
+                                         "CurrentHz":  120,
+                                         "MaxHz":  120,
+                                         "Primary":  false
+                                     }
+                                 ],
+                    "WinFormsScreens":  [
+                                            {
+                                                "Index":  0,
+                                                "Primary":  true,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  "\\\\.\\DISPLAY1",
+                                                "Resolution":  "1920x1080"
+                                            },
+                                            {
+                                                "Index":  1,
+                                                "Primary":  false,
+                                                "WidthPx":  1920,
+                                                "HeightPx":  1080,
+                                                "DeviceName":  "\\\\.\\DISPLAY2",
+                                                "Resolution":  "1920x1080"
+                                            }
+                                        ]
+                },
+    "RAM":  {
+                "TotalGB":  15.69,
+                "FreeGB":  3.43,
+                "FreePercent":  21.9,
+                "Modules":  [
+                                {
+                                    "Bank":  "",
+                                    "Slot":  "DIMM1",
+                                    "Manuf":  "04CB000080AD",
+                                    "Part":  "AL1V56WCSV1-B1ES              ",
+                                    "Serial":  "03009961",
+                                    "CapacityGB":  16,
+                                    "SpeedMHz":  5600,
+                                    "ConfClk":  4800,
+                                    "Form":  12,
+                                    "SMBIOSType":  34,
+                                    "Voltage":  1.1,
+                                    "Min_Voltage":  0,
+                                    "Max_Voltage":  0
+                                }
+                            ]
+            },
+    "Storage":  {
+                    "Volumes":  [
+                                    {
+                                        "DriveLetter":  "C",
+                                        "Label":  "",
+                                        "FileSystem":  "NTFS",
+                                        "SizeGB":  236.05,
+                                        "FreeGB":  124.5,
+                                        "FreePercent":  52.7,
+                                        "Health":  "Healthy"
+                                    }
+                                ],
+                    "Disks":  [
+                                  {
+                                      "Model":  "PVC10 SK hynix 256GB",
+                                      "Serial":  "FD5B_42CE_BC8F_9D54_ACE4_2E00_523B_90F9.",
+                                      "Media":  "SSD",
+                                      "Bus":  "NVMe",
+                                      "Type":  "NVMe",
+                                      "SizeGB":  238.47,
+                                      "Health":  "Healthy",
+                                      "OpStatus":  "OK",
+                                      "Spindle":  0
+                                  }
+                              ]
+                },
+    "Network":  {
+                    "IPv4":  [
+                                 "192.168.200.228",
+                                 "192.168.200.188",
+                                 "169.254.173.110"
+                             ],
+                    "MACs":  [
+                                 "84:5C:31:E6:6C:AA",
+                                 "24:EB:16:78:2D:78"
+                             ],
+                    "Adapters":  [
+                                     {
+                                         "Name":  "Ethernet",
+                                         "Status":  "Up",
+                                         "MAC":  "84-5C-31-E6-6C-AA",
+                                         "IPv4":  [
+                                                      "192.168.200.228"
+                                                  ],
+                                         "Speed":  "1 Gbps"
+                                     },
+                                     {
+                                         "Name":  "Wi-Fi",
+                                         "Status":  "Up",
+                                         "MAC":  "24-EB-16-78-2D-78",
+                                         "IPv4":  [
+                                                      "192.168.200.188"
+                                                  ],
+                                         "Speed":  "866.7 Mbps"
+                                     }
+                                 ]
+                },
+    "Temps":  {
+                  "ACPI_MaxC":  null,
+                  "Disk_MaxC":  null,
+                  "MaxC":  54,
+                  "LibreHW":  {
+                                  "CPU":  {
+                                              "ValueC":  54,
+                                              "Display":  "54,0 °C"
+                                          },
+                                  "GPU":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "RAM":  {
+                                              "ValueC":  null,
+                                              "Display":  "N/A"
+                                          },
+                                  "Storage":  {
+                                                  "ValueC":  51,
+                                                  "Display":  "51,0 °C"
+                                              },
+                                  "Mainboard":  {
+                                                    "ValueC":  null,
+                                                    "Display":  "N/A"
+                                                },
+                                  "Chipset":  {
+                                                  "ValueC":  null,
+                                                  "Display":  "N/A"
+                                              },
+                                  "Sensors":  [
+                                                  {
+                                                      "HardwareName":  "Intel Core i5-14500T",
+                                                      "HardwareType":  "Cpu",
+                                                      "SensorName":  "CPU Package",
+                                                      "SensorId":  "/intelcpu/0/temperature/16",
+                                                      "ValueC":  54,
+                                                      "MinC":  54,
+                                                      "MaxC":  57
+                                                  },
+                                                  {
+                                                      "HardwareName":  "PVC10 SK hynix 256GB",
+                                                      "HardwareType":  "Storage",
+                                                      "SensorName":  "Temperature",
+                                                      "SensorId":  "/nvme/0/temperature/0",
+                                                      "ValueC":  51,
+                                                      "MinC":  0,
+                                                      "MaxC":  51
+                                                  }
+                                              ]
+                              }
+              },
+    "Processes":  [
+                      {
+                          "Name":  "System",
+                          "ID":  4,
+                          "CPU":  266.62,
+                          "MemoryMB":  2.16,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1785351662001)\/"
+                      },
+                      {
+                          "Name":  "MsMpEng",
+                          "ID":  5180,
+                          "CPU":  246.92,
+                          "MemoryMB":  361.52,
+                          "Path":  null,
+                          "StartTime":  "\/Date(1785351669999)\/"
+                      },
+                      {
+                          "Name":  "java",
+                          "ID":  23140,
+                          "CPU":  198.81,
+                          "MemoryMB":  997.98,
+                          "Path":  "C:\\Users\\Encarregado de Redes\\Ubiquiti UniFi\\jre\\bin\\java.exe",
+                          "StartTime":  "\/Date(1785352574984)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  24028,
+                          "CPU":  160.81,
+                          "MemoryMB":  600.1,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1785352674951)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  3940,
+                          "CPU":  136.42,
+                          "MemoryMB":  28.05,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1785351671117)\/"
+                      },
+                      {
+                          "Name":  "Spotify",
+                          "ID":  2024,
+                          "CPU":  109.97,
+                          "MemoryMB":  306.81,
+                          "Path":  "C:\\Users\\Encarregado de Redes\\AppData\\Roaming\\Spotify\\Spotify.exe",
+                          "StartTime":  "\/Date(1785352129078)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  21136,
+                          "CPU":  104.73,
+                          "MemoryMB":  213.72,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1785351805477)\/"
+                      },
+                      {
+                          "Name":  "Spotify",
+                          "ID":  5948,
+                          "CPU":  87.03,
+                          "MemoryMB":  313.81,
+                          "Path":  "C:\\Users\\Encarregado de Redes\\AppData\\Roaming\\Spotify\\Spotify.exe",
+                          "StartTime":  "\/Date(1785352129932)\/"
+                      },
+                      {
+                          "Name":  "chrome",
+                          "ID":  10128,
+                          "CPU":  74.66,
+                          "MemoryMB":  336.96,
+                          "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+                          "StartTime":  "\/Date(1785352533942)\/"
+                      },
+                      {
+                          "Name":  "Code",
+                          "ID":  7884,
+                          "CPU":  67.3,
+                          "MemoryMB":  364.39,
+                          "Path":  "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+                          "StartTime":  "\/Date(1785352689418)\/"
+                      },
+                      {
+                          "Name":  "dwm",
+                          "ID":  1936,
+                          "CPU":  56.66,
+                          "MemoryMB":  101.12,
+                          "Path":  "C:\\WINDOWS\\system32\\dwm.exe",
+                          "StartTime":  "\/Date(1785351669466)\/"
+                      },
+                      {
+                          "Name":  "audiodg",
+                          "ID":  4344,
+                          "CPU":  51.91,
+                          "MemoryMB":  26.45,
+                          "Path":  "C:\\WINDOWS\\system32\\AUDIODG.EXE",
+                          "StartTime":  "\/Date(1785351669856)\/"
+                      },
+                      {
+                          "Name":  "explorer",
+                          "ID":  9748,
+                          "CPU":  46.23,
+                          "MemoryMB":  321.94,
+                          "Path":  "C:\\WINDOWS\\Explorer.EXE",
+                          "StartTime":  "\/Date(1785351671449)\/"
+                      },
+                      {
+                          "Name":  "svchost",
+                          "ID":  2220,
+                          "CPU":  46.02,
+                          "MemoryMB":  12.39,
+                          "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+                          "StartTime":  "\/Date(1785351669483)\/"
+                      },
+                      {
+                          "Name":  "Dell.TechHub.Instrumentation.SubAgent",
+                          "ID":  14036,
+                          "CPU":  39.28,
+                          "MemoryMB":  269.7,
+                          "Path":  "C:\\Program Files\\Dell\\DTP\\InstrumentationSubAgent\\Dell.TechHub.Instrumentation.SubAgent.exe",
+                          "StartTime":  "\/Date(1785351758680)\/"
+                      }
+                  ],
+    "Services":  [
+                     {
+                         "Name":  "DHCP",
+                         "DisplayName":  "Cliente DHCP",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "EventLog",
+                         "DisplayName":  "Log de Eventos do Windows",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanServer",
+                         "DisplayName":  "Servidor",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "LanmanWorkstation",
+                         "DisplayName":  "Estação de trabalho",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "Spooler",
+                         "DisplayName":  "Spooler de Impressão",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     },
+                     {
+                         "Name":  "WinRM",
+                         "DisplayName":  "Windows Remote Management (WS-Management)",
+                         "Status":  4,
+                         "StartType":  "Auto"
+                     }
+                 ],
+    "Software":  [
+                     {
+                         "Name":  "Microsoft Edge",
+                         "Version":  "150.0.4078.105",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20260727",
+                         "SizeMB":  2037.33
+                     },
+                     {
+                         "Name":  "Microsoft Edge WebView2 Runtime",
+                         "Version":  "150.0.4078.105",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20260728",
+                         "SizeMB":  2032.2
+                     },
+                     {
+                         "Name":  "PowerToys (Preview) x64",
+                         "Version":  "0.100.2",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20260701",
+                         "SizeMB":  1211.48
+                     },
+                     {
+                         "Name":  "Microsoft Visual Studio Code",
+                         "Version":  "1.131.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20260729",
+                         "SizeMB":  991.4
+                     },
+                     {
+                         "Name":  "Dell SupportAssist",
+                         "Version":  "5.1.1.3567",
+                         "Publisher":  "Dell Inc.",
+                         "InstallDate":  "20260602",
+                         "SizeMB":  933.42
+                     },
+                     {
+                         "Name":  "LibreOffice 26.2.4.2",
+                         "Version":  "26.2.4.2",
+                         "Publisher":  "The Document Foundation",
+                         "InstallDate":  "20260611",
+                         "SizeMB":  789.34
+                     },
+                     {
+                         "Name":  "PowerToys (Preview)",
+                         "Version":  "0.100.2",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20260701",
+                         "SizeMB":  673.13
+                     },
+                     {
+                         "Name":  "Google Chrome",
+                         "Version":  "151.0.7922.34",
+                         "Publisher":  "Google LLC",
+                         "InstallDate":  "20260716",
+                         "SizeMB":  495.92
+                     },
+                     {
+                         "Name":  "Realtek Audio Driver",
+                         "Version":  "6.0.9974.1",
+                         "Publisher":  "Realtek Semiconductor Corp.",
+                         "InstallDate":  "20260619",
+                         "SizeMB":  371.53
+                     },
+                     {
+                         "Name":  "Java(TM) SE Development Kit 25.0.3 (64-bit)",
+                         "Version":  "25.0.3.0",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20260519",
+                         "SizeMB":  365
+                     },
+                     {
+                         "Name":  "Intel® Graphics Software",
+                         "Version":  "26.18.2353.2",
+                         "Publisher":  "Intel Corporation",
+                         "InstallDate":  "20260722",
+                         "SizeMB":  361.02
+                     },
+                     {
+                         "Name":  "Mozilla Thunderbird (x64 pt-BR)",
+                         "Version":  "153.0.1",
+                         "Publisher":  "Mozilla",
+                         "InstallDate":  null,
+                         "SizeMB":  337.23
+                     },
+                     {
+                         "Name":  "Git",
+                         "Version":  "2.55.0.3",
+                         "Publisher":  "The Git Development Community",
+                         "InstallDate":  "20260715",
+                         "SizeMB":  336.06
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime 10.0.10 (x64)",
+                         "Version":  "10.0.10.50000",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20260714",
+                         "SizeMB":  287.41
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime 10.0.5 (x64)",
+                         "Version":  "10.0.5.50000",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20260722",
+                         "SizeMB":  286.47
+                     },
+                     {
+                         "Name":  "PowerShell 7-x64",
+                         "Version":  "7.6.4.0",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  "20260723",
+                         "SizeMB":  284.05
+                     },
+                     {
+                         "Name":  "Dell Core Services",
+                         "Version":  "1.14.151.0",
+                         "Publisher":  "Dell, Inc.",
+                         "InstallDate":  "20260514",
+                         "SizeMB":  227.74
+                     },
+                     {
+                         "Name":  "Java 8 Update 501 (64-bit)",
+                         "Version":  "8.0.5010.8",
+                         "Publisher":  "Oracle Corporation",
+                         "InstallDate":  "20260722",
+                         "SizeMB":  227.19
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.29 (x64)",
+                         "Version":  "8.0.29.36225",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  216.89
+                     },
+                     {
+                         "Name":  "Microsoft Windows Desktop Runtime - 8.0.29 (x86)",
+                         "Version":  "8.0.29.36225",
+                         "Publisher":  "Microsoft Corporation",
+                         "InstallDate":  null,
+                         "SizeMB":  201.59
+                     }
+                 ],
+    "EventLogs":  [
+                      {
+                          "TimeCreated":  "\/Date(1785353645832)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785353643800)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785353602109)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785353600078)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785353516150)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785353514108)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785353430944)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785353428905)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Service Control Manager",
+                          "Message":  "Não foi possível iniciar o serviço R0powershell devido ao seguinte erro: \r\nNão foi possível concluir a operação com êxito porque o arquivo contém um vírus ou software possivelmente indesejado.\r\n",
+                          "EventID":  7000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785352683346)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "Application Hang",
+                          "Message":  "O programa dllhost.exe versão 10.0.26100.8972 interagiu com o Windows e foi fechado. Para ver se há mais informações disponíveis sobre o problema, verifique o histórico de problemas no painel de contr",
+                          "EventID":  1002
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351980274)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "IPFSVCHOST",
+                          "Message":  "[\u003cIPFSVC\u003eAppManagerThread@ipf_apploader.c#379]\u003c322659 ms\u003e: AppLoader Connect Failure \u003cpipe://ipfsrv.dptftcs\u003e [IPC=ESIF_E_WS_UNAUTHORIZED App=ESIF_E_NOT_INITIALIZED] (300000ms total 3600000ms delay)\n\r\n",
+                          "EventID":  17
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351969911)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "IPFUMDF",
+                          "Message":  "[\u003cIPFUMDF\u003eAppManagerThread@ipf_apploader.c#379]\u003c312299 ms\u003e: AppLoader Connect Failure \u003cpipe://ipfsrv.dptf\u003e [IPC=ESIF_E_WS_UNAUTHORIZED App=ESIF_E_NOT_INITIALIZED] (300000ms total 3600000ms delay)\n\r\n",
+                          "EventID":  17
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351684768)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351684768)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351684765)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351684765)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351661941)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Application Popup",
+                          "Message":  "",
+                          "EventID":  1060
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351644834)\/",
+                          "LogName":  "Application",
+                          "Level":  "Erro",
+                          "Provider":  "IPFUMDF",
+                          "Message":  "[\u003cIPFUMDF\u003eAppManagerThread@ipf_apploader.c#379]\u003c311961 ms\u003e: AppLoader Connect Failure \u003cpipe://ipfsrv.dptf\u003e [IPC=ESIF_E_WS_UNAUTHORIZED App=ESIF_E_NOT_INITIALIZED] (300000ms total 3600000ms delay)\n\r\n",
+                          "EventID":  17
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351640224)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351640224)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351632177)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {00000000-0000-0000-0000-000000000000} não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351632177)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {00000000-0000-0000-0000-000000000000} não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351620207)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "Não é possível iniciar o servidor DCOM: {0358B920-0AC7-461F-98F4-58E32CD89148}. O erro:\r\n\"2147942767\"\r\nAconteceu ao iniciar este comando:\r\nC:\\WINDOWS\\system32\\DllHost.exe /Processid:{3EB3C877-1F16-487",
+                          "EventID":  10000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785351336215)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Application Popup",
+                          "Message":  "",
+                          "EventID":  1060
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785350561352)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785350561352)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785350554060)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {00000000-0000-0000-0000-000000000000} não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785350554040)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {00000000-0000-0000-0000-000000000000} não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785341533703)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "Não é possível iniciar o servidor DCOM: {0358B920-0AC7-461F-98F4-58E32CD89148}. O erro:\r\n\"2147942767\"\r\nAconteceu ao iniciar este comando:\r\nC:\\WINDOWS\\system32\\DllHost.exe /Processid:{3EB3C877-1F16-487",
+                          "EventID":  10000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785337401013)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Volsnap",
+                          "Message":  "As cópias de sombra do volume C: foram anuladas porque o armazenamento de cópia de sombra não pôde crescer devido a um limite imposto pelo usuário.\r\n",
+                          "EventID":  36
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328162146)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328162146)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328162143)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328162143)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328109218)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Application Popup",
+                          "Message":  "",
+                          "EventID":  1060
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328086118)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328086118)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328078970)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {00000000-0000-0000-0000-000000000000} não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328078956)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {00000000-0000-0000-0000-000000000000} não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785328054325)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "Não é possível iniciar o servidor DCOM: {0358B920-0AC7-461F-98F4-58E32CD89148}. O erro:\r\n\"2147942767\"\r\nAconteceu ao iniciar este comando:\r\nC:\\WINDOWS\\system32\\DllHost.exe /Processid:{3EB3C877-1F16-487",
+                          "EventID":  10000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327431530)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Application Popup",
+                          "Message":  "",
+                          "EventID":  1060
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327396898)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Application Popup",
+                          "Message":  "",
+                          "EventID":  1060
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327374752)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327374752)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327329284)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Application Popup",
+                          "Message":  "",
+                          "EventID":  1060
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327306097)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi definido porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  21
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327306097)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-HAL",
+                          "Message":  "O relógio em tempo real do hardware não foi consultado porque houve falha na avaliação do método De Hora e Alarme ACPI.  Status: 0xC00000BB.\r\n",
+                          "EventID":  20
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327254428)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {00000000-0000-0000-0000-000000000000} não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327254421)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "O servidor {00000000-0000-0000-0000-000000000000} não se registrou no DCOM dentro do tempo limite necessário.\r\n",
+                          "EventID":  10010
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327232071)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-DistributedCOM",
+                          "Message":  "Não é possível iniciar o servidor DCOM: {0358B920-0AC7-461F-98F4-58E32CD89148}. O erro:\r\n\"2147942767\"\r\nAconteceu ao iniciar este comando:\r\nC:\\WINDOWS\\system32\\DllHost.exe /Processid:{3EB3C877-1F16-487",
+                          "EventID":  10000
+                      },
+                      {
+                          "TimeCreated":  "\/Date(1785327149163)\/",
+                          "LogName":  "System",
+                          "Level":  "Erro",
+                          "Provider":  "Microsoft-Windows-WindowsUpdateClient",
+                          "Message":  "Falha na Instalação: o Windows não pôde instalar a seguinte atualização com o erro 0x80073D02: 9MSMLRH6LZF3-Microsoft.WindowsNotepad.\r\n",
+                          "EventID":  20
+                      }
+                  ],
+    "Security":  {
+                     "Firewall":  [
+                                      {
+                                          "Profile":  "Domain",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Private",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      },
+                                      {
+                                          "Profile":  "Public",
+                                          "Enabled":  1,
+                                          "DefaultIn":  4,
+                                          "DefaultOut":  2
+                                      }
+                                  ],
+                     "Antivirus":  [
+                                       {
+                                           "Name":  "Windows Defender",
+                                           "State":  "Inativo",
+                                           "Updated":  "Desatualizado"
+                                       }
+                                   ]
+                 }
+}

@@ -264,6 +264,14 @@
         "CollectionMode":  "Completo"
     },
     {
+        "Hostname":  "TI-REDES-ADM",
+        "Json":  "machines/TI-REDES-ADM.json",
+        "TimestampUtc":  "2026-07-29T19:37:17.8257776Z",
+        "Status":  "Atenção",
+        "OS":  "Microsoft Windows 11 Pro",
+        "CollectionMode":  "Completo"
+    },
+    {
         "Hostname":  "VM-BALANCA",
         "Json":  "machines/VM-BALANCA.json",
         "TimestampUtc":  "2025-12-31T12:30:56.4146495Z",
